@@ -1,0 +1,786 @@
+,PC #,Date,Location,Time Bin,Observer,Start Time,End Time,Weather,Precipitation,Wind,Temperature,eBird Link,Notes,Jon's problem checker,Start_Datetime,End_Datetime,Date_completeness
+0,1,10/6/2023,A1,Morning (7-9am),SRG,7:57,8:07,Sunny,Dry,Calm,66,https://ebird.org/checklist/S151543374,,-,2023-10-06 07:57:00,2023-10-06 08:07:00,1.0
+1,2,10/6/2023,A2,Morning (7-9am),SRG,8:10,8:20,Sunny,Dry,Calm,67,https://ebird.org/checklist/S151544169,gateway construction,-,2023-10-06 08:10:00,2023-10-06 08:20:00,1.0
+2,3,10/6/2023,A3,Morning (7-9am),SRG,8:26,8:37,Sunny,Dry,Calm,68,https://ebird.org/checklist/S151545326,gateway construction,-,2023-10-06 08:26:00,2023-10-06 08:37:00,1.0
+3,4,10/6/2023,A4,Morning (7-9am),SRG,8:38,8:48,Sunny,Dry,Calm,69,https://ebird.org/checklist/S151546308,,-,2023-10-06 08:38:00,2023-10-06 08:48:00,1.0
+4,5,10/6/2023,A5,Morning (7-9am),SRG,8:49,8:59,Sunny,Dry,Calm,69,https://ebird.org/checklist/S151547250,,-,2023-10-06 08:49:00,2023-10-06 08:59:00,1.0
+5,6,10/6/2023,A6,Morning (7-9am),SRG,9:01,9:11,Sunny,Dry,Calm,71,https://ebird.org/checklist/S151548225,,-,2023-10-06 09:01:00,2023-10-06 09:11:00,1.0
+6,7,10/6/2023,C1,Mid-day (11am-1pm),LSW,11:40,11:50,Sunny,Dry,Calm,77,https://ebird.org/checklist/S151559799,construction going on at Engineering Center - loud drilling and vehicle movement,-,2023-10-06 11:40:00,2023-10-06 11:50:00,1.0
+7,8,10/6/2023,C2,Mid-day (11am-1pm),LSW,11:54,12:04,Sunny,Dry,Calm,79,https://ebird.org/checklist/S151560761,"Cal-nival going on, lots of noise from generators, golfcarts, music, and truck unloading (by Campanile and on Memorial Glade",-,2023-10-06 11:54:00,2023-10-06 12:04:00,1.0
+8,9,10/6/2023,C3,Mid-day (11am-1pm),LSW,12:10,12:20,Sunny,Dry,Calm,79,https://ebird.org/checklist/S151561718,"also lots of noise here, Campanile playing chimes, large tents and lots of foot/vehicle traffic",-,2023-10-06 12:10:00,2023-10-06 12:20:00,1.0
+9,10,10/6/2023,C4,Mid-day (11am-1pm),LSW,12:24,12:34,Sunny,Dry,Calm,81,https://ebird.org/checklist/S151562514,,-,2023-10-06 12:24:00,2023-10-06 12:34:00,1.0
+10,11,10/6/2023,C5,Mid-day (11am-1pm),LSW,12:36,12:46,Sunny,Dry,Calm,81,https://ebird.org/checklist/S151563298,"construction in South Circle west of Dwinelle Hall, extremely loud - moved to entrance of Durham Studio Theater because the exact C5 location was blocked by construction fencing",-,2023-10-06 12:36:00,2023-10-06 12:46:00,1.0
+11,12,10/6/2023,C6,Mid-day (11am-1pm),LSW,12:50,13:00,Sunny,Dry,Calm,81,https://ebird.org/checklist/S151564175,no sp. seen,-,2023-10-06 12:50:00,2023-10-06 13:00:00,1.0
+12,13,10/6/2023,A1,Evening (3-5pm),SRG,15:25,15:35,Sunny,Dry,Calm,91,https://ebird.org/checklist/S151574381,,-,2023-10-06 15:25:00,2023-10-06 15:35:00,1.0
+13,14,10/6/2023,A2,Evening (3-5pm),SRG,15:38,15:49,Sunny,Dry,Calm,91,https://ebird.org/checklist/S151575194,construction stopped for the day,-,2023-10-06 15:38:00,2023-10-06 15:49:00,1.0
+14,15,10/6/2023,A3,Evening (3-5pm),SRG,15:53,16:02,Sunny,Dry,Calm,90,https://ebird.org/checklist/S151576065,,-,2023-10-06 15:53:00,2023-10-06 16:02:00,1.0
+15,16,10/6/2023,A4,Evening (3-5pm),SRG,16:05,16:15,Sunny,Dry,Calm,90,https://ebird.org/checklist/S151576649,,-,2023-10-06 16:05:00,2023-10-06 16:15:00,1.0
+16,17,10/6/2023,A5,Evening (3-5pm),SRG,16:16,16:25,Sunny,Dry,Calm,90,https://ebird.org/checklist/S151577201,,-,2023-10-06 16:16:00,2023-10-06 16:25:00,1.0
+17,18,10/6/2023,A6,Evening (3-5pm),SRG,16:27,16:38,Sunny,Dry,Calm,90,https://ebird.org/checklist/S151577812,,-,2023-10-06 16:27:00,2023-10-06 16:38:00,1.0
+18,19,10/12/2023,B1,Morning (7-9am),SRG,8:03,8:12,Sunny,Dry,Calm,55,https://ebird.org/checklist/S152014131,,-,2023-10-12 08:03:00,2023-10-12 08:12:00,1.0
+19,20,10/12/2023,B2,Morning (7-9am),SRG,8:15,8:24,Sunny,Dry,Calm,55,https://ebird.org/checklist/S152014904,,-,2023-10-12 08:15:00,2023-10-12 08:24:00,1.0
+20,21,10/12/2023,B3,Morning (7-9am),SRG,8:27,8:37,Sunny,Dry,Calm,57,https://ebird.org/checklist/S152015947,,-,2023-10-12 08:27:00,2023-10-12 08:37:00,1.0
+21,22,10/12/2023,B4,Morning (7-9am),SRG,8:38,8:48,Sunny,Dry,Calm,57,https://ebird.org/checklist/S152016715,,-,2023-10-12 08:38:00,2023-10-12 08:48:00,1.0
+22,23,10/12/2023,B5,Morning (7-9am),SRG,8:50,9:00,Sunny,Dry,Calm,57,https://ebird.org/checklist/S152021837,,-,2023-10-12 08:50:00,2023-10-12 09:00:00,1.0
+23,24,10/12/2023,B6,Morning (7-9am),SRG,9:02,9:11,Sunny,Dry,Calm,57,https://ebird.org/checklist/S152018390,,-,2023-10-12 09:02:00,2023-10-12 09:11:00,1.0
+24,25,10/12/2023,A6,Mid-day (11am-1pm),SRG,11:54,12:04,Sunny,Dry,Calm,69,https://ebird.org/checklist/S152029889,,-,2023-10-12 11:54:00,2023-10-12 12:04:00,1.0
+25,26,10/12/2023,A5,Mid-day (11am-1pm),SRG,12:06,12:16,Sunny,Dry,Calm,69,https://ebird.org/checklist/S152030552,,-,2023-10-12 12:06:00,2023-10-12 12:16:00,1.0
+26,27,10/12/2023,A4,Mid-day (11am-1pm),SRG,12:17,12:27,Sunny,Dry,Calm,69,https://ebird.org/checklist/S152031318,,-,2023-10-12 12:17:00,2023-10-12 12:27:00,1.0
+27,28,10/12/2023,A3,Mid-day (11am-1pm),SRG,12:29,12:39,Sunny,Dry,Calm,71,https://ebird.org/checklist/S152032041,,-,2023-10-12 12:29:00,2023-10-12 12:39:00,1.0
+28,29,10/12/2023,A2,Mid-day (11am-1pm),SRG,12:44,12:54,Sunny,Dry,Calm,72,https://ebird.org/checklist/S152033051,Construction,-,2023-10-12 12:44:00,2023-10-12 12:54:00,1.0
+29,30,10/12/2023,A1,Mid-day (11am-1pm),SRG,12:57,13:07,Sunny,Dry,Calm,72,https://ebird.org/checklist/S152034061,,-,2023-10-12 12:57:00,2023-10-12 13:07:00,1.0
+30,31,10/12/2023,A1,Evening (3-5pm),SUC,15:58,16:08,Partial Cloudy,Dry,Slight Wind,-100,https://ebird.org/checklist/S152985127,,missing data?,2023-10-12 15:58:00,2023-10-12 16:08:00,1.0
+31,32,10/12/2023,A2,Evening (3-5pm),SUC,16:11,16:21,Partial Cloudy,Dry,Slight Wind,-100,https://ebird.org/checklist/S152985590,,missing data?,2023-10-12 16:11:00,2023-10-12 16:21:00,1.0
+32,33,10/12/2023,A3,Evening (3-5pm),SUC,16:29,16:39,Partial Cloudy,Dry,Slight Wind,-100,https://ebird.org/checklist/S152985792,Gateway Construction,missing data?,2023-10-12 16:29:00,2023-10-12 16:39:00,1.0
+33,34,10/12/2023,A4,Evening (3-5pm),SUC,16:41,16:51,Partial Cloudy,Dry,Slight Wind,-100,https://ebird.org/checklist/S152986023,,missing data?,2023-10-12 16:41:00,2023-10-12 16:51:00,1.0
+34,35,10/12/2023,A5,Evening (3-5pm),SUC,16:53,17:03,Partial Cloudy,Dry,Slight Wind,-100,https://ebird.org/checklist/S152986248,,missing data?,2023-10-12 16:53:00,2023-10-12 17:03:00,1.0
+35,36,10/12/2023,A6,Evening (3-5pm),SUC,17:06,17:16,Partial Cloudy,Dry,Slight Wind,-100,https://ebird.org/checklist/S152986407,,missing data?,2023-10-12 17:06:00,2023-10-12 17:16:00,1.0
+36,37,10/14/2023,C1,Morning (7-9am),SRG,7:53,8:03,Cloudy,Fog,Calm,59,https://ebird.org/checklist/S152170873,Construction drilling,-,2023-10-14 07:53:00,2023-10-14 08:03:00,0.6666666666666666
+37,38,10/14/2023,C2,Morning (7-9am),SRG,8:07,8:16,Cloudy,Fog,Calm,59,https://ebird.org/checklist/S152172659,,-,2023-10-14 08:07:00,2023-10-14 08:16:00,0.6666666666666666
+38,39,10/14/2023,C3,Morning (7-9am),SRG,8:18,8:28,Cloudy,Fog,Calm,59,https://ebird.org/checklist/S152174633,,-,2023-10-14 08:18:00,2023-10-14 08:28:00,0.6666666666666666
+39,40,10/14/2023,C4,Morning (7-9am),SRG,8:30,8:39,Cloudy,Fog,Calm,60,https://ebird.org/checklist/S152176664,Bunch of tables and people,-,2023-10-14 08:30:00,2023-10-14 08:39:00,0.6666666666666666
+40,41,10/14/2023,C5,Morning (7-9am),SRG,8:41,8:51,Cloudy,Fog,Calm,61,https://ebird.org/checklist/S152178710,Most of lot is blocked off by construction fencing,-,2023-10-14 08:41:00,2023-10-14 08:51:00,0.6666666666666666
+41,42,10/14/2023,C6,Morning (7-9am),SRG,8:55,9:05,Cloudy,Fog,Calm,61,https://ebird.org/checklist/S152180476,,-,2023-10-14 08:55:00,2023-10-14 09:05:00,0.6666666666666666
+42,43,10/14/2023,A1,Mid-day (11am-1pm),SRG,11:54,12:04,,Dry,Calm,68,https://ebird.org/checklist/S152208915,,missing data?,2023-10-14 11:54:00,2023-10-14 12:04:00,0.6666666666666666
+43,44,10/14/2023,A2,Mid-day (11am-1pm),SRG,12:06,12:16,,Dry,Calm,68,https://ebird.org/checklist/S152210665,,missing data?,2023-10-14 12:06:00,2023-10-14 12:16:00,0.6666666666666666
+44,45,10/14/2023,A3,Mid-day (11am-1pm),SRG,12:22,12:32,,Dry,Calm,68,https://ebird.org/checklist/S152212734,Construction,missing data?,2023-10-14 12:22:00,2023-10-14 12:32:00,0.6666666666666666
+45,46,10/14/2023,A4,Mid-day (11am-1pm),SRG,12:33,12:43,,Dry,Calm,68,https://ebird.org/checklist/S152214243,,missing data?,2023-10-14 12:33:00,2023-10-14 12:43:00,0.6666666666666666
+46,47,10/14/2023,A5,Mid-day (11am-1pm),SRG,12:44,12:53,,Dry,Calm,70,https://ebird.org/checklist/S152215526,Whirring from Weil Hall.,missing data?,2023-10-14 12:44:00,2023-10-14 12:53:00,0.6666666666666666
+47,48,10/14/2023,A6,Mid-day (11am-1pm),SRG,12:56,13:05,,Dry,Calm,70,https://ebird.org/checklist/S152216973,,missing data?,2023-10-14 12:56:00,2023-10-14 13:05:00,0.6666666666666666
+48,49,10/20/2023,B1,Morning (7-9am),SRG,7:48,7:58,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S152669368,,-,2023-10-20 07:48:00,2023-10-20 07:58:00,1.0
+49,50,10/20/2023,B2,Morning (7-9am),SRG,8:00,8:11,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S152670312,,-,2023-10-20 08:00:00,2023-10-20 08:11:00,1.0
+50,51,10/20/2023,B3,Morning (7-9am),SRG,8:15,8:25,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S152671364,,-,2023-10-20 08:15:00,2023-10-20 08:25:00,1.0
+51,52,10/20/2023,B4,Morning (7-9am),SRG,8:26,8:36,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S152672326,Some machinery noise.,-,2023-10-20 08:26:00,2023-10-20 08:36:00,1.0
+52,53,10/20/2023,B5,Morning (7-9am),SRG,8:39,8:49,Cloudy,Drizzle,Slight Wind,59,https://ebird.org/checklist/S152673298,Lots of noise from Weil Hall and across the street,-,2023-10-20 08:39:00,2023-10-20 08:49:00,1.0
+53,54,10/20/2023,B6,Morning (7-9am),SRG,8:52,9:01,Cloudy,Drizzle,Slight Wind,59,https://ebird.org/checklist/S152674059,,-,2023-10-20 08:52:00,2023-10-20 09:01:00,1.0
+54,55,10/20/2023,C1,Mid-day (11am-1pm),LSW,11:00,11:10,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S152683390,loud construction beside Evan's Hall entrance,-,2023-10-20 11:00:00,2023-10-20 11:10:00,1.0
+55,56,10/20/2023,C2,Mid-day (11am-1pm),LSW,11:16,11:26,Partial Cloudy,Dry,Slight Wind,64,https://ebird.org/checklist/S152684479,,-,2023-10-20 11:16:00,2023-10-20 11:26:00,1.0
+56,57,10/20/2023,C3,Mid-day (11am-1pm),LSW,11:32,11:42,Partial Cloudy,Dry,Slight Wind,64,https://ebird.org/checklist/S152685365,,-,2023-10-20 11:32:00,2023-10-20 11:42:00,1.0
+57,58,10/20/2023,C4,Mid-day (11am-1pm),LSW,11:46,11:56,Cloudy,Dry,Calm,65,https://ebird.org/checklist/S152686230,,-,2023-10-20 11:46:00,2023-10-20 11:56:00,1.0
+58,59,10/20/2023,C5,Mid-day (11am-1pm),LSW,12:04,12:14,Cloudy,Dry,Windy,66,https://ebird.org/checklist/S152687750,"construction in traffic circle, C5 blocked so I stood in front of Durham Studio Theatre - path between C4-C5 blocked due to construction so I headed north from C4 and turned west after passing Dwinelle, then turned south to reach C5",-,2023-10-20 12:04:00,2023-10-20 12:14:00,1.0
+59,60,10/20/2023,C6,Mid-day (11am-1pm),LSW,12:24,12:34,Cloudy,Dry,Slight Wind,66,https://ebird.org/checklist/S152689622,,-,2023-10-20 12:24:00,2023-10-20 12:34:00,1.0
+60,61,10/20/2023,A1,Evening (3-5pm),SRG,15:04,15:14,Partial Cloudy,Dry,Slight Wind,65,https://ebird.org/checklist/S152698733,,-,2023-10-20 15:04:00,2023-10-20 15:14:00,1.0
+61,62,10/20/2023,A2,Evening (3-5pm),SRG,15:17,15:27,Partial Cloudy,Dry,Slight Wind,65,https://ebird.org/checklist/S152699554,,-,2023-10-20 15:17:00,2023-10-20 15:27:00,1.0
+62,63,10/20/2023,A3,Evening (3-5pm),SRG,15:35,15:44,Partial Cloudy,Dry,Slight Wind,65,https://ebird.org/checklist/S152700565,,-,2023-10-20 15:35:00,2023-10-20 15:44:00,1.0
+63,64,10/20/2023,A4,Evening (3-5pm),SRG,15:46,15:56,Partial Cloudy,Dry,Slight Wind,64,https://ebird.org/checklist/S152701221,Loud music playing from West Circle,-,2023-10-20 15:46:00,2023-10-20 15:56:00,1.0
+64,65,10/20/2023,A5,Evening (3-5pm),SRG,15:58,16:08,Partial Cloudy,Dry,Slight Wind,64,https://ebird.org/checklist/S152701795,,-,2023-10-20 15:58:00,2023-10-20 16:08:00,1.0
+65,66,10/20/2023,A6,Evening (3-5pm),SRG,16:09,16:19,Partial Cloudy,Dry,Slight Wind,64,https://ebird.org/checklist/S152702401,,-,2023-10-20 16:09:00,2023-10-20 16:19:00,1.0
+66,67,10/22/2023,A1,Morning (7-9am),SRG,7:43,7:53,Cloudy,Drizzle,Calm,58,https://ebird.org/checklist/S152824606,,-,2023-10-22 07:43:00,2023-10-22 07:53:00,1.0
+67,68,10/22/2023,A2,Morning (7-9am),SRG,7:55,8:05,Cloudy,Drizzle,Calm,58,https://ebird.org/checklist/S152826043,,-,2023-10-22 07:55:00,2023-10-22 08:05:00,1.0
+68,69,10/22/2023,A3,Morning (7-9am),SRG,8:11,8:21,Cloudy,Drizzle,Calm,58,https://ebird.org/checklist/S152827715,,-,2023-10-22 08:11:00,2023-10-22 08:21:00,1.0
+69,70,10/22/2023,A4,Morning (7-9am),SRG,8:22,8:31,Cloudy,Drizzle,Calm,60,https://ebird.org/checklist/S152828870,,-,2023-10-22 08:22:00,2023-10-22 08:31:00,1.0
+70,71,10/22/2023,A5,Morning (7-9am),SRG,8:33,8:42,Cloudy,Drizzle,Calm,61,https://ebird.org/checklist/S152830070,,-,2023-10-22 08:33:00,2023-10-22 08:42:00,1.0
+71,72,10/22/2023,A6,Morning (7-9am),SRG,8:45,8:55,Cloudy,Drizzle,Calm,61,https://ebird.org/checklist/S152831272,,-,2023-10-22 08:45:00,2023-10-22 08:55:00,1.0
+72,73,10/22/2023,C1,Mid-day (11am-1pm),SRG,11:46,11:55,Cloudy,Rain,Calm,65,https://ebird.org/checklist/S152849759,,-,2023-10-22 11:46:00,2023-10-22 11:55:00,1.0
+73,74,10/22/2023,C2,Mid-day (11am-1pm),SRG,11:57,12:07,Cloudy,Rain,Calm,65,https://ebird.org/checklist/S152850688,,-,2023-10-22 11:57:00,2023-10-22 12:07:00,1.0
+74,75,10/22/2023,C3,Mid-day (11am-1pm),SRG,12:09,12:20,Cloudy,Rain,Calm,65,https://ebird.org/checklist/S152851783,,-,2023-10-22 12:09:00,2023-10-22 12:20:00,1.0
+75,76,10/22/2023,C4,Mid-day (11am-1pm),SRG,12:22,12:32,Cloudy,Rain,Calm,65,https://ebird.org/checklist/S152852833,,-,2023-10-22 12:22:00,2023-10-22 12:32:00,1.0
+76,77,10/22/2023,C5,Mid-day (11am-1pm),SRG,12:34,12:44,Cloudy,Rain,Calm,65,https://ebird.org/checklist/S152853841,,-,2023-10-22 12:34:00,2023-10-22 12:44:00,1.0
+77,78,10/22/2023,C6,Mid-day (11am-1pm),SRG,12:47,12:56,Cloudy,Drizzle,Calm,64,https://ebird.org/checklist/S152854965,,-,2023-10-22 12:47:00,2023-10-22 12:56:00,1.0
+78,79,10/22/2023,B6,Evening (3-5pm),SRG,14:56,15:06,Cloudy,Drizzle,Calm,63,https://ebird.org/checklist/S152865708,,-,2023-10-22 14:56:00,2023-10-22 15:06:00,1.0
+79,80,10/22/2023,B5,Evening (3-5pm),SRG,15:07,15:17,Cloudy,Drizzle,Calm,63,https://ebird.org/checklist/S152866660,Loud whirring,-,2023-10-22 15:07:00,2023-10-22 15:17:00,1.0
+80,81,10/22/2023,B4,Evening (3-5pm),SRG,15:19,15:29,Cloudy,Drizzle,Calm,63,https://ebird.org/checklist/S152867630,,-,2023-10-22 15:19:00,2023-10-22 15:29:00,1.0
+81,82,10/22/2023,B3,Evening (3-5pm),SRG,15:29,15:39,Cloudy,Drizzle,Calm,63,https://ebird.org/checklist/S152868406,,-,2023-10-22 15:29:00,2023-10-22 15:39:00,1.0
+82,83,10/22/2023,B2,Evening (3-5pm),SRG,15:41,15:50,Cloudy,Dry,Calm,63,https://ebird.org/checklist/S152869156,,-,2023-10-22 15:41:00,2023-10-22 15:50:00,1.0
+83,84,10/22/2023,B1,Evening (3-5pm),SRG,15:52,16:02,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S152869998,,-,2023-10-22 15:52:00,2023-10-22 16:02:00,1.0
+84,85,10/25/2023,B1,Morning (7-9am),LSW,7:01,7:11,Sunny,Dry,Calm,52,https://ebird.org/checklist/S153034870,first PC was still a little dusky at start but brightened after a couple minutes,-,2023-10-25 07:01:00,2023-10-25 07:11:00,1.0
+85,86,10/25/2023,B2,Morning (7-9am),LSW,7:17,7:27,Sunny,Dry,Calm,52,https://ebird.org/checklist/S153036019,,-,2023-10-25 07:17:00,2023-10-25 07:27:00,1.0
+86,87,10/25/2023,B3,Morning (7-9am),LSW,7:33,7:43,Sunny,Dry,Calm,52,https://ebird.org/checklist/S153036919,,-,2023-10-25 07:33:00,2023-10-25 07:43:00,1.0
+87,88,10/25/2023,B4,Morning (7-9am),LSW,7:46,7:56,Sunny,Dry,Calm,52,https://ebird.org/checklist/S153037735,loud construction ongoing in fenced off area by B4 and behind in Dwinelle traffic circle - hard to hear,-,2023-10-25 07:46:00,2023-10-25 07:56:00,1.0
+88,89,10/25/2023,B5,Morning (7-9am),LSW,8:00,8:10,Sunny,Dry,Calm,53,https://ebird.org/checklist/S153038622,loud equipment across the creek,-,2023-10-25 08:00:00,2023-10-25 08:10:00,1.0
+89,90,10/25/2023,B6,Morning (7-9am),LSW,8:13,8:23,Sunny,Dry,Calm,53,https://ebird.org/checklist/S153039505,,-,2023-10-25 08:13:00,2023-10-25 08:23:00,1.0
+90,91,10/25/2023,C1,Mid-day (11am-1pm),SRG,12:12,12:22,Partial Cloudy,Dry,Calm,63,https://ebird.org/checklist/S153054034,,-,2023-10-25 12:12:00,2023-10-25 12:22:00,1.0
+91,92,10/25/2023,C2,Mid-day (11am-1pm),SRG,12:24,12:33,Partial Cloudy,Dry,Calm,63,https://ebird.org/checklist/S153054613,,-,2023-10-25 12:24:00,2023-10-25 12:33:00,1.0
+92,93,10/25/2023,C3,Mid-day (11am-1pm),SRG,12:36,12:45,Partial Cloudy,Dry,Calm,63,https://ebird.org/checklist/S153055301,,-,2023-10-25 12:36:00,2023-10-25 12:45:00,1.0
+93,94,10/25/2023,C4,Mid-day (11am-1pm),SRG,12:47,12:57,Partial Cloudy,Dry,Calm,63,https://ebird.org/checklist/S153056045,protest at sather gate,-,2023-10-25 12:47:00,2023-10-25 12:57:00,1.0
+94,95,10/25/2023,C5,Mid-day (11am-1pm),SRG,13:01,13:10,Partial Cloudy,Dry,Calm,64,https://ebird.org/checklist/S153056746,construction,-,2023-10-25 13:01:00,2023-10-25 13:10:00,1.0
+95,96,10/25/2023,C6,Mid-day (11am-1pm),SRG,13:12,13:21,Partial Cloudy,Dry,Calm,64,https://ebird.org/checklist/S153057416,,-,2023-10-25 13:12:00,2023-10-25 13:21:00,1.0
+96,97,10/25/2023,A6,Evening (3-5pm),SRG,15:50,16:00,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S153066296,,-,2023-10-25 15:50:00,2023-10-25 16:00:00,1.0
+97,98,10/25/2023,A5,Evening (3-5pm),SRG,16:02,16:12,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S153066906,,-,2023-10-25 16:02:00,2023-10-25 16:12:00,1.0
+98,99,10/25/2023,A4,Evening (3-5pm),SRG,16:14,16:24,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S153067473,,-,2023-10-25 16:14:00,2023-10-25 16:24:00,1.0
+99,100,10/25/2023,A3,Evening (3-5pm),SRG,16:26,16:36,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S153067949,construction,-,2023-10-25 16:26:00,2023-10-25 16:36:00,1.0
+100,101,10/25/2023,A2,Evening (3-5pm),SRG,16:41,16:51,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S153068594,,-,2023-10-25 16:41:00,2023-10-25 16:51:00,1.0
+101,102,10/25/2023,A1,Evening (3-5pm),SRG,16:54,17:04,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S153071767,,-,2023-10-25 16:54:00,2023-10-25 17:04:00,1.0
+102,103,10/28/2023,C1,Morning (7-9am),SRG,7:48,7:58,Sunny,Dry,Calm,45,https://ebird.org/checklist/S153243432,construction,-,2023-10-28 07:48:00,2023-10-28 07:58:00,1.0
+103,104,10/28/2023,C2,Morning (7-9am),SRG,7:59,8:09,Sunny,Dry,Calm,46,https://ebird.org/checklist/S153244520,construction,-,2023-10-28 07:59:00,2023-10-28 08:09:00,1.0
+104,105,10/28/2023,C3,Morning (7-9am),SRG,8:12,8:22,Sunny,Dry,Calm,46,https://ebird.org/checklist/S153245664,,-,2023-10-28 08:12:00,2023-10-28 08:22:00,1.0
+105,106,10/28/2023,C4,Morning (7-9am),SRG,8:24,8:34,Sunny,Dry,Calm,46,https://ebird.org/checklist/S153246820,,-,2023-10-28 08:24:00,2023-10-28 08:34:00,1.0
+106,107,10/28/2023,C5,Morning (7-9am),SRG,8:36,8:46,Sunny,Dry,Calm,48,https://ebird.org/checklist/S153248145,,-,2023-10-28 08:36:00,2023-10-28 08:46:00,1.0
+107,108,10/28/2023,C6,Morning (7-9am),SRG,8:50,9:00,Sunny,Dry,Calm,48,https://ebird.org/checklist/S153249436,,-,2023-10-28 08:50:00,2023-10-28 09:00:00,1.0
+108,109,10/28/2023,C1,Mid-day (11am-1pm),SUC,11:45,11:55,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S153290907,Bechtel Center construction,-,2023-10-28 11:45:00,2023-10-28 11:55:00,1.0
+109,110,10/28/2023,C2,Mid-day (11am-1pm),SUC,11:57,12:07,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S153291093,Campanile music + marching band rally --> really hard to hear birbs,-,2023-10-28 11:57:00,2023-10-28 12:07:00,1.0
+110,111,10/28/2023,C3,Mid-day (11am-1pm),SUC,12:11,12:21,Sunny,Dry,Calm,61,https://ebird.org/checklist/S153291457,"Campanile music, hard to hear stuff, they were playing ""This is Hallowe'en""!",-,2023-10-28 12:11:00,2023-10-28 12:21:00,1.0
+111,112,10/28/2023,C4,Mid-day (11am-1pm),SUC,12:25,12:35,Sunny,Dry,Calm,61,https://ebird.org/checklist/S153931438,,-,2023-10-28 12:25:00,2023-10-28 12:35:00,1.0
+112,113,10/28/2023,C5,Mid-day (11am-1pm),SUC,12:38,12:48,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S153932644,"Barbecues in dwinelle lot, did count a bit to the north because roundabout not accessible",-,2023-10-28 12:38:00,2023-10-28 12:48:00,1.0
+113,114,10/28/2023,C6,Mid-day (11am-1pm),SUC,12:51,13:01,Sunny,Dry,Calm,63,https://ebird.org/checklist/S153932838,,-,2023-10-28 12:51:00,2023-10-28 13:01:00,1.0
+114,115,10/28/2023,B1,Evening (3-5pm),SUC,15:48,15:58,Sunny,Dry,Slight Wind,67,https://ebird.org/checklist/S159137336,,-,2023-10-28 15:48:00,2023-10-28 15:58:00,1.0
+115,116,10/28/2023,B2,Evening (3-5pm),SUC,15:59,16:09,Sunny,Dry,Calm,67,https://ebird.org/checklist/S159142225,,-,2023-10-28 15:59:00,2023-10-28 16:09:00,1.0
+116,117,10/28/2023,B3,Evening (3-5pm),SUC,16:10,16:20,Sunny,Dry,Calm,67,https://ebird.org/checklist/S159157029,,-,2023-10-28 16:10:00,2023-10-28 16:20:00,1.0
+117,118,10/28/2023,B4,Evening (3-5pm),SUC,16:24,16:34,Sunny,Dry,Slight Wind,66,https://ebird.org/checklist/S159158577,,-,2023-10-28 16:24:00,2023-10-28 16:34:00,1.0
+118,119,10/28/2023,B5,Evening (3-5pm),SUC,16:36,16:46,Sunny,Dry,Slight Wind,65,https://ebird.org/checklist/S159160150,,-,2023-10-28 16:36:00,2023-10-28 16:46:00,1.0
+119,120,10/28/2023,B6,Evening (3-5pm),SUC,16:49,16:59,Sunny,Dry,Slight Wind,65,https://ebird.org/checklist/S159160500,,-,2023-10-28 16:49:00,2023-10-28 16:59:00,1.0
+120,121,10/31/2023,B1,Morning (7-9am),SRG,7:59,8:09,Partial Cloudy,Dry,Calm,50,https://ebird.org/checklist/S153469720,,-,2023-10-31 07:59:00,2023-10-31 08:09:00,1.0
+121,122,10/31/2023,B2,Morning (7-9am),SRG,8:11,8:21,Partial Cloudy,Dry,Calm,51,https://ebird.org/checklist/S153470595,,-,2023-10-31 08:11:00,2023-10-31 08:21:00,1.0
+122,123,10/31/2023,B3,Morning (7-9am),SRG,8:24,8:34,Partial Cloudy,Dry,Calm,51,https://ebird.org/checklist/S153471503,,-,2023-10-31 08:24:00,2023-10-31 08:34:00,1.0
+123,124,10/31/2023,B4,Morning (7-9am),SRG,8:35,8:45,Partial Cloudy,Dry,Calm,51,https://ebird.org/checklist/S153472176,construction,-,2023-10-31 08:35:00,2023-10-31 08:45:00,1.0
+124,125,10/31/2023,B5,Morning (7-9am),SRG,8:47,8:57,Partial Cloudy,Dry,Calm,52,https://ebird.org/checklist/S153472925,Whirring from Weil,-,2023-10-31 08:47:00,2023-10-31 08:57:00,1.0
+125,126,10/31/2023,B6,Morning (7-9am),SRG,8:59,9:09,Partial Cloudy,Dry,Calm,52,https://ebird.org/checklist/S153473594,,-,2023-10-31 08:59:00,2023-10-31 09:09:00,1.0
+126,127,10/31/2023,B6,Mid-day (11am-1pm),SRG,10:56,11:06,Partial Cloudy,Dry,Slight Wind,61,https://ebird.org/checklist/S153480601,,-,2023-10-31 10:56:00,2023-10-31 11:06:00,1.0
+127,128,10/31/2023,B5,Mid-day (11am-1pm),SRG,11:08,11:18,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S153481128,Whirring from Weil,-,2023-10-31 11:08:00,2023-10-31 11:18:00,1.0
+128,129,10/31/2023,B4,Mid-day (11am-1pm),SRG,11:20,11:30,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S153481814,construction,-,2023-10-31 11:20:00,2023-10-31 11:30:00,1.0
+129,130,10/31/2023,B3,Mid-day (11am-1pm),SRG,11:32,11:42,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S153482380,,-,2023-10-31 11:32:00,2023-10-31 11:42:00,1.0
+130,131,10/31/2023,B2,Mid-day (11am-1pm),SRG,11:45,11:55,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S153483118,,-,2023-10-31 11:45:00,2023-10-31 11:55:00,1.0
+131,132,10/31/2023,B1,Mid-day (11am-1pm),SRG,11:57,12:07,Partial Cloudy,Dry,Slight Wind,64,https://ebird.org/checklist/S153483843,,-,2023-10-31 11:57:00,2023-10-31 12:07:00,1.0
+132,133,10/31/2023,A1,Evening (3-5pm),SUC,15:20,15:30,Partial Cloudy,Dry,Slight Wind,74,https://ebird.org/checklist/S159161062,"someone blasting ""numa numa"" (dragostea din tei) so couldn't hear much",-,2023-10-31 15:20:00,2023-10-31 15:30:00,1.0
+133,134,10/31/2023,A2,Evening (3-5pm),SUC,15:34,15:44,Sunny,Dry,Slight Wind,75,https://ebird.org/checklist/S159162351,"loud construction by University House, obscured a lot of the bird calls",-,2023-10-31 15:34:00,2023-10-31 15:44:00,1.0
+134,135,10/31/2023,A3,Evening (3-5pm),SUC,15:52,16:02,Sunny,Dry,Slight Wind,75,https://ebird.org/checklist/S159163171,loud powerwashing by Genetics and Plant Bio building - could not hear much,-,2023-10-31 15:52:00,2023-10-31 16:02:00,1.0
+135,136,10/31/2023,A4,Evening (3-5pm),SUC,16:06,16:16,Sunny,Dry,Windy,75,https://ebird.org/checklist/S171191903,,-,2023-10-31 16:06:00,2023-10-31 16:16:00,1.0
+136,137,10/31/2023,A5,Evening (3-5pm),SUC,16:19,16:29,Sunny,Dry,Calm,75,https://ebird.org/checklist/S171193710,very quiet today; ac so hard to hear,-,2023-10-31 16:19:00,2023-10-31 16:29:00,1.0
+137,138,10/31/2023,A6,Evening (3-5pm),SUC,16:40,16:50,Sunny,Dry,Slight Wind,75,https://ebird.org/checklist/S171196161,[illegible],-,2023-10-31 16:40:00,2023-10-31 16:50:00,1.0
+138,139,11/1/2023,A1,Morning (7-9am),LSW,7:17,7:27,Sunny,Dry,Calm,52,https://ebird.org/checklist/S153523646,,-,2023-11-01 07:17:00,2023-11-01 07:27:00,1.0
+139,140,11/1/2023,A2,Morning (7-9am),LSW,7:31,7:41,Sunny,Dry,Calm,51,https://ebird.org/checklist/S153524430,,-,2023-11-01 07:31:00,2023-11-01 07:41:00,1.0
+140,141,11/1/2023,A3,Morning (7-9am),LSW,7:54,8:04,Sunny,Dry,Calm,51,https://ebird.org/checklist/S153525696,,-,2023-11-01 07:54:00,2023-11-01 08:04:00,1.0
+141,142,11/1/2023,A4,Morning (7-9am),LSW,8:08,8:18,Sunny,Dry,Calm,52,https://ebird.org/checklist/S153526644,,-,2023-11-01 08:08:00,2023-11-01 08:18:00,1.0
+142,143,11/1/2023,A5,Morning (7-9am),LSW,8:21,8:31,Sunny,Dry,Calm,52,https://ebird.org/checklist/S153527350,,-,2023-11-01 08:21:00,2023-11-01 08:31:00,1.0
+143,144,11/1/2023,A6,Morning (7-9am),LSW,8:32,8:42,Sunny,Dry,Calm,52,https://ebird.org/checklist/S153528165,,-,2023-11-01 08:32:00,2023-11-01 08:42:00,1.0
+144,145,11/1/2023,C1,Mid-day (11am-1pm),SUC,11:05,11:15,Sunny,Dry,Slight Wind,-100,https://ebird.org/checklist/S171197078,,-,2023-11-01 11:05:00,2023-11-01 11:15:00,1.0
+145,146,11/1/2023,C2,Mid-day (11am-1pm),SUC,11:17,11:27,Sunny,Dry,Slight Wind,-100,https://ebird.org/checklist/S171198305,"so many birdlike non-bird sounds; gull-sounding rope, junco-sounding hammer",-,2023-11-01 11:17:00,2023-11-01 11:27:00,1.0
+146,147,11/1/2023,C3,Mid-day (11am-1pm),SUC,11:30,11:40,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S171201518,"weird sounds from the campanile, bird or not?",-,2023-11-01 11:30:00,2023-11-01 11:40:00,1.0
+147,148,11/1/2023,C4,Mid-day (11am-1pm),SUC,11:41,11:51,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S171204647,ppl w/ megaphone,-,2023-11-01 11:41:00,2023-11-01 11:51:00,1.0
+148,149,11/1/2023,C5,Mid-day (11am-1pm),SUC,11:53,12:03,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S171205594,"construction noise, couldn't hear anything",-,2023-11-01 11:53:00,2023-11-01 12:03:00,1.0
+149,150,11/1/2023,C6,Mid-day (11am-1pm),SUC,12:05,12:15,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S171206154,,-,2023-11-01 12:05:00,2023-11-01 12:15:00,1.0
+150,151,11/1/2023,A6,Evening (3-5pm),SRG,15:48,15:58,Partial Cloudy,Dry,Calm,73,https://ebird.org/checklist/S153554004,,-,2023-11-01 15:48:00,2023-11-01 15:58:00,1.0
+151,152,11/1/2023,A5,Evening (3-5pm),SRG,16:00,16:10,Partial Cloudy,Dry,Calm,73,https://ebird.org/checklist/S153554548,,-,2023-11-01 16:00:00,2023-11-01 16:10:00,1.0
+152,153,11/1/2023,A4,Evening (3-5pm),SRG,16:12,16:22,Partial Cloudy,Dry,Calm,73,https://ebird.org/checklist/S153555096,,-,2023-11-01 16:12:00,2023-11-01 16:22:00,1.0
+153,154,11/1/2023,A3,Evening (3-5pm),SRG,16:23,16:33,Partial Cloudy,Dry,Calm,73,https://ebird.org/checklist/S153555580,,-,2023-11-01 16:23:00,2023-11-01 16:33:00,1.0
+154,155,11/1/2023,A2,Evening (3-5pm),SRG,16:39,16:49,Partial Cloudy,Dry,Calm,73,https://ebird.org/checklist/S153556325,,-,2023-11-01 16:39:00,2023-11-01 16:49:00,1.0
+155,156,11/1/2023,A1,Evening (3-5pm),SRG,16:53,17:03,Partial Cloudy,Dry,Calm,73,https://ebird.org/checklist/S153556929,,-,2023-11-01 16:53:00,2023-11-01 17:03:00,1.0
+156,157,11/5/2023,B1,Morning (7-9am),SRG,7:51,8:01,Cloudy,Dry,Calm,59,https://ebird.org/checklist/S153809319,,-,2023-11-05 07:51:00,2023-11-05 08:01:00,1.0
+157,158,11/5/2023,B2,Morning (7-9am),SRG,8:04,8:14,Cloudy,Dry,Calm,59,https://ebird.org/checklist/S153810987,,-,2023-11-05 08:04:00,2023-11-05 08:14:00,1.0
+158,159,11/5/2023,B3,Morning (7-9am),SRG,8:18,9:28,Cloudy,Dry,Calm,59,https://ebird.org/checklist/S153812244,,-,2023-11-05 08:18:00,2023-11-05 09:28:00,1.0
+159,160,11/5/2023,B4,Morning (7-9am),SRG,8:32,8:42,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S153813930,,-,2023-11-05 08:32:00,2023-11-05 08:42:00,1.0
+160,161,11/5/2023,B5,Morning (7-9am),SRG,8:46,8:56,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S153815359,Whirring from Weil,-,2023-11-05 08:46:00,2023-11-05 08:56:00,1.0
+161,162,11/5/2023,B6,Morning (7-9am),SRG,9:00,9:11,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S153816909,,-,2023-11-05 09:00:00,2023-11-05 09:11:00,1.0
+162,163,11/5/2023,C1,Mid-day (11am-1pm),SRG,11:30,11:40,Cloudy,Dry,Slight Wind,65,https://ebird.org/checklist/S153832186,,-,2023-11-05 11:30:00,2023-11-05 11:40:00,1.0
+163,164,11/5/2023,C2,Mid-day (11am-1pm),SRG,11:42,11:52,Cloudy,Dry,Slight Wind,66,https://ebird.org/checklist/S153833143,,-,2023-11-05 11:42:00,2023-11-05 11:52:00,1.0
+164,165,11/5/2023,C3,Mid-day (11am-1pm),SRG,11:54,12:04,Cloudy,Dry,Slight Wind,67,https://ebird.org/checklist/S153834259,,-,2023-11-05 11:54:00,2023-11-05 12:04:00,1.0
+165,166,11/5/2023,C4,Mid-day (11am-1pm),SRG,12:06,12:16,Cloudy,Dry,Windy,67,https://ebird.org/checklist/S153835543,,-,2023-11-05 12:06:00,2023-11-05 12:16:00,1.0
+166,167,11/5/2023,C5,Mid-day (11am-1pm),SRG,12:18,12:28,Cloudy,Dry,Slight Wind,67,https://ebird.org/checklist/S153836653,A bunch of trees were cut since I was last here.,-,2023-11-05 12:18:00,2023-11-05 12:28:00,1.0
+167,168,11/5/2023,C6,Mid-day (11am-1pm),SRG,12:34,12:44,Cloudy,Dry,Slight Wind,67,https://ebird.org/checklist/S153838117,,-,2023-11-05 12:34:00,2023-11-05 12:44:00,1.0
+168,169,11/5/2023,A6,Evening (3-5pm),SRG,15:16,15:26,Cloudy,Dry,Slight Wind,66,https://ebird.org/checklist/S153852546,,-,2023-11-05 15:16:00,2023-11-05 15:26:00,1.0
+169,170,11/5/2023,A5,Evening (3-5pm),SRG,15:28,15:38,Cloudy,Dry,Slight Wind,66,https://ebird.org/checklist/S153853479,,-,2023-11-05 15:28:00,2023-11-05 15:38:00,1.0
+170,171,11/5/2023,A4,Evening (3-5pm),SRG,15:40,15:50,Cloudy,Dry,Slight Wind,66,https://ebird.org/checklist/S153854182,,-,2023-11-05 15:40:00,2023-11-05 15:50:00,1.0
+171,172,11/5/2023,A3,Evening (3-5pm),SRG,15:52,16:02,Cloudy,Dry,Slight Wind,66,https://ebird.org/checklist/S153854899,,-,2023-11-05 15:52:00,2023-11-05 16:02:00,1.0
+172,173,11/5/2023,A2,Evening (3-5pm),SRG,16:08,16:18,Cloudy,Dry,Slight Wind,66,https://ebird.org/checklist/S153855961,,-,2023-11-05 16:08:00,2023-11-05 16:18:00,1.0
+173,174,11/5/2023,A1,Evening (3-5pm),SRG,16:22,16:32,Cloudy,Dry,Slight Wind,65,https://ebird.org/checklist/S153856660,,-,2023-11-05 16:22:00,2023-11-05 16:32:00,1.0
+174,175,11/8/2023,B1,Morning (7-9am),SRG,7:48,7:58,Sunny,Dry,Calm,51,https://ebird.org/checklist/S154013513,,-,2023-11-08 07:48:00,2023-11-08 07:58:00,1.0
+175,176,11/8/2023,B2,Morning (7-9am),SRG,8:02,8:12,Sunny,Dry,Calm,53,https://ebird.org/checklist/S154014157,,-,2023-11-08 08:02:00,2023-11-08 08:12:00,1.0
+176,177,11/8/2023,B3,Morning (7-9am),SRG,8:13,8:23,Sunny,Dry,Calm,53,https://ebird.org/checklist/S154014890,construction,-,2023-11-08 08:13:00,2023-11-08 08:23:00,1.0
+177,178,11/8/2023,B4,Morning (7-9am),SRG,8:26,8:36,Sunny,Dry,Calm,54,https://ebird.org/checklist/S154015725,,-,2023-11-08 08:26:00,2023-11-08 08:36:00,1.0
+178,179,11/8/2023,B5,Morning (7-9am),SRG,8:39,8:49,Sunny,Dry,Calm,54,https://ebird.org/checklist/S154016502,,-,2023-11-08 08:39:00,2023-11-08 08:49:00,1.0
+179,180,11/8/2023,B6,Morning (7-9am),SRG,8:50,9:00,Sunny,Dry,Calm,56,https://ebird.org/checklist/S154017316,,-,2023-11-08 08:50:00,2023-11-08 09:00:00,1.0
+180,181,11/8/2023,B1,Mid-day (11am-1pm),LSW,11:00,11:10,Sunny,Dry,Calm,62,https://ebird.org/checklist/S154024430,jackhammering from Evans + trucks by Memorial Pool,-,2023-11-08 11:00:00,2023-11-08 11:10:00,1.0
+181,182,11/8/2023,B2,Mid-day (11am-1pm),LSW,11:12,11:22,Sunny,Dry,Calm,62,https://ebird.org/checklist/S154025120,,-,2023-11-08 11:12:00,2023-11-08 11:22:00,1.0
+182,183,11/8/2023,B3,Mid-day (11am-1pm),LSW,11:27,11:37,Sunny,Dry,Slight Wind,63,https://ebird.org/checklist/S154025876,"construction in Dwinelle parking lot, loud beeping?",-,2023-11-08 11:27:00,2023-11-08 11:37:00,1.0
+183,184,11/8/2023,B4,Mid-day (11am-1pm),LSW,11:40,11:50,Sunny,Dry,Slight Wind,64,https://ebird.org/checklist/S154026703,"construction blocked exact B4 point, stood on the other side of the path by the creek",-,2023-11-08 11:40:00,2023-11-08 11:50:00,1.0
+184,185,11/8/2023,B5,Mid-day (11am-1pm),LSW,11:53,12:03,Sunny,Dry,Calm,65,https://ebird.org/checklist/S154027503,,-,2023-11-08 11:53:00,2023-11-08 12:03:00,1.0
+185,186,11/8/2023,B6,Mid-day (11am-1pm),LSW,12:06,12:16,Sunny,Dry,Slight Wind,65,https://ebird.org/checklist/S154028217,,-,2023-11-08 12:06:00,2023-11-08 12:16:00,1.0
+186,187,11/8/2023,C6,Evening (3-5pm),SRG,15:22,15:32,Sunny,Dry,Calm,66,https://ebird.org/checklist/S154038705,,-,2023-11-08 15:22:00,2023-11-08 15:32:00,1.0
+187,188,11/8/2023,C5,Evening (3-5pm),SRG,15:35,15:45,Sunny,Dry,Calm,67,https://ebird.org/checklist/S154039286,,-,2023-11-08 15:35:00,2023-11-08 15:45:00,1.0
+188,189,11/8/2023,C4,Evening (3-5pm),SRG,15:48,15:58,Sunny,Dry,Calm,66,https://ebird.org/checklist/S154039888,,-,2023-11-08 15:48:00,2023-11-08 15:58:00,1.0
+189,190,11/8/2023,C3,Evening (3-5pm),SRG,16:01,16:11,Sunny,Dry,Calm,65,https://ebird.org/checklist/S154040395,,-,2023-11-08 16:01:00,2023-11-08 16:11:00,1.0
+190,191,11/8/2023,C2,Evening (3-5pm),SRG,16:14,16:24,Sunny,Dry,Calm,65,https://ebird.org/checklist/S154040919,,-,2023-11-08 16:14:00,2023-11-08 16:24:00,1.0
+191,192,11/8/2023,C1,Evening (3-5pm),SRG,16:25,16:35,Sunny,Dry,Calm,65,https://ebird.org/checklist/S154041381,,-,2023-11-08 16:25:00,2023-11-08 16:35:00,1.0
+192,193,11/11/2023,B1,Morning (7-9am),"SRG, SUC, JOL",7:45,7:55,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S154209748,,missing data?,2023-11-11 07:45:00,2023-11-11 07:55:00,1.0
+193,194,11/11/2023,B2,Morning (7-9am),"SRG, SUC, JOL",7:58,8:08,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S154210861,,missing data?,2023-11-11 07:58:00,2023-11-11 08:08:00,1.0
+194,195,11/11/2023,B3,Morning (7-9am),"SRG, SUC, JOL",8:14,8:24,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S154212337,,missing data?,2023-11-11 08:14:00,2023-11-11 08:24:00,1.0
+195,196,11/11/2023,B4,Morning (7-9am),"SRG, SUC, JOL",8:29,8:39,Sunny,Dry,Calm,54,https://ebird.org/checklist/S154213984,,-,2023-11-11 08:29:00,2023-11-11 08:39:00,1.0
+196,197,11/11/2023,B5,Morning (7-9am),"SRG, SUC, JOL",8:42,8:52,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S154216730,,missing data?,2023-11-11 08:42:00,2023-11-11 08:52:00,1.0
+197,198,11/11/2023,B6,Morning (7-9am),"SRG, SUC, JOL",8:54,9:04,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S154218953,,missing data?,2023-11-11 08:54:00,2023-11-11 09:04:00,1.0
+198,199,11/11/2023,C1,Mid-day (11am-1pm),JAL,12:08,12:18,Sunny,Dry,Slight Wind,67,https://ebird.org/checklist/S154236833,"Football Game today,  a lot of traffics, campinile & cal band marching",-,2023-11-11 12:08:00,2023-11-11 12:18:00,1.0
+199,200,11/11/2023,C2,Mid-day (11am-1pm),JAL,12:22,12:32,Sunny,Dry,Calm,67,https://ebird.org/checklist/S154238190,Same as C1,-,2023-11-11 12:22:00,2023-11-11 12:32:00,1.0
+200,201,11/11/2023,C3,Mid-day (11am-1pm),JAL,12:34,12:44,Sunny,Dry,Calm,65,https://ebird.org/checklist/S154239398,"Less traffoc & more quiet, but still more than usual weekends",-,2023-11-11 12:34:00,2023-11-11 12:44:00,1.0
+201,202,11/11/2023,C4,Mid-day (11am-1pm),JAL,12:49,12:59,Sunny,Dry,Slight Wind,65,https://ebird.org/checklist/S154240740,Same as C3,-,2023-11-11 12:49:00,2023-11-11 12:59:00,1.0
+202,203,11/11/2023,C5,Mid-day (11am-1pm),JAL,13:03,13:13,Sunny,Dry,Calm,65,https://ebird.org/checklist/S154242115,,-,2023-11-11 13:03:00,2023-11-11 13:13:00,1.0
+203,204,11/11/2023,C6,Mid-day (11am-1pm),JAL,13:19,13:29,Sunny,Dry,Calm,65,https://ebird.org/checklist/S154243493,,-,2023-11-11 13:19:00,2023-11-11 13:29:00,1.0
+204,205,11/11/2023,C1,Evening (3-5pm),"SRG, SUC",15:12,15:22,Sunny,Dry,Calm,69,https://ebird.org/checklist/S154252283,,-,2023-11-11 15:12:00,2023-11-11 15:22:00,1.0
+205,206,11/11/2023,C2,Evening (3-5pm),"SRG, SUC",15:24,15:34,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S154253257,,missing data?,2023-11-11 15:24:00,2023-11-11 15:34:00,1.0
+206,207,11/11/2023,C3,Evening (3-5pm),"SRG, SUC",15:39,15:49,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S154253955,,missing data?,2023-11-11 15:39:00,2023-11-11 15:49:00,1.0
+207,208,11/11/2023,C4,Evening (3-5pm),"SRG, SUC",15:53,16:03,Sunny,Dry,Calm,-100,https://ebird.org/checklist/S154254684,,missing data?,2023-11-11 15:53:00,2023-11-11 16:03:00,1.0
+208,209,11/11/2023,C5,Evening (3-5pm),"SRG, SUC",16:06,16:16,Sunny,Dry,Calm,67,https://ebird.org/checklist/S154255365,Much anthropogenic noise,-,2023-11-11 16:06:00,2023-11-11 16:16:00,1.0
+209,210,11/11/2023,C6,Evening (3-5pm),"SRG, SUC",16:25,16:35,Sunny,Dry,Calm,66,https://ebird.org/checklist/S154256408,,-,2023-11-11 16:25:00,2023-11-11 16:35:00,1.0
+210,211,11/15/2023,B1,Morning (7-9am),SRG,7:52,8:02,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S154501996,,-,2023-11-15 07:52:00,2023-11-15 08:02:00,1.0
+211,212,11/15/2023,B2,Morning (7-9am),SRG,8:05,8:15,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S154502815,,-,2023-11-15 08:05:00,2023-11-15 08:15:00,1.0
+212,213,11/15/2023,B3,Morning (7-9am),SRG,8:18,8:28,Cloudy,Dry,Calm,56,https://ebird.org/checklist/S154503662,,-,2023-11-15 08:18:00,2023-11-15 08:28:00,1.0
+213,214,11/15/2023,B4,Morning (7-9am),SRG,8:30,8:40,Cloudy,Dry,Calm,57,https://ebird.org/checklist/S154504441,,-,2023-11-15 08:30:00,2023-11-15 08:40:00,1.0
+214,215,11/15/2023,B5,Morning (7-9am),SRG,8:43,8:53,Cloudy,Dry,Calm,57,https://ebird.org/checklist/S154505410,,-,2023-11-15 08:43:00,2023-11-15 08:53:00,1.0
+215,216,11/15/2023,B6,Morning (7-9am),SRG,8:54,9:04,Cloudy,Dry,Calm,58,https://ebird.org/checklist/S154506210,Vegetation around the stream has been cut.,-,2023-11-15 08:54:00,2023-11-15 09:04:00,1.0
+216,217,11/15/2023,A1,Mid-day (11am-1pm),LSW,11:02,11:12,Cloudy,Dry,Slight Wind,60,https://ebird.org/checklist/S154514313,,-,2023-11-15 11:02:00,2023-11-15 11:12:00,1.0
+217,218,11/15/2023,A2,Mid-day (11am-1pm),LSW,11:15,11:25,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S154515156,,-,2023-11-15 11:15:00,2023-11-15 11:25:00,1.0
+218,219,11/15/2023,A3,Mid-day (11am-1pm),LSW,11:32,11:42,Cloudy,Dry,Slight Wind,61,https://ebird.org/checklist/S154516369,loud construction,-,2023-11-15 11:32:00,2023-11-15 11:42:00,1.0
+219,220,11/15/2023,A4,Mid-day (11am-1pm),LSW,11:44,11:54,Cloudy,Dry,Slight Wind,61,https://ebird.org/checklist/S154517043,,-,2023-11-15 11:44:00,2023-11-15 11:54:00,1.0
+220,221,11/15/2023,A5,Mid-day (11am-1pm),LSW,11:56,12:06,Cloudy,Dry,Slight Wind,61,https://ebird.org/checklist/S154517704,,-,2023-11-15 11:56:00,2023-11-15 12:06:00,1.0
+221,222,11/15/2023,A6,Mid-day (11am-1pm),LSW,12:09,12:19,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S154518709,,-,2023-11-15 12:09:00,2023-11-15 12:19:00,1.0
+222,223,11/15/2023,A1,Evening (3-5pm),JOL,15:02,15:12,Cloudy,Dry,Calm,64,https://ebird.org/checklist/S154529187,,-,2023-11-15 15:02:00,2023-11-15 15:12:00,1.0
+223,224,11/15/2023,A2,Evening (3-5pm),JOL,15:15,15:25,Cloudy,Dry,Calm,64,https://ebird.org/checklist/S154529637,,-,2023-11-15 15:15:00,2023-11-15 15:25:00,1.0
+224,225,11/15/2023,A3,Evening (3-5pm),JOL,15:27,15:37,Cloudy,Dry,Calm,64,https://ebird.org/checklist/S154530240,,-,2023-11-15 15:27:00,2023-11-15 15:37:00,1.0
+225,226,11/15/2023,A4,Evening (3-5pm),JOL,15:40,15:50,Cloudy,Dry,Calm,64,https://ebird.org/checklist/S154530766,,-,2023-11-15 15:40:00,2023-11-15 15:50:00,1.0
+226,227,11/15/2023,A5,Evening (3-5pm),JOL,15:53,16:03,Cloudy,Dry,Calm,64,https://ebird.org/checklist/S154531223,,-,2023-11-15 15:53:00,2023-11-15 16:03:00,1.0
+227,228,11/15/2023,A6,Evening (3-5pm),JOL,16:04,16:14,Cloudy,Dry,Calm,64,https://ebird.org/checklist/S154531658,,-,2023-11-15 16:04:00,2023-11-15 16:14:00,1.0
+228,229,11/18/2023,C1,Morning (7-9am),JOL,9:12,9:22,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S154692537,,-,2023-11-18 09:12:00,2023-11-18 09:22:00,0.3333333333333333
+229,230,11/18/2023,C2,Morning (7-9am),JOL,9:00,9:10,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S154691471,,-,2023-11-18 09:00:00,2023-11-18 09:10:00,0.3333333333333333
+230,231,11/18/2023,C3,Morning (7-9am),JOL,8:46,8:56,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S154690191,,-,2023-11-18 08:46:00,2023-11-18 08:56:00,0.3333333333333333
+231,232,11/18/2023,C4,Morning (7-9am),JOL,8:33,8:44,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S154689052,,-,2023-11-18 08:33:00,2023-11-18 08:44:00,0.3333333333333333
+232,233,11/18/2023,C5,Morning (7-9am),JOL,8:21,8:31,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S154687952,,-,2023-11-18 08:21:00,2023-11-18 08:31:00,0.3333333333333333
+233,234,11/18/2023,C6,Morning (7-9am),JOL,8:07,8:17,Cloudy,Drizzle,Slight Wind,58,https://ebird.org/checklist/S154686684,,-,2023-11-18 08:07:00,2023-11-18 08:17:00,0.3333333333333333
+234,235,11/19/2023,A1,Morning (7-9am),SRG,7:42,7:52,Sunny,Dry,Calm,47,https://ebird.org/checklist/S154765847,,-,2023-11-19 07:42:00,2023-11-19 07:52:00,1.0
+235,236,11/19/2023,A2,Morning (7-9am),SRG,7:55,8:05,Sunny,Dry,Calm,49,https://ebird.org/checklist/S154767186,,-,2023-11-19 07:55:00,2023-11-19 08:05:00,1.0
+236,237,11/19/2023,A3,Morning (7-9am),SRG,8:12,8:22,Sunny,Dry,Calm,50,https://ebird.org/checklist/S154768940,,-,2023-11-19 08:12:00,2023-11-19 08:22:00,1.0
+237,238,11/19/2023,A4,Morning (7-9am),SRG,8:24,8:34,Sunny,Dry,Calm,50,https://ebird.org/checklist/S154770157,Speaker playing loud music,-,2023-11-19 08:24:00,2023-11-19 08:34:00,1.0
+238,239,11/19/2023,A5,Morning (7-9am),SRG,8:37,8:47,Sunny,Dry,Calm,51,https://ebird.org/checklist/S154771408,Speaker playing loud music,-,2023-11-19 08:37:00,2023-11-19 08:47:00,1.0
+239,240,11/19/2023,A6,Morning (7-9am),SRG,8:49,8:59,Sunny,Dry,Calm,51,https://ebird.org/checklist/S154772547,,-,2023-11-19 08:49:00,2023-11-19 08:59:00,1.0
+240,241,11/19/2023,C6,Mid-day (11am-1pm),SRG,11:10,11:20,Sunny,Dry,Windy,56,https://ebird.org/checklist/S154787090,,-,2023-11-19 11:10:00,2023-11-19 11:20:00,1.0
+241,242,11/19/2023,C5,Mid-day (11am-1pm),SRG,11:25,11:35,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S154788346,Machinery operating,-,2023-11-19 11:25:00,2023-11-19 11:35:00,1.0
+242,243,11/19/2023,C4,Mid-day (11am-1pm),SRG,11:37,11:47,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S154789380,,-,2023-11-19 11:37:00,2023-11-19 11:47:00,1.0
+243,244,11/19/2023,C3,Mid-day (11am-1pm),SRG,11:51,12:01,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S154790662,,-,2023-11-19 11:51:00,2023-11-19 12:01:00,1.0
+244,245,11/19/2023,C2,Mid-day (11am-1pm),SRG,12:04,12:14,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S154791772,,-,2023-11-19 12:04:00,2023-11-19 12:14:00,1.0
+245,246,11/19/2023,C1,Mid-day (11am-1pm),SRG,12:16,12:26,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S154792755,,-,2023-11-19 12:16:00,2023-11-19 12:26:00,1.0
+246,247,11/19/2023,C1,Evening (3-5pm),LSW,15:05,15:15,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S154810816,,-,2023-11-19 15:05:00,2023-11-19 15:15:00,1.0
+247,248,11/19/2023,C2,Evening (3-5pm),LSW,15:17,15:27,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S154811560,,-,2023-11-19 15:17:00,2023-11-19 15:27:00,1.0
+248,249,11/19/2023,C3,Evening (3-5pm),LSW,15:32,15:42,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S154812509,,-,2023-11-19 15:32:00,2023-11-19 15:42:00,1.0
+249,250,11/19/2023,C4,Evening (3-5pm),LSW,15:45,15:55,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S154813716,,-,2023-11-19 15:45:00,2023-11-19 15:55:00,1.0
+250,251,11/19/2023,C5,Evening (3-5pm),LSW,15:59,16:09,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S154814384,"actual PC location obstructed by loud construction, stood outside Durham Studio Theater",-,2023-11-19 15:59:00,2023-11-19 16:09:00,1.0
+251,252,11/19/2023,C6,Evening (3-5pm),LSW,16:19,16:29,Sunny,Dry,Calm,59,https://ebird.org/checklist/S154815547,"path between C5 and C6 obstructed, walked further down to the west side of VLSB and back up",-,2023-11-19 16:19:00,2023-11-19 16:29:00,1.0
+252,253,11/21/2023,B1,Morning (7-9am),SRG,8:03,8:13,Cloudy,Dry,Calm,50,https://ebird.org/checklist/S154909587,,-,2023-11-21 08:03:00,2023-11-21 08:13:00,0.9444444444444444
+253,254,11/21/2023,B2,Morning (7-9am),SRG,8:15,8:25,Cloudy,Dry,Calm,51,https://ebird.org/checklist/S154910295,,-,2023-11-21 08:15:00,2023-11-21 08:25:00,0.9444444444444444
+254,255,11/21/2023,B3,Morning (7-9am),SRG,8:28,8:38,Cloudy,Dry,Calm,53,https://ebird.org/checklist/S154911004,construction,-,2023-11-21 08:28:00,2023-11-21 08:38:00,0.9444444444444444
+255,256,11/21/2023,B4,Morning (7-9am),SRG,8:40,8:50,Cloudy,Dry,Calm,53,https://ebird.org/checklist/S154911752,construction,-,2023-11-21 08:40:00,2023-11-21 08:50:00,0.9444444444444444
+256,257,11/21/2023,B5,Morning (7-9am),SRG,8:53,9:03,Cloudy,Dry,Calm,54,https://ebird.org/checklist/S154912618,,-,2023-11-21 08:53:00,2023-11-21 09:03:00,0.9444444444444444
+257,258,11/21/2023,B6,Morning (7-9am),SRG,9:05,9:15,Cloudy,Dry,Calm,54,https://ebird.org/checklist/S154913352,,-,2023-11-21 09:05:00,2023-11-21 09:15:00,0.9444444444444444
+258,259,11/21/2023,B1,Mid-day (11am-1pm),LSW,11:02,11:12,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S154920229,,-,2023-11-21 11:02:00,2023-11-21 11:12:00,0.9444444444444444
+259,260,11/21/2023,B2,Mid-day (11am-1pm),LSW,11:17,11:27,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S154922672,loud landscaping/jackhammering,-,2023-11-21 11:17:00,2023-11-21 11:27:00,0.9444444444444444
+260,261,11/21/2023,B3,Mid-day (11am-1pm),LSW,11:30,11:40,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S154925021,loud landscaping/jackhammering,-,2023-11-21 11:30:00,2023-11-21 11:40:00,0.9444444444444444
+261,262,11/21/2023,B4,Mid-day (11am-1pm),LSW,11:42,11:52,Cloudy,Dry,Calm,63,https://ebird.org/checklist/S154926896,"loud construction, PC point blocked so I stood by Strawberry Creek as close as possible",-,2023-11-21 11:42:00,2023-11-21 11:52:00,0.9444444444444444
+262,263,11/21/2023,B5,Mid-day (11am-1pm),LSW,11:57,12:07,Cloudy,Dry,Calm,63,https://ebird.org/checklist/S154927677,,-,2023-11-21 11:57:00,2023-11-21 12:07:00,0.9444444444444444
+263,264,11/21/2023,B6,Mid-day (11am-1pm),LSW,12:09,12:19,Cloudy,Dry,Calm,64,https://ebird.org/checklist/S154928403,,-,2023-11-21 12:09:00,2023-11-21 12:19:00,0.9444444444444444
+264,265,11/21/2023,A1,Evening (3-5pm),SRG,16:04,16:14,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S154940403,,-,2023-11-21 16:04:00,2023-11-21 16:14:00,0.9444444444444444
+265,266,11/21/2023,A2,Evening (3-5pm),SRG,16:18,16:28,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S154940867,,-,2023-11-21 16:18:00,2023-11-21 16:28:00,0.9444444444444444
+266,267,11/21/2023,A3,Evening (3-5pm),SRG,16:34,16:44,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S154941558,,-,2023-11-21 16:34:00,2023-11-21 16:44:00,0.9444444444444444
+267,268,11/21/2023,A4,Evening (3-5pm),SRG,16:46,16:56,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S154942010,,-,2023-11-21 16:46:00,2023-11-21 16:56:00,0.9444444444444444
+268,269,11/21/2023,A5,Evening (3-5pm),SRG,16:59,17:09,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S154942434,Got too dark to do A6,-,2023-11-21 16:59:00,2023-11-21 17:09:00,0.9444444444444444
+269,270,12/3/2023,C1,Morning (7-9am),LSW,7:31,7:41,Cloudy,Drizzle,Calm,53,https://ebird.org/checklist/S155663845,,-,2023-12-03 07:31:00,2023-12-03 07:41:00,1.0
+270,271,12/3/2023,C2,Morning (7-9am),LSW,7:43,7:53,Cloudy,Drizzle,Calm,54,https://ebird.org/checklist/S155664717,,-,2023-12-03 07:43:00,2023-12-03 07:53:00,1.0
+271,272,12/3/2023,C3,Morning (7-9am),LSW,7:57,8:07,Cloudy,Drizzle,Calm,54,https://ebird.org/checklist/S155665867,,-,2023-12-03 07:57:00,2023-12-03 08:07:00,1.0
+272,273,12/3/2023,C4,Morning (7-9am),LSW,8:10,8:20,Cloudy,Dry,Calm,54,https://ebird.org/checklist/S155666933,,-,2023-12-03 08:10:00,2023-12-03 08:20:00,1.0
+273,274,12/3/2023,C5,Morning (7-9am),LSW,8:24,8:34,Cloudy,Dry,Calm,54,https://ebird.org/checklist/S155668065,"C5 point blocked, stood by LOOP bench around southeast corner of VLSB",-,2023-12-03 08:24:00,2023-12-03 08:34:00,1.0
+274,275,12/3/2023,C6,Morning (7-9am),LSW,8:36,8:46,Cloudy,Dry,Calm,54,https://ebird.org/checklist/S155669229,,-,2023-12-03 08:36:00,2023-12-03 08:46:00,1.0
+275,276,12/3/2023,C1,Mid-day (11am-1pm),SRG,11:33,11:43,Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S155683199,,-,2023-12-03 11:33:00,2023-12-03 11:43:00,1.0
+276,277,12/3/2023,C2,Mid-day (11am-1pm),SRG,11:44,11:54,Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S155684030,,-,2023-12-03 11:44:00,2023-12-03 11:54:00,1.0
+277,278,12/3/2023,C3,Mid-day (11am-1pm),SRG,11:56,12:06,Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S155685022,,-,2023-12-03 11:56:00,2023-12-03 12:06:00,1.0
+278,279,12/3/2023,C4,Mid-day (11am-1pm),SRG,12:08,12:18,Cloudy,Dry,Slight Wind,60,https://ebird.org/checklist/S155686193,A lot of people.,-,2023-12-03 12:08:00,2023-12-03 12:18:00,1.0
+279,280,12/3/2023,C5,Mid-day (11am-1pm),SRG,12:22,12:32,Cloudy,Dry,Slight Wind,60,https://ebird.org/checklist/S155687013,,-,2023-12-03 12:22:00,2023-12-03 12:32:00,1.0
+280,281,12/3/2023,C6,Mid-day (11am-1pm),SRG,12:39,12:49,Cloudy,Dry,Slight Wind,61,https://ebird.org/checklist/S155688501,,-,2023-12-03 12:39:00,2023-12-03 12:49:00,1.0
+281,282,12/3/2023,B6,Evening (3-5pm),SRG,14:50,15:00,Partial Cloudy,Dry,Calm,61,https://ebird.org/checklist/S155697917,,-,2023-12-03 14:50:00,2023-12-03 15:00:00,1.0
+282,283,12/3/2023,B5,Evening (3-5pm),SRG,15:03,15:13,Partial Cloudy,Dry,Calm,61,https://ebird.org/checklist/S155698654,,-,2023-12-03 15:03:00,2023-12-03 15:13:00,1.0
+283,284,12/3/2023,B4,Evening (3-5pm),SRG,15:15,15:25,Partial Cloudy,Dry,Calm,60,https://ebird.org/checklist/S155699384,,-,2023-12-03 15:15:00,2023-12-03 15:25:00,1.0
+284,285,12/3/2023,B3,Evening (3-5pm),SRG,15:28,15:38,Partial Cloudy,Dry,Calm,59,https://ebird.org/checklist/S155700027,,-,2023-12-03 15:28:00,2023-12-03 15:38:00,1.0
+285,286,12/3/2023,B2,Evening (3-5pm),SRG,15:40,15:50,Partial Cloudy,Dry,Calm,59,https://ebird.org/checklist/S155700662,,-,2023-12-03 15:40:00,2023-12-03 15:50:00,1.0
+286,287,12/3/2023,B1,Evening (3-5pm),SRG,15:52,16:02,Partial Cloudy,Dry,Calm,59,https://ebird.org/checklist/S155701327,,-,2023-12-03 15:52:00,2023-12-03 16:02:00,1.0
+287,288,12/8/2023,A6,Morning (7-9am),JOL,8:16,8:26,Sunny,Dry,Slight Wind,46,https://ebird.org/checklist/S155950307,,-,2023-12-08 08:16:00,2023-12-08 08:26:00,0.9444444444444444
+288,289,12/8/2023,A5,Morning (7-9am),JOL,8:27,8:37,Sunny,Dry,Slight Wind,46,https://ebird.org/checklist/S155951149,,-,2023-12-08 08:27:00,2023-12-08 08:37:00,0.9444444444444444
+289,290,12/8/2023,A4,Morning (7-9am),JOL,8:39,8:49,Sunny,Dry,Slight Wind,46,https://ebird.org/checklist/S155951932,,-,2023-12-08 08:39:00,2023-12-08 08:49:00,0.9444444444444444
+290,291,12/8/2023,A3,Morning (7-9am),JOL,8:50,9:00,Sunny,Dry,Slight Wind,46,https://ebird.org/checklist/S155952768,,-,2023-12-08 08:50:00,2023-12-08 09:00:00,0.9444444444444444
+291,292,12/8/2023,A2,Morning (7-9am),JOL,9:04,9:14,Sunny,Dry,Slight Wind,46,-,,-,2023-12-08 09:04:00,2023-12-08 09:14:00,0.9444444444444444
+292,293,12/8/2023,B1,Mid-day (11am-1pm),SRG,11:18,11:28,Sunny,Dry,Slight Wind,51,https://ebird.org/checklist/S155961902,,-,2023-12-08 11:18:00,2023-12-08 11:28:00,0.9444444444444444
+293,294,12/8/2023,B2,Mid-day (11am-1pm),SRG,11:34,11:44,Sunny,Dry,Slight Wind,52,https://ebird.org/checklist/S155962902,,-,2023-12-08 11:34:00,2023-12-08 11:44:00,0.9444444444444444
+294,295,12/8/2023,B3,Mid-day (11am-1pm),SRG,11:44,11:54,Sunny,Dry,Slight Wind,52,https://ebird.org/checklist/S155963838,,-,2023-12-08 11:44:00,2023-12-08 11:54:00,0.9444444444444444
+295,296,12/8/2023,B4,Mid-day (11am-1pm),SRG,11:57,12:07,Sunny,Dry,Slight Wind,53,https://ebird.org/checklist/S155964734,,-,2023-12-08 11:57:00,2023-12-08 12:07:00,0.9444444444444444
+296,297,12/8/2023,B5,Mid-day (11am-1pm),SRG,12:10,12:20,Sunny,Dry,Slight Wind,53,https://ebird.org/checklist/S155965409,,-,2023-12-08 12:10:00,2023-12-08 12:20:00,0.9444444444444444
+297,298,12/8/2023,B6,Mid-day (11am-1pm),SRG,12:21,12:31,Sunny,Dry,Slight Wind,54,https://ebird.org/checklist/S155966036,,-,2023-12-08 12:21:00,2023-12-08 12:31:00,0.9444444444444444
+298,299,12/8/2023,C6,Evening (3-5pm),SRG,15:09,15:19,Sunny,Dry,Slight Wind,56,https://ebird.org/checklist/S155975951,,-,2023-12-08 15:09:00,2023-12-08 15:19:00,0.9444444444444444
+299,300,12/8/2023,C5,Evening (3-5pm),SRG,15:23,15:33,Sunny,Dry,Slight Wind,56,https://ebird.org/checklist/S155976513,,-,2023-12-08 15:23:00,2023-12-08 15:33:00,0.9444444444444444
+300,301,12/8/2023,C4,Evening (3-5pm),SRG,15:36,15:46,Sunny,Dry,Slight Wind,56,https://ebird.org/checklist/S155977127,,-,2023-12-08 15:36:00,2023-12-08 15:46:00,0.9444444444444444
+301,302,12/8/2023,C3,Evening (3-5pm),SRG,15:48,15:58,Sunny,Dry,Slight Wind,56,https://ebird.org/checklist/S155977744,,-,2023-12-08 15:48:00,2023-12-08 15:58:00,0.9444444444444444
+302,303,12/8/2023,C2,Evening (3-5pm),SRG,16:02,16:12,Sunny,Dry,Slight Wind,55,https://ebird.org/checklist/S155978249,,-,2023-12-08 16:02:00,2023-12-08 16:12:00,0.9444444444444444
+303,304,12/8/2023,C1,Evening (3-5pm),SRG,16:13,16:23,Sunny,Dry,Slight Wind,55,https://ebird.org/checklist/S155978694,,-,2023-12-08 16:13:00,2023-12-08 16:23:00,0.9444444444444444
+304,305,12/10/2023,B1,Morning (7-9am),LSW,7:30,7:40,Sunny,Dry,Calm,42,https://ebird.org/checklist/S156078491,,-,2023-12-10 07:30:00,2023-12-10 07:40:00,1.0
+305,306,12/10/2023,B2,Morning (7-9am),LSW,7:43,7:53,Sunny,Dry,Calm,44,https://ebird.org/checklist/S156079534,,-,2023-12-10 07:43:00,2023-12-10 07:53:00,1.0
+306,307,12/10/2023,B3,Morning (7-9am),LSW,7:59,8:09,Sunny,Dry,Calm,44,https://ebird.org/checklist/S156080785,,-,2023-12-10 07:59:00,2023-12-10 08:09:00,1.0
+307,308,12/10/2023,B4,Morning (7-9am),LSW,8:11,8:21,Sunny,Dry,Calm,44,https://ebird.org/checklist/S156081834,"B4 PC location blocked, stood at north side of Strawberry Creek beside the bridge",-,2023-12-10 08:11:00,2023-12-10 08:21:00,1.0
+308,309,12/10/2023,B5,Morning (7-9am),LSW,8:25,8:35,Sunny,Dry,Calm,45,https://ebird.org/checklist/S156082946,,-,2023-12-10 08:25:00,2023-12-10 08:35:00,1.0
+309,310,12/10/2023,B6,Morning (7-9am),LSW,8:37,8:47,Sunny,Dry,Calm,45,https://ebird.org/checklist/S156083821,,-,2023-12-10 08:37:00,2023-12-10 08:47:00,1.0
+310,311,12/10/2023,A1,Mid-day (11am-1pm),SRG,11:27,11:37,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S156096644,,-,2023-12-10 11:27:00,2023-12-10 11:37:00,1.0
+311,312,12/10/2023,A2,Mid-day (11am-1pm),SRG,11:41,11:51,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S156097543,,-,2023-12-10 11:41:00,2023-12-10 11:51:00,1.0
+312,313,12/10/2023,A3,Mid-day (11am-1pm),SRG,11:57,12:07,Partial Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S156098654,,-,2023-12-10 11:57:00,2023-12-10 12:07:00,1.0
+313,314,12/10/2023,A4,Mid-day (11am-1pm),SRG,12:11,12:21,Partial Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S156099431,,-,2023-12-10 12:11:00,2023-12-10 12:21:00,1.0
+314,315,12/10/2023,A5,Mid-day (11am-1pm),SRG,12:23,12:33,Partial Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S156100182,,-,2023-12-10 12:23:00,2023-12-10 12:33:00,1.0
+315,316,12/10/2023,A6,Mid-day (11am-1pm),SRG,12:35,12:45,Partial Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S156100970,,-,2023-12-10 12:35:00,2023-12-10 12:45:00,1.0
+316,317,12/10/2023,C6,Evening (3-5pm),SRG,15:18,15:28,Partial Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S156111050,,-,2023-12-10 15:18:00,2023-12-10 15:28:00,1.0
+317,318,12/10/2023,C5,Evening (3-5pm),SRG,15:32,15:42,Partial Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S156111723,,-,2023-12-10 15:32:00,2023-12-10 15:42:00,1.0
+318,319,12/10/2023,C4,Evening (3-5pm),SRG,15:45,15:55,Partial Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S156112436,,-,2023-12-10 15:45:00,2023-12-10 15:55:00,1.0
+319,320,12/10/2023,C3,Evening (3-5pm),SRG,15:57,16:07,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S156113131,,-,2023-12-10 15:57:00,2023-12-10 16:07:00,1.0
+320,321,12/10/2023,C2,Evening (3-5pm),SRG,16:09,16:19,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S156113739,,-,2023-12-10 16:09:00,2023-12-10 16:19:00,1.0
+321,322,12/10/2023,C1,Evening (3-5pm),SRG,16:20,16:30,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S156114252,,-,2023-12-10 16:20:00,2023-12-10 16:30:00,1.0
+322,323,12/12/2023,C1,Morning (7-9am),KEC,8:27,8:37,Cloudy,Dry,Calm,51,https://ebird.org/checklist/S156197091,construction,-,2023-12-12 08:27:00,2023-12-12 08:37:00,1.0
+323,324,12/12/2023,C2,Morning (7-9am),KEC,8:42,8:52,Cloudy,Dry,Calm,51,https://ebird.org/checklist/S156197978,construction,-,2023-12-12 08:42:00,2023-12-12 08:52:00,1.0
+324,325,12/12/2023,C3,Morning (7-9am),KEC,8:57,9:07,Partial Cloudy,Dry,Calm,52,https://ebird.org/checklist/S156198837,,-,2023-12-12 08:57:00,2023-12-12 09:07:00,1.0
+325,326,12/12/2023,C4,Morning (7-9am),KEC,9:12,9:22,Partial Cloudy,Dry,Calm,51,https://ebird.org/checklist/S156199676,,-,2023-12-12 09:12:00,2023-12-12 09:22:00,1.0
+326,327,12/12/2023,C5,Morning (7-9am),KEC,9:29,9:39,Partial Cloudy,Dry,Calm,52,https://ebird.org/checklist/S156200546,construction,-,2023-12-12 09:29:00,2023-12-12 09:39:00,1.0
+327,328,12/12/2023,C6,Morning (7-9am),KEC,9:53,10:03,Partial Cloudy,Dry,Slight Wind,53,https://ebird.org/checklist/S156201882,,-,2023-12-12 09:53:00,2023-12-12 10:03:00,1.0
+328,329,12/12/2023,A6,Mid-day (11am-1pm),SRG,11:44,11:54,Sunny,Dry,Calm,56,https://ebird.org/checklist/S156208963,,-,2023-12-12 11:44:00,2023-12-12 11:54:00,1.0
+329,330,12/12/2023,A5,Mid-day (11am-1pm),SRG,11:56,12:06,Sunny,Dry,Calm,56,https://ebird.org/checklist/S156209603,Whirring from Weil Hall,-,2023-12-12 11:56:00,2023-12-12 12:06:00,1.0
+330,331,12/12/2023,A4,Mid-day (11am-1pm),SRG,12:08,12:18,Sunny,Dry,Calm,56,https://ebird.org/checklist/S156210235,,-,2023-12-12 12:08:00,2023-12-12 12:18:00,1.0
+331,332,12/12/2023,A3,Mid-day (11am-1pm),SRG,12:20,12:30,Sunny,Dry,Calm,57,https://ebird.org/checklist/S156210798,construction,-,2023-12-12 12:20:00,2023-12-12 12:30:00,1.0
+332,333,12/12/2023,A2,Mid-day (11am-1pm),SRG,12:35,12:45,Sunny,Dry,Calm,58,https://ebird.org/checklist/S156211618,,-,2023-12-12 12:35:00,2023-12-12 12:45:00,1.0
+333,334,12/12/2023,A1,Mid-day (11am-1pm),SRG,12:48,12:58,Sunny,Dry,Calm,58,https://ebird.org/checklist/S156212227,,-,2023-12-12 12:48:00,2023-12-12 12:58:00,1.0
+334,335,12/12/2023,B1,Evening (3-5pm),SUC,15:52,16:02,Sunny,Dry,Calm,61,https://ebird.org/checklist/S171208231,,-,2023-12-12 15:52:00,2023-12-12 16:02:00,1.0
+335,336,12/12/2023,B2,Evening (3-5pm),SUC,16:04,16:14,Sunny,Dry,Calm,59,https://ebird.org/checklist/S171246553,,-,2023-12-12 16:04:00,2023-12-12 16:14:00,1.0
+336,337,12/12/2023,B3,Evening (3-5pm),SUC,16:15,16:25,Sunny,Dry,Calm,57,https://ebird.org/checklist/S171351104,construction so hard to hear,-,2023-12-12 16:15:00,2023-12-12 16:25:00,1.0
+337,338,12/12/2023,B4,Evening (3-5pm),SUC,16:27,16:37,Sunny,Dry,,57,https://ebird.org/checklist/S171352491,,missing data?,2023-12-12 16:27:00,2023-12-12 16:37:00,1.0
+338,339,12/12/2023,B5,Evening (3-5pm),SUC,16:38,16:48,Sunny,Dry,Calm,57,https://ebird.org/checklist/S171353722,glare so couldn't ID birds f[illegible],-,2023-12-12 16:38:00,2023-12-12 16:48:00,1.0
+339,340,12/12/2023,B6,Evening (3-5pm),SUC,16:49,16:59,Sunny,Dry,Calm,57,https://ebird.org/checklist/S171355162,,-,2023-12-12 16:49:00,2023-12-12 16:59:00,1.0
+340,341,12/13/2023,C1,Morning (7-9am),SRG,7:47,7:57,Sunny,Dry,Calm,46,https://ebird.org/checklist/S156244942,construction,-,2023-12-13 07:47:00,2023-12-13 07:57:00,1.0
+341,342,12/13/2023,C2,Morning (7-9am),SRG,7:58,8:08,Sunny,Dry,Calm,46,https://ebird.org/checklist/S156245602,,-,2023-12-13 07:58:00,2023-12-13 08:08:00,1.0
+342,343,12/13/2023,C3,Morning (7-9am),SRG,8:11,8:21,Sunny,Dry,Calm,46,https://ebird.org/checklist/S156246373,,-,2023-12-13 08:11:00,2023-12-13 08:21:00,1.0
+343,344,12/13/2023,C4,Morning (7-9am),SRG,8:23,8:33,Sunny,Dry,Calm,47,https://ebird.org/checklist/S156247106,,-,2023-12-13 08:23:00,2023-12-13 08:33:00,1.0
+344,345,12/13/2023,C5,Morning (7-9am),SRG,8:35,8:45,Sunny,Dry,Calm,47,https://ebird.org/checklist/S156247828,,-,2023-12-13 08:35:00,2023-12-13 08:45:00,1.0
+345,346,12/13/2023,C6,Morning (7-9am),SRG,8:49,8:59,Sunny,Dry,Calm,49,https://ebird.org/checklist/S156248708,,-,2023-12-13 08:49:00,2023-12-13 08:59:00,1.0
+346,347,12/13/2023,A6,Mid-day (11am-1pm),SRG,11:08,11:18,Sunny,Dry,Calm,55,https://ebird.org/checklist/S156256286,,-,2023-12-13 11:08:00,2023-12-13 11:18:00,1.0
+347,348,12/13/2023,A5,Mid-day (11am-1pm),SRG,11:20,11:30,Sunny,Dry,Calm,56,https://ebird.org/checklist/S156256846,,-,2023-12-13 11:20:00,2023-12-13 11:30:00,1.0
+348,349,12/13/2023,A4,Mid-day (11am-1pm),SRG,11:32,11:42,Sunny,Dry,Calm,57,https://ebird.org/checklist/S156257459,,-,2023-12-13 11:32:00,2023-12-13 11:42:00,1.0
+349,350,12/13/2023,A3,Mid-day (11am-1pm),SRG,11:44,11:54,Sunny,Dry,Calm,57,https://ebird.org/checklist/S156258104,construction,-,2023-12-13 11:44:00,2023-12-13 11:54:00,1.0
+350,351,12/13/2023,A2,Mid-day (11am-1pm),SRG,12:00,12:10,Sunny,Dry,Calm,59,https://ebird.org/checklist/S156259780,,-,2023-12-13 12:00:00,2023-12-13 12:10:00,1.0
+351,352,12/13/2023,A1,Mid-day (11am-1pm),SRG,12:13,12:23,Sunny,Dry,Calm,59,https://ebird.org/checklist/S156260451,,-,2023-12-13 12:13:00,2023-12-13 12:23:00,1.0
+352,353,12/13/2023,B1,Evening (3-5pm),LSW,15:21,15:31,Partial Cloudy,Dry,Slight Wind,60,https://ebird.org/checklist/S156272874,,-,2023-12-13 15:21:00,2023-12-13 15:31:00,1.0
+353,354,12/13/2023,B2,Evening (3-5pm),LSW,15:34,15:44,Partial Cloudy,Dry,Calm,60,https://ebird.org/checklist/S156273423,,-,2023-12-13 15:34:00,2023-12-13 15:44:00,1.0
+354,355,12/13/2023,B3,Evening (3-5pm),LSW,15:48,15:48,Partial Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S156273935,,-,2023-12-13 15:48:00,2023-12-13 15:48:00,1.0
+355,356,12/13/2023,B4,Evening (3-5pm),LSW,16:01,16:11,Partial Cloudy,Dry,Calm,59,https://ebird.org/checklist/S156274429,"loud construction, PC location obscured by construction, did PC by tree by bridge",-,2023-12-13 16:01:00,2023-12-13 16:11:00,1.0
+356,357,12/13/2023,B5,Evening (3-5pm),LSW,16:15,16:25,Partial Cloudy,Dry,Calm,59,https://ebird.org/checklist/S156274928,,-,2023-12-13 16:15:00,2023-12-13 16:25:00,1.0
+357,358,12/13/2023,A1,Evening (3-5pm),LSW,16:28,16:38,Partial Cloudy,Dry,Calm,58,https://ebird.org/checklist/S156275319,,-,2023-12-13 16:28:00,2023-12-13 16:38:00,1.0
+358,359,12/28/2023,C1,Morning (7-9am),"JOL, SRG",7:25,7:35,Cloudy,Dry,Calm,57,https://ebird.org/checklist/S157318975,,-,2023-12-28 07:25:00,2023-12-28 07:35:00,1.0
+359,360,12/28/2023,C2,Morning (7-9am),"SRG, JOL",7:39,7:49,Cloudy,Dry,Calm,54,https://ebird.org/checklist/S157320032,,-,2023-12-28 07:39:00,2023-12-28 07:49:00,1.0
+360,361,12/28/2023,C3,Morning (7-9am),"SRG, JOL",7:51,8:01,Cloudy,Dry,Calm,54,https://ebird.org/checklist/S157321465,,-,2023-12-28 07:51:00,2023-12-28 08:01:00,1.0
+361,362,12/28/2023,C4,Morning (7-9am),"SRG, JOL",8:06,8:16,Cloudy,Dry,Calm,54,https://ebird.org/checklist/S157322560,,-,2023-12-28 08:06:00,2023-12-28 08:16:00,1.0
+362,363,12/28/2023,C5,Morning (7-9am),"SRG, JOL",8:20,8:30,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S157323851,construction,-,2023-12-28 08:20:00,2023-12-28 08:30:00,1.0
+363,364,12/28/2023,C6,Morning (7-9am),"SRG, JOL",8:35,8:45,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S157325265,,-,2023-12-28 08:35:00,2023-12-28 08:45:00,1.0
+364,365,12/28/2023,C6,Mid-day (11am-1pm),"SRG, JOL",11:10,11:20,Cloudy,Dry,Calm,59,https://ebird.org/checklist/S157339362,,-,2023-12-28 11:10:00,2023-12-28 11:20:00,1.0
+365,366,12/28/2023,C5,Mid-day (11am-1pm),"SRG, JOL",11:25,11:35,Cloudy,Dry,Calm,59,https://ebird.org/checklist/S157340660,,-,2023-12-28 11:25:00,2023-12-28 11:35:00,1.0
+366,367,12/28/2023,C4,Mid-day (11am-1pm),"SRG, JOL",11:40,11:50,Cloudy,Dry,Calm,59,https://ebird.org/checklist/S157342024,,-,2023-12-28 11:40:00,2023-12-28 11:50:00,1.0
+367,368,12/28/2023,C3,Mid-day (11am-1pm),"SRG, JOL",11:53,12:03,Cloudy,Dry,Calm,59,https://ebird.org/checklist/S157343125,,-,2023-12-28 11:53:00,2023-12-28 12:03:00,1.0
+368,369,12/28/2023,C2,Mid-day (11am-1pm),"SRG, JOL",12:06,12:16,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S157344542,,-,2023-12-28 12:06:00,2023-12-28 12:16:00,1.0
+369,370,12/28/2023,C1,Mid-day (11am-1pm),"SRG, JOL",12:18,12:28,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S157345622,,-,2023-12-28 12:18:00,2023-12-28 12:28:00,1.0
+370,371,12/28/2023,A1,Evening (3-5pm),SRG,15:26,15:36,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S157361272,,-,2023-12-28 15:26:00,2023-12-28 15:36:00,1.0
+371,372,12/28/2023,A2,Evening (3-5pm),SRG,15:40,15:50,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S157362090,,-,2023-12-28 15:40:00,2023-12-28 15:50:00,1.0
+372,373,12/28/2023,A3,Evening (3-5pm),SRG,15:55,16:05,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S157362916,,-,2023-12-28 15:55:00,2023-12-28 16:05:00,1.0
+373,374,12/28/2023,A4,Evening (3-5pm),SRG,16:06,16:16,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S157363601,,-,2023-12-28 16:06:00,2023-12-28 16:16:00,1.0
+374,375,12/28/2023,A5,Evening (3-5pm),SRG,16:18,16:28,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S157364335,,-,2023-12-28 16:18:00,2023-12-28 16:28:00,1.0
+375,376,12/28/2023,A6,Evening (3-5pm),SRG,16:30,16:40,Cloudy,Dry,Calm,60,https://ebird.org/checklist/S157364925,,-,2023-12-28 16:30:00,2023-12-28 16:40:00,1.0
+376,377,1/14/2024,B1,Morning (7-9am),JAL,8:00,8:10,Partial Cloudy,Dry,Calm,48,https://ebird.org/checklist/S158877812,Air is moist from yesterdays rain,-,2024-01-14 08:00:00,2024-01-14 08:10:00,1.0
+377,378,1/14/2024,B2,Morning (7-9am),JAL,8:12,8:22,Partial Cloudy,Dry,Calm,48,https://ebird.org/checklist/S158879210,,-,2024-01-14 08:12:00,2024-01-14 08:22:00,1.0
+378,379,1/14/2024,B3,Morning (7-9am),JAL,8:26,8:36,Sunny,Dry,Calm,49,https://ebird.org/checklist/S158880677,,-,2024-01-14 08:26:00,2024-01-14 08:36:00,1.0
+379,380,1/14/2024,B4,Morning (7-9am),JAL,8:38,8:48,Sunny,Dry,Calm,49,https://ebird.org/checklist/S158882077,,-,2024-01-14 08:38:00,2024-01-14 08:48:00,1.0
+380,381,1/14/2024,B5,Morning (7-9am),JAL,8:50,9:00,Sunny,Dry,Calm,49,https://ebird.org/checklist/S158883561,,-,2024-01-14 08:50:00,2024-01-14 09:00:00,1.0
+381,382,1/14/2024,B6,Morning (7-9am),JAL,9:02,9:12,Sunny,Dry,Calm,50,https://ebird.org/checklist/S158884935,,-,2024-01-14 09:02:00,2024-01-14 09:12:00,1.0
+382,383,1/14/2024,B1,Mid-day (11am-1pm),SRG,11:52,12:02,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S158905851,,-,2024-01-14 11:52:00,2024-01-14 12:02:00,1.0
+383,384,1/14/2024,B2,Mid-day (11am-1pm),SRG,12:04,12:14,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S158906998,,-,2024-01-14 12:04:00,2024-01-14 12:14:00,1.0
+384,385,1/14/2024,B3,Mid-day (11am-1pm),SRG,12:15,12:25,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S158908383,,-,2024-01-14 12:15:00,2024-01-14 12:25:00,1.0
+385,386,1/14/2024,B4,Mid-day (11am-1pm),SRG,12:28,12:38,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S158909795,,-,2024-01-14 12:28:00,2024-01-14 12:38:00,1.0
+386,387,1/14/2024,B5,Mid-day (11am-1pm),SRG,12:40,12:50,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S158911335,,-,2024-01-14 12:40:00,2024-01-14 12:50:00,1.0
+387,388,1/14/2024,B6,Mid-day (11am-1pm),SRG,12:52,13:02,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S158912704,,-,2024-01-14 12:52:00,2024-01-14 13:02:00,1.0
+388,389,1/14/2024,C1,Evening (3-5pm),KEC,15:38,15:49,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S171159483,,-,2024-01-14 15:38:00,2024-01-14 15:49:00,1.0
+389,390,1/14/2024,C2,Evening (3-5pm),KEC,15:53,16:05,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S158930176,,-,2024-01-14 15:53:00,2024-01-14 16:05:00,1.0
+390,391,1/14/2024,C3,Evening (3-5pm),KEC,16:08,16:18,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S158931262,,-,2024-01-14 16:08:00,2024-01-14 16:18:00,1.0
+391,392,1/14/2024,C4,Evening (3-5pm),KEC,16:22,16:32,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S158932146,,-,2024-01-14 16:22:00,2024-01-14 16:32:00,1.0
+392,393,1/14/2024,C5,Evening (3-5pm),KEC,16:35,16:45,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S158932971,loud fan,-,2024-01-14 16:35:00,2024-01-14 16:45:00,1.0
+393,394,1/14/2024,C6,Evening (3-5pm),KEC,16:50,17:00,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S158936820,,-,2024-01-14 16:50:00,2024-01-14 17:00:00,1.0
+394,395,1/15/2024,C1,Morning (7-9am),SRG,7:56,8:06,Cloudy,Dry,Slight Wind,47,https://ebird.org/checklist/S158972868,,-,2024-01-15 07:56:00,2024-01-15 08:06:00,0.9444444444444444
+395,396,1/15/2024,C2,Morning (7-9am),SRG,8:07,8:17,Cloudy,Dry,Slight Wind,47,https://ebird.org/checklist/S158974112,,-,2024-01-15 08:07:00,2024-01-15 08:17:00,0.9444444444444444
+396,397,1/15/2024,C3,Morning (7-9am),SRG,8:19,8:29,Cloudy,Dry,Slight Wind,48,https://ebird.org/checklist/S158975589,,-,2024-01-15 08:19:00,2024-01-15 08:29:00,0.9444444444444444
+397,398,1/15/2024,C4,Morning (7-9am),SRG,8:32,8:42,Cloudy,Dry,Slight Wind,48,https://ebird.org/checklist/S158976669,,-,2024-01-15 08:32:00,2024-01-15 08:42:00,0.9444444444444444
+398,399,1/15/2024,C5,Morning (7-9am),SRG,8:44,8:54,Cloudy,Dry,Slight Wind,49,https://ebird.org/checklist/S158978001,,-,2024-01-15 08:44:00,2024-01-15 08:54:00,0.9444444444444444
+399,400,1/15/2024,,Mid-day (11am-1pm),KEC,,,,,,-100,,,missing data?,,,0.9444444444444444
+400,401,1/15/2024,,Mid-day (11am-1pm),KEC,,,,,,-100,,,missing data?,,,0.9444444444444444
+401,402,1/15/2024,,Mid-day (11am-1pm),KEC,,,,,,-100,,,missing data?,,,0.9444444444444444
+402,403,1/15/2024,,Mid-day (11am-1pm),KEC,,,,,,-100,,,missing data?,,,0.9444444444444444
+403,404,1/15/2024,,Mid-day (11am-1pm),KEC,,,,,,-100,,,missing data?,,,0.9444444444444444
+404,405,1/15/2024,,Mid-day (11am-1pm),KEC,,,,,,-100,,,missing data?,,,0.9444444444444444
+405,406,1/15/2024,B1,Evening (3-5pm),SRG,15:41,15:51,Partial Cloudy,Dry,Calm,58,https://ebird.org/checklist/S159021922,,-,2024-01-15 15:41:00,2024-01-15 15:51:00,0.9444444444444444
+406,407,1/15/2024,B2,Evening (3-5pm),SRG,15:53,16:03,Partial Cloudy,Dry,Calm,58,https://ebird.org/checklist/S159022737,,-,2024-01-15 15:53:00,2024-01-15 16:03:00,0.9444444444444444
+407,408,1/15/2024,B3,Evening (3-5pm),SRG,16:06,16:16,Partial Cloudy,Dry,Calm,58,https://ebird.org/checklist/S159023496,,-,2024-01-15 16:06:00,2024-01-15 16:16:00,0.9444444444444444
+408,409,1/15/2024,B4,Evening (3-5pm),SRG,16:18,16:28,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S159024178,,-,2024-01-15 16:18:00,2024-01-15 16:28:00,0.9444444444444444
+409,410,1/15/2024,B5,Evening (3-5pm),SRG,16:30,16:40,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S159024791,,-,2024-01-15 16:30:00,2024-01-15 16:40:00,0.9444444444444444
+410,411,1/15/2024,B6,Evening (3-5pm),SRG,16:41,16:51,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S159025494,,-,2024-01-15 16:41:00,2024-01-15 16:51:00,0.9444444444444444
+411,412,1/19/2024,B1,Morning (7-9am),SUC,8:51,9:01,Cloudy,Dry,Calm,50,https://ebird.org/checklist/S171428016,"most bird sounds to the north; near McCone and EAsian library; Am rusty with bird calls, robins sound like woodpeckers",-,2024-01-19 08:51:00,2024-01-19 09:01:00,0.6666666666666666
+412,413,1/19/2024,B2,Morning (7-9am),SUC,8:02,8:12,Cloudy,Dry,Calm,50,https://ebird.org/checklist/S171430562,"machine noise near VLSB, hard to hear birbs",-,2024-01-19 08:02:00,2024-01-19 08:12:00,0.6666666666666666
+413,414,1/19/2024,B3,Morning (7-9am),SUC,8:15,8:25,Cloudy,Dry,Slight Wind,50,https://ebird.org/checklist/S171431464,Dwinelle Lot Construction Sounds,-,2024-01-19 08:15:00,2024-01-19 08:25:00,0.6666666666666666
+414,415,1/19/2024,B4,Morning (7-9am),SUC,8:28,8:38,Partial Cloudy,Dry,Calm,50,https://ebird.org/checklist/S171432060,Dwinelle lot construction very close -- sounds gaslighting me [illegible],-,2024-01-19 08:28:00,2024-01-19 08:38:00,0.6666666666666666
+415,416,1/19/2024,B5,Morning (7-9am),SUC,8:39,8:49,Cloudy,Dry,Calm,50,https://ebird.org/checklist/S171432414,,-,2024-01-19 08:39:00,2024-01-19 08:49:00,0.6666666666666666
+416,417,1/19/2024,B6,Morning (7-9am),SUC,8:49,8:59,Cloudy,Dry,,-100,https://ebird.org/checklist/S171432925,,missing data?,2024-01-19 08:49:00,2024-01-19 08:59:00,0.6666666666666666
+417,418,1/19/2024,A1,Mid-day (11am-1pm),SRG,11:28,11:38,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S159292148,,-,2024-01-19 11:28:00,2024-01-19 11:38:00,0.6666666666666666
+418,419,1/19/2024,A2,Mid-day (11am-1pm),SRG,11:41,11:51,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S159293196,Construction,-,2024-01-19 11:41:00,2024-01-19 11:51:00,0.6666666666666666
+419,420,1/19/2024,A3,Mid-day (11am-1pm),SRG,11:56,12:06,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S159294510,Construction. 0 species,-,2024-01-19 11:56:00,2024-01-19 12:06:00,0.6666666666666666
+420,421,1/19/2024,A4,Mid-day (11am-1pm),SRG,12:08,12:18,Cloudy,Dry,Calm,56,https://ebird.org/checklist/S159295417,,-,2024-01-19 12:08:00,2024-01-19 12:18:00,0.6666666666666666
+421,422,1/19/2024,A5,Mid-day (11am-1pm),SRG,12:20,12:30,Cloudy,Dry,Calm,56,https://ebird.org/checklist/S159296294,,-,2024-01-19 12:20:00,2024-01-19 12:30:00,0.6666666666666666
+422,423,1/19/2024,A6,Mid-day (11am-1pm),SRG,12:32,12:42,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S159297248,,-,2024-01-19 12:32:00,2024-01-19 12:42:00,0.6666666666666666
+423,424,1/21/2024,C1,Morning (7-9am),LSW,7:33,7:43,Cloudy,Dry,Calm,52,https://ebird.org/checklist/S159449668,,-,2024-01-21 07:33:00,2024-01-21 07:43:00,0.6666666666666666
+424,425,1/21/2024,C2,Morning (7-9am),LSW,7:46,7:56,Cloudy,Dry,Calm,52,https://ebird.org/checklist/S159451119,,-,2024-01-21 07:46:00,2024-01-21 07:56:00,0.6666666666666666
+425,426,1/21/2024,C3,Morning (7-9am),LSW,8:01,8:11,Cloudy,Dry,Slight Wind,53,https://ebird.org/checklist/S159452817,,-,2024-01-21 08:01:00,2024-01-21 08:11:00,0.6666666666666666
+426,427,1/21/2024,C4,Morning (7-9am),LSW,8:16,8:26,Cloudy,Dry,Slight Wind,52,https://ebird.org/checklist/S159454544,,-,2024-01-21 08:16:00,2024-01-21 08:26:00,0.6666666666666666
+427,428,1/21/2024,C5,Morning (7-9am),LSW,8:30,8:40,Cloudy,Dry,Slight Wind,53,https://ebird.org/checklist/S159456024,"C5 blocked, stood at loop bench between VLSB and Dwinelle",-,2024-01-21 08:30:00,2024-01-21 08:40:00,0.6666666666666666
+428,429,1/21/2024,C6,Morning (7-9am),LSW,8:44,8:54,Cloudy,Dry,Slight Wind,52,https://ebird.org/checklist/S159457615,,-,2024-01-21 08:44:00,2024-01-21 08:54:00,0.6666666666666666
+429,430,1/21/2024,A1,Mid-day (11am-1pm),SRG,11:01,11:11,Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S159473236,,-,2024-01-21 11:01:00,2024-01-21 11:11:00,0.6666666666666666
+430,431,1/21/2024,A2,Mid-day (11am-1pm),SRG,11:14,11:24,Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S159475288,,-,2024-01-21 11:14:00,2024-01-21 11:24:00,0.6666666666666666
+431,432,1/21/2024,A3,Mid-day (11am-1pm),SRG,11:30,11:40,Cloudy,Dry,Slight Wind,57,https://ebird.org/checklist/S159476691,,-,2024-01-21 11:30:00,2024-01-21 11:40:00,0.6666666666666666
+432,433,1/21/2024,A4,Mid-day (11am-1pm),SRG,11:41,11:51,Cloudy,Dry,Slight Wind,58,https://ebird.org/checklist/S159478200,,-,2024-01-21 11:41:00,2024-01-21 11:51:00,0.6666666666666666
+433,434,1/21/2024,A5,Mid-day (11am-1pm),SRG,11:54,12:04,Cloudy,Dry,Slight Wind,58,https://ebird.org/checklist/S159479431,,-,2024-01-21 11:54:00,2024-01-21 12:04:00,0.6666666666666666
+434,435,1/21/2024,A6,Mid-day (11am-1pm),SRG,12:06,12:16,Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S159480870,,-,2024-01-21 12:06:00,2024-01-21 12:16:00,0.6666666666666666
+435,436,1/22/2024,C6,Mid-day (11am-1pm),JOL,11:31,11:41,Partial Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S159561576,,-,2024-01-22 11:31:00,2024-01-22 11:41:00,0.2777777777777778
+436,437,1/22/2024,C5,Mid-day (11am-1pm),JOL,11:45,11:55,Partial Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S159562552,,-,2024-01-22 11:45:00,2024-01-22 11:55:00,0.2777777777777778
+437,438,1/22/2024,C4,Mid-day (11am-1pm),JOL,11:58,12:08,Partial Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S159563469,,-,2024-01-22 11:58:00,2024-01-22 12:08:00,0.2777777777777778
+438,439,1/22/2024,C3,Mid-day (11am-1pm),JOL,12:10,12:20,Partial Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S159564513,,-,2024-01-22 12:10:00,2024-01-22 12:20:00,0.2777777777777778
+439,440,1/22/2024,C2,Mid-day (11am-1pm),JOL,12:21,12:31,Partial Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S159565379,,-,2024-01-22 12:21:00,2024-01-22 12:31:00,0.2777777777777778
+440,441,1/25/2024,B1,Morning (7-9am),SRG,7:36,7:46,Partial Cloudy,Dry,Calm,48,https://ebird.org/checklist/S159751470,,-,2024-01-25 07:36:00,2024-01-25 07:46:00,1.0
+441,442,1/25/2024,B2,Morning (7-9am),SRG,7:48,7:58,Partial Cloudy,Dry,Calm,48,https://ebird.org/checklist/S159752268,,-,2024-01-25 07:48:00,2024-01-25 07:58:00,1.0
+442,443,1/25/2024,B3,Morning (7-9am),SRG,8:01,8:11,Partial Cloudy,Dry,Calm,49,https://ebird.org/checklist/S159753190,construction,-,2024-01-25 08:01:00,2024-01-25 08:11:00,1.0
+443,444,1/25/2024,B4,Morning (7-9am),SRG,8:13,8:23,Partial Cloudy,Dry,Calm,49,https://ebird.org/checklist/S159754048,construction,-,2024-01-25 08:13:00,2024-01-25 08:23:00,1.0
+444,445,1/25/2024,B5,Morning (7-9am),SRG,8:26,8:36,Partial Cloudy,Dry,Calm,50,https://ebird.org/checklist/S159754943,,-,2024-01-25 08:26:00,2024-01-25 08:36:00,1.0
+445,446,1/25/2024,B6,Morning (7-9am),SRG,8:37,8:47,Partial Cloudy,Dry,Calm,50,https://ebird.org/checklist/S159755745,,-,2024-01-25 08:37:00,2024-01-25 08:47:00,1.0
+446,447,1/25/2024,A6,Mid-day (11am-1pm),JAL,11:12,11:22,Partial Cloudy,Dry,Calm,55,https://ebird.org/checklist/S159767349,Soil is damp with rain from yesterdy,-,2024-01-25 11:12:00,2024-01-25 11:22:00,1.0
+447,448,1/25/2024,A5,Mid-day (11am-1pm),JAL,11:27,11:37,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S159768359,,-,2024-01-25 11:27:00,2024-01-25 11:37:00,1.0
+448,449,1/25/2024,A4,Mid-day (11am-1pm),JAL,11:47,11:57,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S159769916,,-,2024-01-25 11:47:00,2024-01-25 11:57:00,1.0
+449,450,1/25/2024,A3,Mid-day (11am-1pm),JAL,12:06,12:16,Partial Cloudy,Dry,Calm,56, https://ebird.org/checklist/S159771210,Loud construction,-,2024-01-25 12:06:00,2024-01-25 12:16:00,1.0
+450,451,1/25/2024,A2,Mid-day (11am-1pm),JAL,12:27,12:37,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S159772732,construction ,-,2024-01-25 12:27:00,2024-01-25 12:37:00,1.0
+451,452,1/25/2024,A1,Mid-day (11am-1pm),JAL,12:44,12:54,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S159773881,,-,2024-01-25 12:44:00,2024-01-25 12:54:00,1.0
+452,453,1/25/2024,C1,Evening (3-5pm),LSW,15:24,15:34,Sunny,Dry,Calm,59,https://ebird.org/checklist/S159784636,,-,2024-01-25 15:24:00,2024-01-25 15:34:00,1.0
+453,454,1/25/2024,C2,Evening (3-5pm),LSW,15:37,15:47,Sunny,Dry,Calm,59,https://ebird.org/checklist/S159785431,,-,2024-01-25 15:37:00,2024-01-25 15:47:00,1.0
+454,455,1/25/2024,C3,Evening (3-5pm),LSW,15:52,16:02,Sunny,Dry,Calm,59,https://ebird.org/checklist/S159786365,,-,2024-01-25 15:52:00,2024-01-25 16:02:00,1.0
+455,456,1/25/2024,C4,Evening (3-5pm),LSW,16:06,16:16,Sunny,Dry,Calm,59,https://ebird.org/checklist/S159787130,tabling at Sather Gate - hard to hear calls,-,2024-01-25 16:06:00,2024-01-25 16:16:00,1.0
+456,457,1/25/2024,C5,Evening (3-5pm),LSW,16:21,16:31,Sunny,Dry,Calm,59,https://ebird.org/checklist/S159787966,"C5 location closed off, conducted PC at loop bench across from VLSB",-,2024-01-25 16:21:00,2024-01-25 16:31:00,1.0
+457,458,1/25/2024,C6,Evening (3-5pm),LSW,16:34,16:44,Sunny,Dry,Calm,57,https://ebird.org/checklist/S159788646,,-,2024-01-25 16:34:00,2024-01-25 16:44:00,1.0
+458,459,1/28/2024,A1,Morning (7-9am),SRG,8:28,8:38,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S160025446,,-,2024-01-28 08:28:00,2024-01-28 08:38:00,0.5555555555555556
+459,460,1/28/2024,A2,Morning (7-9am),SRG,8:41,8:51,Partial Cloudy,Dry,Calm,58,https://ebird.org/checklist/S160026982,,-,2024-01-28 08:41:00,2024-01-28 08:51:00,0.5555555555555556
+460,461,1/28/2024,A3,Morning (7-9am),SRG,8:56,9:06,Partial Cloudy,Dry,Calm,58,https://ebird.org/checklist/S160028762,,-,2024-01-28 08:56:00,2024-01-28 09:06:00,0.5555555555555556
+461,462,1/28/2024,A4,Morning (7-9am),SRG,9:07,9:17,Partial Cloudy,Dry,Calm,58,https://ebird.org/checklist/S160030006,,-,2024-01-28 09:07:00,2024-01-28 09:17:00,0.5555555555555556
+462,463,1/28/2024,C1,Evening (3-5pm),JOL,15:19,15:29,Sunny,Dry,Calm,68,https://ebird.org/checklist/S160070267,,-,2024-01-28 15:19:00,2024-01-28 15:29:00,0.5555555555555556
+463,464,1/28/2024,C2,Evening (3-5pm),JOL,15:32,15:42,Sunny,Dry,Calm,68,https://ebird.org/checklist/S160071250,,-,2024-01-28 15:32:00,2024-01-28 15:42:00,0.5555555555555556
+464,465,1/28/2024,C3,Evening (3-5pm),JOL,15:44,15:54,Sunny,Dry,Calm,68,https://ebird.org/checklist/S160072078,,-,2024-01-28 15:44:00,2024-01-28 15:54:00,0.5555555555555556
+465,466,1/28/2024,C4,Evening (3-5pm),JOL,15:56,16:06,Sunny,Dry,Calm,68,https://ebird.org/checklist/S160072910,,-,2024-01-28 15:56:00,2024-01-28 16:06:00,0.5555555555555556
+466,467,1/28/2024,C5,Evening (3-5pm),JOL,16:08,16:18,Sunny,Dry,Calm,68,https://ebird.org/checklist/S160073922,,-,2024-01-28 16:08:00,2024-01-28 16:18:00,0.5555555555555556
+467,468,1/28/2024,C6,Evening (3-5pm),JOL,16:21,16:31,Sunny,Dry,Calm,68,https://ebird.org/checklist/S160074938,,-,2024-01-28 16:21:00,2024-01-28 16:31:00,0.5555555555555556
+468,469,1/29/2024,C1,Morning (7-9am),SRG,7:33,7:43,Sunny,Dry,Calm,51,https://ebird.org/checklist/S160112797,,-,2024-01-29 07:33:00,2024-01-29 07:43:00,1.0
+469,470,1/29/2024,C2,Morning (7-9am),SRG,7:44,7:54,Sunny,Dry,Calm,52,https://ebird.org/checklist/S160113791,,-,2024-01-29 07:44:00,2024-01-29 07:54:00,1.0
+470,471,1/29/2024,C3,Morning (7-9am),SRG,7:56,8:06,Sunny,Dry,Calm,52,https://ebird.org/checklist/S160114991,,-,2024-01-29 07:56:00,2024-01-29 08:06:00,1.0
+471,472,1/29/2024,C4,Morning (7-9am),SRG,8:08,8:18,Sunny,Dry,Calm,53,https://ebird.org/checklist/S160116139,,-,2024-01-29 08:08:00,2024-01-29 08:18:00,1.0
+472,473,1/29/2024,C5,Morning (7-9am),SRG,8:26,8:36,Sunny,Dry,Calm,54,https://ebird.org/checklist/S160117866,,-,2024-01-29 08:26:00,2024-01-29 08:36:00,1.0
+473,474,1/29/2024,C6,Morning (7-9am),SRG,8:40,8:50,Sunny,Dry,Calm,53,https://ebird.org/checklist/S160118983,,-,2024-01-29 08:40:00,2024-01-29 08:50:00,1.0
+474,475,1/29/2024,A1,Mid-day (11am-1pm),JOL,11:18,11:28,Sunny,Dry,Calm,63,https://ebird.org/checklist/S160132147,,-,2024-01-29 11:18:00,2024-01-29 11:28:00,1.0
+475,476,1/29/2024,A2,Mid-day (11am-1pm),JOL,11:32,11:42,Sunny,Dry,Calm,63,https://ebird.org/checklist/S160133196,,-,2024-01-29 11:32:00,2024-01-29 11:42:00,1.0
+476,477,1/29/2024,A3,Mid-day (11am-1pm),JOL,11:44,11:54,Sunny,Dry,Calm,63,https://ebird.org/checklist/S160134112,,-,2024-01-29 11:44:00,2024-01-29 11:54:00,1.0
+477,478,1/29/2024,A4,Mid-day (11am-1pm),JOL,11:58,12:08,Sunny,Dry,Calm,66,https://ebird.org/checklist/S160135205,,-,2024-01-29 11:58:00,2024-01-29 12:08:00,1.0
+478,479,1/29/2024,A5,Mid-day (11am-1pm),JOL,12:09,12:19,Sunny,Dry,Calm,66,https://ebird.org/checklist/S160136165,,-,2024-01-29 12:09:00,2024-01-29 12:19:00,1.0
+479,480,1/29/2024,A6,Mid-day (11am-1pm),JOL,12:20,12:30,Sunny,Dry,Calm,66,https://ebird.org/checklist/S160137178,,-,2024-01-29 12:20:00,2024-01-29 12:30:00,1.0
+480,481,1/29/2024,B1,Evening (3-5pm),LSW,15:13,15:23,Partial Cloudy,Dry,Calm,68,https://ebird.org/checklist/S160150579,lots of activity on the glade due to warmer weather,-,2024-01-29 15:13:00,2024-01-29 15:23:00,1.0
+481,482,1/29/2024,B2,Evening (3-5pm),LSW,15:26,15:36,Partial Cloudy,Dry,Calm,67,https://ebird.org/checklist/S160151415,,-,2024-01-29 15:26:00,2024-01-29 15:36:00,1.0
+482,483,1/29/2024,B3,Evening (3-5pm),LSW,15:38,15:48,Partial Cloudy,Dry,Calm,67,https://ebird.org/checklist/S160152142,,-,2024-01-29 15:38:00,2024-01-29 15:48:00,1.0
+483,484,1/29/2024,B4,Evening (3-5pm),LSW,15:52,16:02,Partial Cloudy,Dry,Slight Wind,67,https://ebird.org/checklist/S160152886,"B4 location blocked by construction, conducted PC on side of bridge/creek near north",-,2024-01-29 15:52:00,2024-01-29 16:02:00,1.0
+484,485,1/29/2024,B5,Evening (3-5pm),LSW,16:05,16:15,Partial Cloudy,Dry,Calm,67,https://ebird.org/checklist/S160158839,,-,2024-01-29 16:05:00,2024-01-29 16:15:00,1.0
+485,486,1/29/2024,B6,Evening (3-5pm),LSW,16:17,16:27,Partial Cloudy,Dry,Calm,66,https://ebird.org/checklist/S160158892,,-,2024-01-29 16:17:00,2024-01-29 16:27:00,1.0
+486,487,2/5/2024,A1,Morning (7-9am),SRG,7:52,8:52,Partial Cloudy,Dry,Calm,49,https://ebird.org/checklist/S160712991,,-,2024-02-05 07:52:00,2024-02-05 08:52:00,1.0
+487,488,2/5/2024,A2,Morning (7-9am),SRG,8:04,8:14,Partial Cloudy,Dry,Calm,50,https://ebird.org/checklist/S160714247,loud construction,-,2024-02-05 08:04:00,2024-02-05 08:14:00,1.0
+488,489,2/5/2024,A3,Morning (7-9am),SRG,8:20,8:30,Partial Cloudy,Dry,Calm,50,https://ebird.org/checklist/S160715692,loud construction,-,2024-02-05 08:20:00,2024-02-05 08:30:00,1.0
+489,490,2/5/2024,A4,Morning (7-9am),SRG,8:32,8:42,Partial Cloudy,Dry,Calm,50,https://ebird.org/checklist/S160716806,,-,2024-02-05 08:32:00,2024-02-05 08:42:00,1.0
+490,491,2/5/2024,A5,Morning (7-9am),SRG,8:43,8:53,Partial Cloudy,Dry,Calm,51,https://ebird.org/checklist/S160717970,,-,2024-02-05 08:43:00,2024-02-05 08:53:00,1.0
+491,492,2/5/2024,A6,Morning (7-9am),SRG,8:55,9:05,Partial Cloudy,Dry,Calm,51,https://ebird.org/checklist/S160718984,,-,2024-02-05 08:55:00,2024-02-05 09:05:00,1.0
+492,493,2/5/2024,,,,,,,,,-100,,,missing data?,,,1.0
+493,494,2/5/2024,,,,,,,,,-100,,,missing data?,,,1.0
+494,495,2/5/2024,,,,,,,,,-100,,,missing data?,,,1.0
+495,496,2/5/2024,,,,,,,,,-100,,,missing data?,,,1.0
+496,497,2/5/2024,,,,,,,,,-100,,,missing data?,,,1.0
+497,498,2/5/2024,,,,,,,,,-100,,,missing data?,,,1.0
+498,499,2/5/2024,B1,Evening (3-5pm),LSW,15:12,15:22,Partial Cloudy,Dry,Slight Wind,52,https://ebird.org/checklist/S160749415,,-,2024-02-05 15:12:00,2024-02-05 15:22:00,1.0
+499,500,2/5/2024,B2,Evening (3-5pm),LSW,15:27,15:37,Partial Cloudy,Dry,Slight Wind,54,https://ebird.org/checklist/S160750441,,-,2024-02-05 15:27:00,2024-02-05 15:37:00,1.0
+500,501,2/5/2024,B3,Evening (3-5pm),LSW,15:43,15:53,Partial Cloudy,Dry,Slight Wind,53,https://ebird.org/checklist/S160751526,,-,2024-02-05 15:43:00,2024-02-05 15:53:00,1.0
+501,502,2/5/2024,B4,Evening (3-5pm),LSW,15:55,16:05,Partial Cloudy,Dry,Slight Wind,53,https://ebird.org/checklist/S160752306,stood by bridge near construction site,-,2024-02-05 15:55:00,2024-02-05 16:05:00,1.0
+502,503,2/5/2024,B5,Evening (3-5pm),LSW,16:07,16:17,Partial Cloudy,Dry,Calm,53,https://ebird.org/checklist/S160752971,,-,2024-02-05 16:07:00,2024-02-05 16:17:00,1.0
+503,504,2/5/2024,B6,Evening (3-5pm),LSW,16:21,16:31,Partial Cloudy,Dry,Calm,53,https://ebird.org/checklist/S160753723,,-,2024-02-05 16:21:00,2024-02-05 16:31:00,1.0
+504,505,2/10/2024,B1,Morning (7-9am),LSW,7:26,7:36,Sunny,Dry,Slight Wind,44,https://ebird.org/checklist/S161102872,,-,2024-02-10 07:26:00,2024-02-10 07:36:00,1.0
+505,506,2/10/2024,B2,Morning (7-9am),LSW,7:42,7:52,Sunny,Dry,Calm,44,https://ebird.org/checklist/S161104911,,-,2024-02-10 07:42:00,2024-02-10 07:52:00,1.0
+506,507,2/10/2024,B3,Morning (7-9am),LSW,7:56,8:06,Sunny,Dry,Calm,44,https://ebird.org/checklist/S161107020,,-,2024-02-10 07:56:00,2024-02-10 08:06:00,1.0
+507,508,2/10/2024,B4,Morning (7-9am),LSW,8:10,8:20,Sunny,Dry,Calm,46,https://ebird.org/checklist/S161109004,"stood near bridge by construction site, quite loud",-,2024-02-10 08:10:00,2024-02-10 08:20:00,1.0
+508,509,2/10/2024,B5,Morning (7-9am),LSW,8:22,8:32,Sunny,Dry,Slight Wind,47,https://ebird.org/checklist/S161110854,,-,2024-02-10 08:22:00,2024-02-10 08:32:00,1.0
+509,510,2/10/2024,B6,Morning (7-9am),LSW,8:35,8:45,Sunny,Dry,Slight Wind,48,https://ebird.org/checklist/S161112682,,-,2024-02-10 08:35:00,2024-02-10 08:45:00,1.0
+510,511,2/10/2024,A1,Mid-day (11am-1pm),LSW,11:16,11:26,Sunny,Dry,Windy,55,https://ebird.org/checklist/S161132867,,-,2024-02-10 11:16:00,2024-02-10 11:26:00,1.0
+511,512,2/10/2024,A2,Mid-day (11am-1pm),LSW,11:29,11:39,Sunny,Dry,Slight Wind,56,https://ebird.org/checklist/S161134655,,-,2024-02-10 11:29:00,2024-02-10 11:39:00,1.0
+512,513,2/10/2024,A3,Mid-day (11am-1pm),LSW,11:49,11:59,Sunny,Dry,Windy,57,https://ebird.org/checklist/S161136973,construction,-,2024-02-10 11:49:00,2024-02-10 11:59:00,1.0
+513,514,2/10/2024,A4,Mid-day (11am-1pm),LSW,12:02,12:12,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S161138603,,-,2024-02-10 12:02:00,2024-02-10 12:12:00,1.0
+514,515,2/10/2024,A5,Mid-day (11am-1pm),LSW,12:15,12:25,Sunny,Dry,Windy,57,https://ebird.org/checklist/S161140225,,-,2024-02-10 12:15:00,2024-02-10 12:25:00,1.0
+515,516,2/10/2024,A6,Mid-day (11am-1pm),LSW,12:27,12:37,Sunny,Dry,Slight Wind,58,https://ebird.org/checklist/S161141703,,-,2024-02-10 12:27:00,2024-02-10 12:37:00,1.0
+516,517,2/10/2024,B1,Evening (3-5pm),SRG,15:47,15:57,Sunny,Dry,Slight Wind,61,https://ebird.org/checklist/S161162983,,-,2024-02-10 15:47:00,2024-02-10 15:57:00,1.0
+517,518,2/10/2024,B2,Evening (3-5pm),SRG,15:59,16:09,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S161163870,,-,2024-02-10 15:59:00,2024-02-10 16:09:00,1.0
+518,519,2/10/2024,B3,Evening (3-5pm),SRG,16:11,16:21,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S161164813,,-,2024-02-10 16:11:00,2024-02-10 16:21:00,1.0
+519,520,2/10/2024,B4,Evening (3-5pm),SRG,16:23,16:33,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S161165696,,-,2024-02-10 16:23:00,2024-02-10 16:33:00,1.0
+520,521,2/10/2024,B5,Evening (3-5pm),SRG,16:36,16:46,Sunny,Dry,Slight Wind,59,https://ebird.org/checklist/S161166741,,-,2024-02-10 16:36:00,2024-02-10 16:46:00,1.0
+521,522,2/10/2024,B6,Evening (3-5pm),SRG,16:48,16:58,Sunny,Dry,Slight Wind,59,https://ebird.org/checklist/S161167583,,-,2024-02-10 16:48:00,2024-02-10 16:58:00,1.0
+522,523,2/15/2024,C1,Morning (7-9am),SRG,7:41,7:51,Cloudy,Dry,Slight Wind,50,https://ebird.org/checklist/S161564140,,-,2024-02-15 07:41:00,2024-02-15 07:51:00,0.2777777777777778
+523,524,2/15/2024,C2,Morning (7-9am),SRG,7:52,8:02,Cloudy,Dry,Slight Wind,50,https://ebird.org/checklist/S161565236,,-,2024-02-15 07:52:00,2024-02-15 08:02:00,0.2777777777777778
+524,525,2/15/2024,C3,Morning (7-9am),SRG,8:04,8:14,Cloudy,Dry,Slight Wind,51,https://ebird.org/checklist/S161566323,,-,2024-02-15 08:04:00,2024-02-15 08:14:00,0.2777777777777778
+525,526,2/15/2024,C4,Morning (7-9am),SRG,8:16,8:26,Cloudy,Dry,Slight Wind,51,https://ebird.org/checklist/S161567793,,-,2024-02-15 08:16:00,2024-02-15 08:26:00,0.2777777777777778
+526,527,2/15/2024,C6,Morning (7-9am),SRG,8:31,8:41,Cloudy,Drizzle,Calm,51,https://ebird.org/checklist/S161569597,,-,2024-02-15 08:31:00,2024-02-15 08:41:00,0.2777777777777778
+527,528,2/19/2024,C1,Evening (3-5pm),LSW,15:07,15:17,Partial Cloudy,Dry,Slight Wind,60,https://ebird.org/checklist/S161600542,construction,-,2024-02-19 15:07:00,2024-02-19 15:17:00,1.0
+528,529,2/19/2024,C2,Evening (3-5pm),LSW,15:20,15:30,Partial Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S161601613,,-,2024-02-19 15:20:00,2024-02-19 15:30:00,1.0
+529,530,2/19/2024,C3,Evening (3-5pm),LSW,15:34,15:44,Partial Cloudy,Dry,Slight Wind,59,https://ebird.org/checklist/S161602549,,-,2024-02-19 15:34:00,2024-02-19 15:44:00,1.0
+530,531,2/19/2024,C4,Evening (3-5pm),LSW,15:47,15:57,Cloudy,Dry,Slight Wind,58,https://ebird.org/checklist/S161603430,,-,2024-02-19 15:47:00,2024-02-19 15:57:00,1.0
+531,532,2/19/2024,C5,Evening (3-5pm),LSW,16:00,16:10,Cloudy,Dry,Slight Wind,58,https://ebird.org/checklist/S161604219,"C5 blocked, stood at Loop bench btwn VLSB and Dwinelle",-,2024-02-19 16:00:00,2024-02-19 16:10:00,1.0
+532,533,2/19/2024,C6,Evening (3-5pm),LSW,16:13,16:23,Cloudy,Dry,Slight Wind,58,https://ebird.org/checklist/S161605108,,-,2024-02-19 16:13:00,2024-02-19 16:23:00,1.0
+533,534,2/19/2024,B1,Morning (7-9am),SRG,7:59,8:06,Cloudy,Drizzle,Windy,59,https://ebird.org/checklist/S162213561,,-,2024-02-19 07:59:00,2024-02-19 08:06:00,1.0
+534,535,2/19/2024,B2,Morning (7-9am),SRG,8:11,8:21,Cloudy,Drizzle,Windy,54,https://ebird.org/checklist/S162216405,,-,2024-02-19 08:11:00,2024-02-19 08:21:00,1.0
+535,536,2/19/2024,B3,Morning (7-9am),SRG,8:25,8:35,Cloudy,Dry,Windy,55,https://ebird.org/checklist/S162218839,,-,2024-02-19 08:25:00,2024-02-19 08:35:00,1.0
+536,537,2/19/2024,B4,Morning (7-9am),SRG,8:37,8:47,Cloudy,Dry,Windy,55,https://ebird.org/checklist/S162221516,,-,2024-02-19 08:37:00,2024-02-19 08:47:00,1.0
+537,538,2/19/2024,B5,Morning (7-9am),SRG,8:50,9:00,Cloudy,Drizzle,Windy,55,https://ebird.org/checklist/S162224591,,-,2024-02-19 08:50:00,2024-02-19 09:00:00,1.0
+538,539,2/19/2024,B6,Morning (7-9am),SRG,9:03,9:13,Cloudy,Drizzle,Windy,56,https://ebird.org/checklist/S162228290,,-,2024-02-19 09:03:00,2024-02-19 09:13:00,1.0
+539,540,2/19/2024,C1,Mid-day (11am-1pm),SRG,11:37,11:47,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162256623,,-,2024-02-19 11:37:00,2024-02-19 11:47:00,1.0
+540,541,2/19/2024,C2,Mid-day (11am-1pm),SRG,11:51,12:01,Cloudy,Dry,Windy,58,https://ebird.org/checklist/S162259253,,-,2024-02-19 11:51:00,2024-02-19 12:01:00,1.0
+541,542,2/19/2024,C3,Mid-day (11am-1pm),SRG,12:05,12:15,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162261889,,-,2024-02-19 12:05:00,2024-02-19 12:15:00,1.0
+542,543,2/19/2024,C4,Mid-day (11am-1pm),SRG,12:17,12:27,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162264836,,-,2024-02-19 12:17:00,2024-02-19 12:27:00,1.0
+543,544,2/19/2024,C5,Mid-day (11am-1pm),SRG,12:34,12:44,Cloudy,Drizzle,Windy,57,https://ebird.org/checklist/S162266863,,-,2024-02-19 12:34:00,2024-02-19 12:44:00,1.0
+544,545,2/19/2024,C6,Mid-day (11am-1pm),SRG,12:45,12:55,Cloudy,Drizzle,Windy,57,https://ebird.org/checklist/S162273587,,-,2024-02-19 12:45:00,2024-02-19 12:55:00,1.0
+545,546,2/23/2024,C6,Morning (7-9am),SRG,7:34,7:44,Cloudy,Dry,Windy,48,https://ebird.org/checklist/S162638062,,-,2024-02-23 07:34:00,2024-02-23 07:44:00,1.0
+546,547,2/23/2024,C5,Morning (7-9am),SRG,7:47,7:57,Cloudy,Dry,Windy,50,https://ebird.org/checklist/S162639616,,-,2024-02-23 07:47:00,2024-02-23 07:57:00,1.0
+547,548,2/23/2024,C4,Morning (7-9am),SRG,8:00,8:10,Cloudy,Dry,Windy,50,https://ebird.org/checklist/S162641068,,-,2024-02-23 08:00:00,2024-02-23 08:10:00,1.0
+548,549,2/23/2024,C3,Morning (7-9am),SRG,8:13,8:23,Cloudy,Dry,Windy,51,https://ebird.org/checklist/S162642301,,-,2024-02-23 08:13:00,2024-02-23 08:23:00,1.0
+549,550,2/23/2024,C2,Morning (7-9am),SRG,8:25,8:35,Cloudy,Dry,Windy,52,https://ebird.org/checklist/S162643538,,-,2024-02-23 08:25:00,2024-02-23 08:35:00,1.0
+550,551,2/23/2024,C1,Morning (7-9am),SRG,8:36,8:46,Cloudy,Dry,Windy,52,https://ebird.org/checklist/S162644737,,-,2024-02-23 08:36:00,2024-02-23 08:46:00,1.0
+551,552,2/23/2024,A1,Mid-day (11am-1pm),JOL,11:00,11:10,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162659399,,-,2024-02-23 11:00:00,2024-02-23 11:10:00,1.0
+552,553,2/23/2024,A2,Mid-day (11am-1pm),JOL,11:12,11:22,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162660575,,-,2024-02-23 11:12:00,2024-02-23 11:22:00,1.0
+553,554,2/23/2024,A3,Mid-day (11am-1pm),JOL,11:24,11:34,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162661788,,-,2024-02-23 11:24:00,2024-02-23 11:34:00,1.0
+554,555,2/23/2024,A4,Mid-day (11am-1pm),JOL,11:36,11:46,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162662916,,-,2024-02-23 11:36:00,2024-02-23 11:46:00,1.0
+555,556,2/23/2024,A5,Mid-day (11am-1pm),JOL,11:48,11:58,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162664048,,-,2024-02-23 11:48:00,2024-02-23 11:58:00,1.0
+556,557,2/23/2024,A6,Mid-day (11am-1pm),JOL,11:59,12:09,Cloudy,Dry,Windy,57,https://ebird.org/checklist/S162665360,,-,2024-02-23 11:59:00,2024-02-23 12:09:00,1.0
+557,558,2/23/2024,C1,Evening (3-5pm),LSW,15:15,15:25,Partial Cloudy,Dry,Windy,62,https://ebird.org/checklist/S162683999,,-,2024-02-23 15:15:00,2024-02-23 15:25:00,1.0
+558,559,2/23/2024,C2,Evening (3-5pm),LSW,15:27,15:37,Partial Cloudy,Dry,Windy,62,https://ebird.org/checklist/S162685038,,-,2024-02-23 15:27:00,2024-02-23 15:37:00,1.0
+559,560,2/23/2024,C3,Evening (3-5pm),LSW,15:41,15:51,Partial Cloudy,Dry,Windy,62,https://ebird.org/checklist/S162686071,,-,2024-02-23 15:41:00,2024-02-23 15:51:00,1.0
+560,561,2/23/2024,C4,Evening (3-5pm),LSW,15:54,16:04,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S162687045,"concert/protest on sproul, hard to hear",-,2024-02-23 15:54:00,2024-02-23 16:04:00,1.0
+561,562,2/23/2024,C5,Evening (3-5pm),LSW,16:07,16:17,Partial Cloudy,Dry,Windy,62,https://ebird.org/checklist/S162688075,,-,2024-02-23 16:07:00,2024-02-23 16:17:00,1.0
+562,563,2/23/2024,C6,Evening (3-5pm),LSW,16:20,16:30,Partial Cloudy,Dry,Windy,61,https://ebird.org/checklist/S162688989,,-,2024-02-23 16:20:00,2024-02-23 16:30:00,1.0
+563,564,2/24/2024,B1,Morning (7-9am),JOL,8:06,8:16,Sunny,Dry,Calm,57,https://ebird.org/checklist/S162750254,,-,2024-02-24 08:06:00,2024-02-24 08:16:00,0.6666666666666666
+564,565,2/24/2024,B2,Morning (7-9am),JOL,8:18,8:28,Sunny,Dry,Calm,57,https://ebird.org/checklist/S162752281,,-,2024-02-24 08:18:00,2024-02-24 08:28:00,0.6666666666666666
+565,566,2/24/2024,B3,Morning (7-9am),JOL,8:30,8:40,Sunny,Dry,Calm,57,https://ebird.org/checklist/S162754188,,-,2024-02-24 08:30:00,2024-02-24 08:40:00,0.6666666666666666
+566,567,2/24/2024,B4,Morning (7-9am),JOL,8:42,8:52,Sunny,Dry,Calm,57,https://ebird.org/checklist/S162755948,,-,2024-02-24 08:42:00,2024-02-24 08:52:00,0.6666666666666666
+567,568,2/24/2024,B5,Morning (7-9am),JOL,8:54,9:04,Sunny,Dry,Calm,57,https://ebird.org/checklist/S162757726,,-,2024-02-24 08:54:00,2024-02-24 09:04:00,0.6666666666666666
+568,569,2/24/2024,B6,Morning (7-9am),JOL,9:05,9:15,Sunny,Dry,Calm,57,https://ebird.org/checklist/S162759260,,-,2024-02-24 09:05:00,2024-02-24 09:15:00,0.6666666666666666
+569,570,2/24/2024,B1,Mid-day (11am-1pm),SRG,11:16,11:26,Sunny,Dry,Slight Wind,63,https://ebird.org/checklist/S162776827,,-,2024-02-24 11:16:00,2024-02-24 11:26:00,0.6666666666666666
+570,571,2/24/2024,B2,Mid-day (11am-1pm),SRG,11:28,11:38,Sunny,Dry,Slight Wind,64,https://ebird.org/checklist/S162778282,,-,2024-02-24 11:28:00,2024-02-24 11:38:00,0.6666666666666666
+571,572,2/24/2024,B3,Mid-day (11am-1pm),SRG,11:40,11:50,Sunny,Dry,Slight Wind,65,https://ebird.org/checklist/S162779775,construction,-,2024-02-24 11:40:00,2024-02-24 11:50:00,0.6666666666666666
+572,573,2/24/2024,B4,Mid-day (11am-1pm),SRG,11:52,12:02,Sunny,Dry,Slight Wind,65,https://ebird.org/checklist/S162781332,,-,2024-02-24 11:52:00,2024-02-24 12:02:00,0.6666666666666666
+573,574,2/24/2024,B5,Mid-day (11am-1pm),SRG,12:05,12:15,Sunny,Dry,Slight Wind,65,https://ebird.org/checklist/S162782896,,-,2024-02-24 12:05:00,2024-02-24 12:15:00,0.6666666666666666
+574,575,2/24/2024,B6,Mid-day (11am-1pm),SRG,12:17,12:27,Sunny,Dry,Slight Wind,66,https://ebird.org/checklist/S162784394,,-,2024-02-24 12:17:00,2024-02-24 12:27:00,0.6666666666666666
+575,576,2/25/2024,A1,Morning (7-9am),SRG,7:28,7:38,Cloudy,Dry,Calm,49,https://ebird.org/checklist/S162870849,,-,2024-02-25 07:28:00,2024-02-25 07:38:00,0.6666666666666666
+576,577,2/25/2024,A2,Morning (7-9am),SRG,7:42,7:52,Cloudy,Dry,Calm,50,https://ebird.org/checklist/S162872985,,-,2024-02-25 07:42:00,2024-02-25 07:52:00,0.6666666666666666
+577,578,2/25/2024,A3,Morning (7-9am),SRG,7:59,8:09,Cloudy,Dry,Calm,51,https://ebird.org/checklist/S162875525,,-,2024-02-25 07:59:00,2024-02-25 08:09:00,0.6666666666666666
+578,579,2/25/2024,A4,Morning (7-9am),SRG,8:12,8:22,Cloudy,Dry,Calm,52,https://ebird.org/checklist/S162877606,,-,2024-02-25 08:12:00,2024-02-25 08:22:00,0.6666666666666666
+579,580,2/25/2024,A5,Morning (7-9am),SRG,8:26,8:36,Cloudy,Dry,Calm,53,https://ebird.org/checklist/S162879870,,-,2024-02-25 08:26:00,2024-02-25 08:36:00,0.6666666666666666
+580,581,2/25/2024,A6,Morning (7-9am),SRG,8:37,8:47,Cloudy,Dry,Calm,53,https://ebird.org/checklist/S162894500,,-,2024-02-25 08:37:00,2024-02-25 08:47:00,0.6666666666666666
+581,582,2/25/2024,B6,Mid-day (11am-1pm),SRG,11:13,11:23,Sunny,Dry,Calm,61,https://ebird.org/checklist/S162904678,,-,2024-02-25 11:13:00,2024-02-25 11:23:00,0.6666666666666666
+582,583,2/25/2024,B5,Mid-day (11am-1pm),SRG,11:24,11:34,Sunny,Dry,Calm,61,https://ebird.org/checklist/S162906245,,-,2024-02-25 11:24:00,2024-02-25 11:34:00,0.6666666666666666
+583,584,2/25/2024,B4,Mid-day (11am-1pm),SRG,11:37,11:47,Sunny,Dry,Calm,61,https://ebird.org/checklist/S162907696,loud music playing,-,2024-02-25 11:37:00,2024-02-25 11:47:00,0.6666666666666666
+584,585,2/25/2024,B3,Mid-day (11am-1pm),SRG,11:55,12:05,Sunny,Dry,Calm,61,https://ebird.org/checklist/S162909872,,-,2024-02-25 11:55:00,2024-02-25 12:05:00,0.6666666666666666
+585,586,2/25/2024,B2,Mid-day (11am-1pm),SRG,12:08,12:18,Sunny,Dry,Calm,60,https://ebird.org/checklist/S162911369,,-,2024-02-25 12:08:00,2024-02-25 12:18:00,0.6666666666666666
+586,587,2/25/2024,B1,Mid-day (11am-1pm),SRG,12:20,12:30,Sunny,Dry,Calm,60,https://ebird.org/checklist/S162912870,,-,2024-02-25 12:20:00,2024-02-25 12:30:00,0.6666666666666666
+587,588,2/29/2024,C1,Morning (7-9am),SUC,7:33,7:43,,Drizzle,Slight Wind,51,https://ebird.org/checklist/S171433549,"Bechtel construction sound --> hard to hear birbs, probably missed some",missing data?,2024-02-29 07:33:00,2024-02-29 07:43:00,0.3333333333333333
+588,589,2/29/2024,C2,Morning (7-9am),SUC,7:45,7:55,,Drizzle,Slight Wind,51,https://ebird.org/checklist/S171434079,,missing data?,2024-02-29 07:45:00,2024-02-29 07:55:00,0.3333333333333333
+589,590,2/29/2024,C3,Morning (7-9am),SUC,7:57,8:07,Cloudy,Dry,Slight Wind,51,https://ebird.org/checklist/S171434505,,-,2024-02-29 07:57:00,2024-02-29 08:07:00,0.3333333333333333
+590,591,2/29/2024,C4,Morning (7-9am),SUC,8:10,8:20,Cloudy,Dry,Slight Wind,52,https://ebird.org/checklist/S171434896,im so bad at sound ID now :((,-,2024-02-29 08:10:00,2024-02-29 08:20:00,0.3333333333333333
+591,592,2/29/2024,C5,Morning (7-9am),SUC,8:21,8:31,Sunny,Dry,Slight Wind,52,https://ebird.org/checklist/S171435317,Dwinelle annex/lot construction --> hard to hear birbs,-,2024-02-29 08:21:00,2024-02-29 08:31:00,0.3333333333333333
+592,593,2/29/2024,C6,Morning (7-9am),SUC,8:38,8:48,Cloudy,Dry,Calm,53,https://ebird.org/checklist/S171435798,,-,2024-02-29 08:38:00,2024-02-29 08:48:00,0.3333333333333333
+593,594,3/3/2024,A1,Morning (7-9am),LSW,7:36,7:46,Cloudy,Drizzle,Calm,44,https://ebird.org/checklist/S163565705,,-,2024-03-03 07:36:00,2024-03-03 07:46:00,0.7222222222222222
+594,595,3/3/2024,A2,Morning (7-9am),LSW,7:50,8:00,Cloudy,Dry,Calm,44,https://ebird.org/checklist/S163567907,,-,2024-03-03 07:50:00,2024-03-03 08:00:00,0.7222222222222222
+595,596,3/3/2024,A3,Morning (7-9am),LSW,8:06,8:16,Partial Cloudy,Dry,Calm,45,https://ebird.org/checklist/S163570827,"construction, couldn't hear much",-,2024-03-03 08:06:00,2024-03-03 08:16:00,0.7222222222222222
+596,597,3/3/2024,A4,Morning (7-9am),LSW,8:19,8:29,Partial Cloudy,Dry,Calm,45,https://ebird.org/checklist/S163573219,,-,2024-03-03 08:19:00,2024-03-03 08:29:00,0.7222222222222222
+597,598,3/3/2024,A5,Morning (7-9am),LSW,8:33,8:43,Partial Cloudy,Dry,Calm,46,https://ebird.org/checklist/S163575658,,-,2024-03-03 08:33:00,2024-03-03 08:43:00,0.7222222222222222
+598,599,3/3/2024,A6,Morning (7-9am),LSW,8:46,8:56,Cloudy,Dry,Calm,46,https://ebird.org/checklist/S163577815,,-,2024-03-03 08:46:00,2024-03-03 08:56:00,0.7222222222222222
+599,600,3/3/2024,A1,Mid-day (11am-1pm),LSW,11:00,11:10,Cloudy,Drizzle,Slight Wind,50,https://ebird.org/checklist/S163598633,,-,2024-03-03 11:00:00,2024-03-03 11:10:00,0.7222222222222222
+600,601,3/3/2024,A2,Mid-day (11am-1pm),LSW,11:14,11:24,Partial Cloudy,Dry,Slight Wind,50,https://ebird.org/checklist/S163600541,construction,-,2024-03-03 11:14:00,2024-03-03 11:24:00,0.7222222222222222
+601,602,3/3/2024,A3,Mid-day (11am-1pm),LSW,11:29,11:39,Partial Cloudy,Dry,Slight Wind,50,https://ebird.org/checklist/S163602792,construction,-,2024-03-03 11:29:00,2024-03-03 11:39:00,0.7222222222222222
+602,603,3/3/2024,A4,Mid-day (11am-1pm),LSW,11:41,11:51,Cloudy,Dry,Windy,51,https://ebird.org/checklist/S163604612,,-,2024-03-03 11:41:00,2024-03-03 11:51:00,0.7222222222222222
+603,604,3/3/2024,A5,Mid-day (11am-1pm),LSW,11:53,12:03,Cloudy,Dry,Windy,51,https://ebird.org/checklist/S163606295,,-,2024-03-03 11:53:00,2024-03-03 12:03:00,0.7222222222222222
+604,605,3/3/2024,A6,Mid-day (11am-1pm),LSW,12:05,12:15,Cloudy,Dry,Slight Wind,51,https://ebird.org/checklist/S163608032,,-,2024-03-03 12:05:00,2024-03-03 12:15:00,0.7222222222222222
+605,606,3/3/2024,C1,Evening (3-5pm),LSW,15:05,15:15,Cloudy,Drizzle,Calm,52,https://ebird.org/checklist/S163634323,,-,2024-03-03 15:05:00,2024-03-03 15:15:00,0.7222222222222222
+606,607,3/8/2024,A6,Morning (7-9am),SRG,7:26,7:36,Sunny,Dry,Calm,46,https://ebird.org/checklist/S164100134,,-,2024-03-08 07:26:00,2024-03-08 07:36:00,1.0
+607,608,3/8/2024,A5,Morning (7-9am),SRG,7:39,7:49,Sunny,Dry,Calm,47,https://ebird.org/checklist/S164101498,,-,2024-03-08 07:39:00,2024-03-08 07:49:00,1.0
+608,609,3/8/2024,A4,Morning (7-9am),SRG,7:51,8:01,Sunny,Dry,Calm,48,https://ebird.org/checklist/S164102909,,-,2024-03-08 07:51:00,2024-03-08 08:01:00,1.0
+609,610,3/8/2024,A3,Morning (7-9am),SRG,8:03,8:13,Sunny,Dry,Calm,48,https://ebird.org/checklist/S164104180,construction,-,2024-03-08 08:03:00,2024-03-08 08:13:00,1.0
+610,611,3/8/2024,A2,Morning (7-9am),SRG,8:20,8:30,Sunny,Dry,Calm,50,https://ebird.org/checklist/S164106017,,-,2024-03-08 08:20:00,2024-03-08 08:30:00,1.0
+611,612,3/8/2024,A1,Morning (7-9am),SRG,8:33,8:43,Sunny,Dry,Calm,51,https://ebird.org/checklist/S164107699,,-,2024-03-08 08:33:00,2024-03-08 08:43:00,1.0
+612,613,3/8/2024,C6,Mid-day (11am-1pm),SRG,11:42,11:52,Sunny,Dry,Slight Wind,60,https://ebird.org/checklist/S164126188,,-,2024-03-08 11:42:00,2024-03-08 11:52:00,1.0
+613,614,3/8/2024,C5,Mid-day (11am-1pm),SRG,11:56,12:06,Sunny,Dry,Slight Wind,61,https://ebird.org/checklist/S164127357,,-,2024-03-08 11:56:00,2024-03-08 12:06:00,1.0
+614,615,3/8/2024,C4,Mid-day (11am-1pm),SRG,12:09,12:19,Sunny,Dry,Slight Wind,61,https://ebird.org/checklist/S164128517,,-,2024-03-08 12:09:00,2024-03-08 12:19:00,1.0
+615,616,3/8/2024,C3,Mid-day (11am-1pm),SRG,12:21,12:31,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S164129908,,-,2024-03-08 12:21:00,2024-03-08 12:31:00,1.0
+616,617,3/8/2024,C2,Mid-day (11am-1pm),SRG,12:34,12:44,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S164131144,,-,2024-03-08 12:34:00,2024-03-08 12:44:00,1.0
+617,618,3/8/2024,C1,Mid-day (11am-1pm),SRG,12:45,12:55,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S164132114,,-,2024-03-08 12:45:00,2024-03-08 12:55:00,1.0
+618,619,3/8/2024,C1,Evening (3-5pm),LSW,15:18,15:28,Sunny,Dry,Slight Wind,64,https://ebird.org/checklist/S164145518,,-,2024-03-08 15:18:00,2024-03-08 15:28:00,1.0
+619,620,3/8/2024,C2,Evening (3-5pm),LSW,15:30,15:40,Sunny,Dry,Slight Wind,64,https://ebird.org/checklist/S164146471,lots of activity on the glade,-,2024-03-08 15:30:00,2024-03-08 15:40:00,1.0
+620,621,3/8/2024,C3,Evening (3-5pm),LSW,15:42,15:52,Sunny,Dry,Slight Wind,64,https://ebird.org/checklist/S164147311,,-,2024-03-08 15:42:00,2024-03-08 15:52:00,1.0
+621,622,3/8/2024,C4,Evening (3-5pm),LSW,15:54,16:04,Sunny,Dry,Slight Wind,64,https://ebird.org/checklist/S164148140,protest,-,2024-03-08 15:54:00,2024-03-08 16:04:00,1.0
+622,623,3/8/2024,C5,Evening (3-5pm),LSW,16:08,16:18,Sunny,Dry,Slight Wind,63,https://ebird.org/checklist/S164149061,"C5 blocked, stood at LOOP bench by VLSB",-,2024-03-08 16:08:00,2024-03-08 16:18:00,1.0
+623,624,3/8/2024,C6,Evening (3-5pm),LSW,16:21,16:31,Sunny,Dry,Slight Wind,63,https://ebird.org/checklist/S164149961,,-,2024-03-08 16:21:00,2024-03-08 16:31:00,1.0
+624,625,3/10/2024,C6,Morning (7-9am),SRG,7:39,7:49,Cloudy,Dry,Calm,46,https://ebird.org/checklist/S164309488,,-,2024-03-10 07:39:00,2024-03-10 07:49:00,1.0
+625,626,3/10/2024,C5,Morning (7-9am),SRG,7:54,8:04,Cloudy,Dry,Calm,48,https://ebird.org/checklist/S164311687,,-,2024-03-10 07:54:00,2024-03-10 08:04:00,1.0
+626,627,3/10/2024,C4,Morning (7-9am),SRG,8:07,8:17,Cloudy,Dry,Calm,48,https://ebird.org/checklist/S164313469,,-,2024-03-10 08:07:00,2024-03-10 08:17:00,1.0
+627,628,3/10/2024,C3,Morning (7-9am),SRG,8:20,8:30,Cloudy,Dry,Calm,48,https://ebird.org/checklist/S164315349,,-,2024-03-10 08:20:00,2024-03-10 08:30:00,1.0
+628,629,3/10/2024,C2,Morning (7-9am),SRG,8:33,8:43,Cloudy,Dry,Calm,49,https://ebird.org/checklist/S164317013,,-,2024-03-10 08:33:00,2024-03-10 08:43:00,1.0
+629,630,3/10/2024,C1,Morning (7-9am),SRG,8:45,8:55,Cloudy,Dry,Calm,49,https://ebird.org/checklist/S164318862,,-,2024-03-10 08:45:00,2024-03-10 08:55:00,1.0
+630,631,3/10/2024,A1,Mid-day (11am-1pm),SRG,11:39,11:49,Cloudy,Dry,Calm,55,https://ebird.org/checklist/S164342452,,-,2024-03-10 11:39:00,2024-03-10 11:49:00,1.0
+631,632,3/10/2024,A2,Mid-day (11am-1pm),SRG,11:52,12:02,Cloudy,Dry,Calm,56,https://ebird.org/checklist/S164344183,,-,2024-03-10 11:52:00,2024-03-10 12:02:00,1.0
+632,633,3/10/2024,A3,Mid-day (11am-1pm),SRG,12:08,12:18,Partial Cloudy,Dry,Calm,56,https://ebird.org/checklist/S164346345,,-,2024-03-10 12:08:00,2024-03-10 12:18:00,1.0
+633,634,3/10/2024,A4,Mid-day (11am-1pm),SRG,12:20,12:30,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S164347642,,-,2024-03-10 12:20:00,2024-03-10 12:30:00,1.0
+634,635,3/10/2024,A5,Mid-day (11am-1pm),SRG,12:32,12:42,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S164349034,,-,2024-03-10 12:32:00,2024-03-10 12:42:00,1.0
+635,636,3/10/2024,A6,Mid-day (11am-1pm),SRG,12:44,12:54,Partial Cloudy,Dry,Calm,57,https://ebird.org/checklist/S164350572,,-,2024-03-10 12:44:00,2024-03-10 12:54:00,1.0
+636,637,3/10/2024,B6,Evening (3-5pm),SRG,15:30,15:40,Cloudy,Dry,Calm,59,https://ebird.org/checklist/S164370122,,-,2024-03-10 15:30:00,2024-03-10 15:40:00,1.0
+637,638,3/10/2024,B5,Evening (3-5pm),SRG,15:42,15:52,Cloudy,Dry,Calm,58,https://ebird.org/checklist/S164371468,,-,2024-03-10 15:42:00,2024-03-10 15:52:00,1.0
+638,639,3/10/2024,B4,Evening (3-5pm),SRG,15:54,16:04,Cloudy,Dry,Calm,58,https://ebird.org/checklist/S164372730,loud game,-,2024-03-10 15:54:00,2024-03-10 16:04:00,1.0
+639,640,3/10/2024,B3,Evening (3-5pm),SRG,16:06,16:16,Cloudy,Dry,Calm,57,https://ebird.org/checklist/S164374003,,-,2024-03-10 16:06:00,2024-03-10 16:16:00,1.0
+640,641,3/10/2024,B2,Evening (3-5pm),SRG,16:19,16:29,Cloudy,Dry,Calm,57,https://ebird.org/checklist/S164375356,,-,2024-03-10 16:19:00,2024-03-10 16:29:00,1.0
+641,642,3/10/2024,B1,Evening (3-5pm),SRG,16:31,16:41,Cloudy,Dry,Calm,57,https://ebird.org/checklist/S164376599,,-,2024-03-10 16:31:00,2024-03-10 16:41:00,1.0
+642,643,3/20/2024,C1,Morning (7-9am),SRG,7:55,8:05,Sunny,Dry,Calm,49,https://ebird.org/checklist/S165403073,,-,2024-03-20 07:55:00,2024-03-20 08:05:00,1.0
+643,644,3/20/2024,C2,Morning (7-9am),SRG,8:06,8:16,Sunny,Dry,Calm,49,https://ebird.org/checklist/S165403112,,-,2024-03-20 08:06:00,2024-03-20 08:16:00,1.0
+644,645,3/20/2024,C3,Morning (7-9am),SRG,8:19,8:29,Sunny,Dry,Calm,50,https://ebird.org/checklist/S165403134,,-,2024-03-20 08:19:00,2024-03-20 08:29:00,1.0
+645,646,3/20/2024,C4,Morning (7-9am),SRG,8:31,8:41,Sunny,Dry,Calm,51,https://ebird.org/checklist/S165403154,,-,2024-03-20 08:31:00,2024-03-20 08:41:00,1.0
+646,647,3/20/2024,C5,Morning (7-9am),SRG,8:44,8:54,Sunny,Dry,Calm,51,https://ebird.org/checklist/S165403165,,-,2024-03-20 08:44:00,2024-03-20 08:54:00,1.0
+647,648,3/20/2024,C6,Morning (7-9am),SRG,8:58,9:08,Sunny,Dry,Calm,51,https://ebird.org/checklist/S165403175,,-,2024-03-20 08:58:00,2024-03-20 09:08:00,1.0
+648,649,3/20/2024,B6,Mid-day (11am-1pm),SRG,11:31,11:41,Sunny,Dry,Calm,58,https://ebird.org/checklist/S165381768,,-,2024-03-20 11:31:00,2024-03-20 11:41:00,1.0
+649,650,3/20/2024,B5,Mid-day (11am-1pm),SRG,11:43,11:53,Sunny,Dry,Calm,59,https://ebird.org/checklist/S165382915,,-,2024-03-20 11:43:00,2024-03-20 11:53:00,1.0
+650,651,3/20/2024,B4,Mid-day (11am-1pm),SRG,11:56,12:06,Sunny,Dry,Calm,59,https://ebird.org/checklist/S165384117,,-,2024-03-20 11:56:00,2024-03-20 12:06:00,1.0
+651,652,3/20/2024,B3,Mid-day (11am-1pm),SRG,12:08,12:18,Sunny,Dry,Calm,59,https://ebird.org/checklist/S165385495,,-,2024-03-20 12:08:00,2024-03-20 12:18:00,1.0
+652,653,3/20/2024,B2,Mid-day (11am-1pm),SRG,12:21,12:31,Sunny,Dry,Calm,60,https://ebird.org/checklist/S165386862,,-,2024-03-20 12:21:00,2024-03-20 12:31:00,1.0
+653,654,3/20/2024,B1,Mid-day (11am-1pm),SRG,12:33,12:43,Sunny,Dry,Calm,60,https://ebird.org/checklist/S165388419,,-,2024-03-20 12:33:00,2024-03-20 12:43:00,1.0
+654,655,3/20/2024,A1,Evening (3-5pm),LSW,15:33,15:43,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S165434588,,-,2024-03-20 15:33:00,2024-03-20 15:43:00,1.0
+655,656,3/20/2024,A2,Evening (3-5pm),LSW,15:55,16:05,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S166002736,,-,2024-03-20 15:55:00,2024-03-20 16:05:00,1.0
+656,657,3/20/2024,A3,Evening (3-5pm),LSW,16:13,16:23,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S166002801,construction,-,2024-03-20 16:13:00,2024-03-20 16:23:00,1.0
+657,658,3/20/2024,A4,Evening (3-5pm),LSW,16:24,16:34,Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S166002909,,-,2024-03-20 16:24:00,2024-03-20 16:34:00,1.0
+658,659,3/20/2024,A5,Evening (3-5pm),LSW,16:35,16:45,Cloudy,Dry,Calm,62,https://ebird.org/checklist/S166003008,,-,2024-03-20 16:35:00,2024-03-20 16:45:00,1.0
+659,660,3/20/2024,A6,Evening (3-5pm),LSW,16:46,16:56,Cloudy,Dry,Calm,61,https://ebird.org/checklist/S166003106,,-,2024-03-20 16:46:00,2024-03-20 16:56:00,1.0
+660,661,3/22/2024,B1,Morning (7-9am),JOL,8:05,8:15,Partial Cloudy,Dry,Slight Wind,54,https://ebird.org/checklist/S165585900,,-,2024-03-22 08:05:00,2024-03-22 08:15:00,0.6666666666666666
+661,662,3/22/2024,B2,Morning (7-9am),JOL,8:16,8:26,Partial Cloudy,Dry,Slight Wind,54,https://ebird.org/checklist/S165587396,,-,2024-03-22 08:16:00,2024-03-22 08:26:00,0.6666666666666666
+662,663,3/22/2024,B3,Morning (7-9am),JOL,8:27,8:37,Partial Cloudy,Dry,Slight Wind,54,https://ebird.org/checklist/S165588725,,-,2024-03-22 08:27:00,2024-03-22 08:37:00,0.6666666666666666
+663,664,3/22/2024,B4,Morning (7-9am),JOL,8:39,8:49,Sunny,Dry,Slight Wind,54,https://ebird.org/checklist/S165590207,,-,2024-03-22 08:39:00,2024-03-22 08:49:00,0.6666666666666666
+664,665,3/22/2024,B5,Morning (7-9am),JOL,8:51,9:01,Sunny,Dry,Slight Wind,54,https://ebird.org/checklist/S165591573,,-,2024-03-22 08:51:00,2024-03-22 09:01:00,0.6666666666666666
+665,666,3/22/2024,B6,Morning (7-9am),JOL,9:02,9:12,Sunny,Dry,Slight Wind,54,https://ebird.org/checklist/S165592848,,-,2024-03-22 09:02:00,2024-03-22 09:12:00,0.6666666666666666
+666,667,3/22/2024,A1,Mid-day (11am-1pm),JOL,11:49,11:59,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S165611762,,-,2024-03-22 11:49:00,2024-03-22 11:59:00,0.6666666666666666
+667,668,3/22/2024,A2,Mid-day (11am-1pm),JOL,12:01,12:11,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S165612903,,-,2024-03-22 12:01:00,2024-03-22 12:11:00,0.6666666666666666
+668,669,3/22/2024,A3,Mid-day (11am-1pm),JOL,12:13,12:23,Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S165614052,,-,2024-03-22 12:13:00,2024-03-22 12:23:00,0.6666666666666666
+669,670,3/22/2024,A4,Mid-day (11am-1pm),JOL,12:25,12:35,Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S165615237,,-,2024-03-22 12:25:00,2024-03-22 12:35:00,0.6666666666666666
+670,671,3/22/2024,A5,Mid-day (11am-1pm),JOL,12:37,12:47,Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S165616356,,-,2024-03-22 12:37:00,2024-03-22 12:47:00,0.6666666666666666
+671,672,3/22/2024,A6,Mid-day (11am-1pm),JOL,12:50,13:00,Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S165617404,,-,2024-03-22 12:50:00,2024-03-22 13:00:00,0.6666666666666666
+672,673,4/5/2024,A1,Morning (7-9am),SRG,7:44,7:54,Sunny,Dry,Calm,42,https://ebird.org/checklist/S167245479,,-,2024-04-05 07:44:00,2024-04-05 07:54:00,0.8333333333333334
+673,674,4/5/2024,A2,Morning (7-9am),SRG,7:57,8:07,Sunny,Dry,Calm,42,https://ebird.org/checklist/S167246953,,-,2024-04-05 07:57:00,2024-04-05 08:07:00,0.8333333333333334
+674,675,4/5/2024,A3,Morning (7-9am),SRG,8:13,8:23,Sunny,Dry,Calm,43,https://ebird.org/checklist/S167249124,,-,2024-04-05 08:13:00,2024-04-05 08:23:00,0.8333333333333334
+675,676,4/5/2024,A4,Morning (7-9am),SRG,8:25,8:35,Sunny,Dry,Calm,43,https://ebird.org/checklist/S167250757,,-,2024-04-05 08:25:00,2024-04-05 08:35:00,0.8333333333333334
+676,677,4/5/2024,A5,Morning (7-9am),SRG,8:37,8:47,Sunny,Dry,Calm,44,https://ebird.org/checklist/S167252412,,-,2024-04-05 08:37:00,2024-04-05 08:47:00,0.8333333333333334
+677,678,4/5/2024,A6,Morning (7-9am),SRG,8:49,8:59,Sunny,Dry,Calm,44,https://ebird.org/checklist/S167253870,,-,2024-04-05 08:49:00,2024-04-05 08:59:00,0.8333333333333334
+678,679,4/5/2024,B1,Mid-day (11am-1pm),SRG,11:42,11:52,Sunny,Dry,Calm,49,https://ebird.org/checklist/S167275042,,-,2024-04-05 11:42:00,2024-04-05 11:52:00,0.8333333333333334
+679,680,4/5/2024,B2,Mid-day (11am-1pm),SRG,11:54,12:04,Sunny,Dry,Calm,50,https://ebird.org/checklist/S167276512,,-,2024-04-05 11:54:00,2024-04-05 12:04:00,0.8333333333333334
+680,681,4/5/2024,B3,Mid-day (11am-1pm),SRG,12:07,12:17,Sunny,Dry,Calm,51,https://ebird.org/checklist/S167277770,,-,2024-04-05 12:07:00,2024-04-05 12:17:00,0.8333333333333334
+681,682,4/5/2024,A1,Evening (3-5pm),KEC,14:59,15:09,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S167295340,,-,2024-04-05 14:59:00,2024-04-05 15:09:00,0.8333333333333334
+682,683,4/5/2024,A2,Evening (3-5pm),KEC,15:14,15:24,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S167297051,,-,2024-04-05 15:14:00,2024-04-05 15:24:00,0.8333333333333334
+683,684,4/5/2024,A3,Evening (3-5pm),KEC,15:36,15:46,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S167301709,,-,2024-04-05 15:36:00,2024-04-05 15:46:00,0.8333333333333334
+684,685,4/5/2024,A4,Evening (3-5pm),KEC,16:11,16:21,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S167302866,,-,2024-04-05 16:11:00,2024-04-05 16:21:00,0.8333333333333334
+685,686,4/5/2024,A5,Evening (3-5pm),KEC,16:28,16:38,Partial Cloudy,Dry,Windy,56,https://ebird.org/checklist/S167304373,,-,2024-04-05 16:28:00,2024-04-05 16:38:00,0.8333333333333334
+686,687,4/5/2024,A6,Evening (3-5pm),KEC,16:41,16:52,Partial Cloudy,Dry,Windy,56,https://ebird.org/checklist/S167306068,,-,2024-04-05 16:41:00,2024-04-05 16:52:00,0.8333333333333334
+687,688,4/7/2024,B1,Morning (7-9am),SRG,7:51,8:01,Sunny,Dry,Calm,44,https://ebird.org/checklist/S167539564,,-,2024-04-07 07:51:00,2024-04-07 08:01:00,1.0
+688,689,4/7/2024,B2,Morning (7-9am),SRG,8:03,8:13,Sunny,Dry,Calm,45,https://ebird.org/checklist/S167542147,,-,2024-04-07 08:03:00,2024-04-07 08:13:00,1.0
+689,690,4/7/2024,B3,Morning (7-9am),SRG,8:16,8:26,Sunny,Dry,Calm,46,https://ebird.org/checklist/S167545152,,-,2024-04-07 08:16:00,2024-04-07 08:26:00,1.0
+690,691,4/7/2024,B4,Morning (7-9am),SRG,8:30,8:40,Sunny,Dry,Calm,47,https://ebird.org/checklist/S167548027,,-,2024-04-07 08:30:00,2024-04-07 08:40:00,1.0
+691,692,4/7/2024,B5,Morning (7-9am),SRG,8:43,8:53,Sunny,Dry,Calm,48,https://ebird.org/checklist/S167551238,,-,2024-04-07 08:43:00,2024-04-07 08:53:00,1.0
+692,693,4/7/2024,B6,Morning (7-9am),SRG,8:54,9:04,Sunny,Dry,Calm,48,https://ebird.org/checklist/S167553726,,-,2024-04-07 08:54:00,2024-04-07 09:04:00,1.0
+693,694,4/7/2024,B1,Mid-day (11am-1pm),LSW,11:23,11:33,Sunny,Dry,Slight Wind,55,https://ebird.org/checklist/S167584840,,-,2024-04-07 11:23:00,2024-04-07 11:33:00,1.0
+694,695,4/7/2024,B2,Mid-day (11am-1pm),LSW,11:36,11:46,Sunny,Dry,Slight Wind,55,https://ebird.org/checklist/S167587315,,-,2024-04-07 11:36:00,2024-04-07 11:46:00,1.0
+695,696,4/7/2024,B3,Mid-day (11am-1pm),LSW,11:49,11:59,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S167589719,,-,2024-04-07 11:49:00,2024-04-07 11:59:00,1.0
+696,697,4/7/2024,B4,Mid-day (11am-1pm),LSW,12:01,12:11,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S167591945,stood near south entrance of VLSB,-,2024-04-07 12:01:00,2024-04-07 12:11:00,1.0
+697,698,4/7/2024,B5,Mid-day (11am-1pm),LSW,12:14,12:24,Sunny,Dry,Slight Wind,57,https://ebird.org/checklist/S167594143,,-,2024-04-07 12:14:00,2024-04-07 12:24:00,1.0
+698,699,4/7/2024,B6,Mid-day (11am-1pm),LSW,12:27,12:37,Sunny,Dry,Slight Wind,58,https://ebird.org/checklist/S167596412,,-,2024-04-07 12:27:00,2024-04-07 12:37:00,1.0
+699,700,4/7/2024,C6,Evening (3-5pm),JOL,15:13,15:23,Sunny,Dry,Slight Wind,67,https://ebird.org/checklist/S167626198,,-,2024-04-07 15:13:00,2024-04-07 15:23:00,1.0
+700,701,4/7/2024,C5,Evening (3-5pm),JOL,15:29,15:39,Sunny,Dry,Slight Wind,67,https://ebird.org/checklist/S167628703,,-,2024-04-07 15:29:00,2024-04-07 15:39:00,1.0
+701,702,4/7/2024,C4,Evening (3-5pm),JOL,15:43,15:53,Sunny,Dry,Slight Wind,67,https://ebird.org/checklist/S167631008,,-,2024-04-07 15:43:00,2024-04-07 15:53:00,1.0
+702,703,4/7/2024,C3,Evening (3-5pm),JOL,15:56,16:06,Sunny,Dry,Slight Wind,67,https://ebird.org/checklist/S167633035,,-,2024-04-07 15:56:00,2024-04-07 16:06:00,1.0
+703,704,4/7/2024,C2,Evening (3-5pm),JOL,16:10,16:20,Sunny,Dry,Slight Wind,67,https://ebird.org/checklist/S167635215,,-,2024-04-07 16:10:00,2024-04-07 16:20:00,1.0
+704,705,4/7/2024,C1,Evening (3-5pm),JOL,16:22,16:32,Sunny,Dry,Slight Wind,67,https://ebird.org/checklist/S167636913,,-,2024-04-07 16:22:00,2024-04-07 16:32:00,1.0
+705,706,4/8/2024,B1,Morning (7-9am),SRG,8:03,8:13,Sunny,Dry,Calm,49,https://ebird.org/checklist/S167717564,,-,2024-04-08 08:03:00,2024-04-08 08:13:00,1.0
+706,707,4/8/2024,B2,Morning (7-9am),SRG,8:15,8:25,Sunny,Dry,Calm,50,https://ebird.org/checklist/S167719859,,-,2024-04-08 08:15:00,2024-04-08 08:25:00,1.0
+707,708,4/8/2024,B3,Morning (7-9am),SRG,8:27,8:37,Sunny,Dry,Calm,51,https://ebird.org/checklist/S167722058,,-,2024-04-08 08:27:00,2024-04-08 08:37:00,1.0
+708,709,4/8/2024,B4,Morning (7-9am),SRG,8:40,8:50,Sunny,Dry,Calm,52,https://ebird.org/checklist/S167724269,,-,2024-04-08 08:40:00,2024-04-08 08:50:00,1.0
+709,710,4/8/2024,B5,Morning (7-9am),SRG,8:52,9:02,Sunny,Dry,Calm,52,https://ebird.org/checklist/S167726479,,-,2024-04-08 08:52:00,2024-04-08 09:02:00,1.0
+710,711,4/8/2024,B6,Morning (7-9am),SRG,9:04,9:14,Sunny,Dry,Calm,53,https://ebird.org/checklist/S167728647,,-,2024-04-08 09:04:00,2024-04-08 09:14:00,1.0
+711,712,4/8/2024,A6,Mid-day (11am-1pm),SRG,11:46,11:56,Sunny,Dry,Calm,62,https://ebird.org/checklist/S167759203,,-,2024-04-08 11:46:00,2024-04-08 11:56:00,1.0
+712,713,4/8/2024,A5,Mid-day (11am-1pm),SRG,11:58,12:08,Sunny,Dry,Calm,63,https://ebird.org/checklist/S167762038,,-,2024-04-08 11:58:00,2024-04-08 12:08:00,1.0
+713,714,4/8/2024,A4,Mid-day (11am-1pm),SRG,12:11,12:21,Sunny,Dry,Calm,63,https://ebird.org/checklist/S167764895,,-,2024-04-08 12:11:00,2024-04-08 12:21:00,1.0
+714,715,4/8/2024,A3,Mid-day (11am-1pm),SRG,12:23,12:33,Sunny,Dry,Calm,64,https://ebird.org/checklist/S167767455,construction,-,2024-04-08 12:23:00,2024-04-08 12:33:00,1.0
+715,716,4/8/2024,A2,Mid-day (11am-1pm),SRG,12:39,12:49,Sunny,Dry,Calm,64,https://ebird.org/checklist/S167771013,construction,-,2024-04-08 12:39:00,2024-04-08 12:49:00,1.0
+716,717,4/8/2024,A1,Mid-day (11am-1pm),SRG,12:52,13:02,Sunny,Dry,Calm,65,https://ebird.org/checklist/S167773394,,-,2024-04-08 12:52:00,2024-04-08 13:02:00,1.0
+717,718,4/8/2024,C1,Evening (3-5pm),SRG,15:29,15:39,Sunny,Dry,Calm,68,https://ebird.org/checklist/S167795967,,-,2024-04-08 15:29:00,2024-04-08 15:39:00,1.0
+718,719,4/8/2024,C2,Evening (3-5pm),SRG,15:41,15:51,Sunny,Dry,Calm,68,https://ebird.org/checklist/S167797414,,-,2024-04-08 15:41:00,2024-04-08 15:51:00,1.0
+719,720,4/8/2024,C3,Evening (3-5pm),SRG,15:53,16:03,Sunny,Dry,Calm,68,https://ebird.org/checklist/S167799261,,-,2024-04-08 15:53:00,2024-04-08 16:03:00,1.0
+720,721,4/8/2024,C4,Evening (3-5pm),SRG,16:07,16:17,Sunny,Dry,Calm,68,https://ebird.org/checklist/S167800959,,-,2024-04-08 16:07:00,2024-04-08 16:17:00,1.0
+721,722,4/8/2024,C5,Evening (3-5pm),SRG,16:19,16:29,Sunny,Dry,Calm,68,https://ebird.org/checklist/S167802795,,-,2024-04-08 16:19:00,2024-04-08 16:29:00,1.0
+722,723,4/8/2024,C6,Evening (3-5pm),SRG,16:33,16:43,Sunny,Dry,Calm,67,https://ebird.org/checklist/S167804645,,-,2024-04-08 16:33:00,2024-04-08 16:43:00,1.0
+723,724,4/14/2024,C1,Morning (7-9am),SRG,7:50,8:00,Sunny,Dry,Calm,44,https://ebird.org/checklist/S168577130,,-,2024-04-14 07:50:00,2024-04-14 08:00:00,0.6666666666666666
+724,725,4/14/2024,C2,Morning (7-9am),SRG,8:02,8:12,Sunny,Dry,Calm,44,https://ebird.org/checklist/S168580027,,-,2024-04-14 08:02:00,2024-04-14 08:12:00,0.6666666666666666
+725,726,4/14/2024,C3,Morning (7-9am),SRG,8:16,8:26,Sunny,Dry,Calm,46,https://ebird.org/checklist/S168583487,,-,2024-04-14 08:16:00,2024-04-14 08:26:00,0.6666666666666666
+726,727,4/14/2024,C4,Morning (7-9am),SRG,8:28,8:38,Sunny,Dry,Calm,47,https://ebird.org/checklist/S168586682,,-,2024-04-14 08:28:00,2024-04-14 08:38:00,0.6666666666666666
+727,728,4/14/2024,C5,Morning (7-9am),SRG,8:41,8:51,Sunny,Dry,Calm,47,https://ebird.org/checklist/S168590170,,-,2024-04-14 08:41:00,2024-04-14 08:51:00,0.6666666666666666
+728,729,4/14/2024,C6,Morning (7-9am),SRG,8:54,9:04,Sunny,Dry,Calm,47,https://ebird.org/checklist/S168593342,,-,2024-04-14 08:54:00,2024-04-14 09:04:00,0.6666666666666666
+729,730,4/14/2024,A1,Mid-day (11am-1pm),SRG,11:34,11:44,Partial Cloudy,Dry,Slight Wind,51,https://ebird.org/checklist/S168628939,,-,2024-04-14 11:34:00,2024-04-14 11:44:00,0.6666666666666666
+730,731,4/14/2024,A2,Mid-day (11am-1pm),SRG,11:46,11:56,Partial Cloudy,Dry,Slight Wind,52,https://ebird.org/checklist/S168631303,,-,2024-04-14 11:46:00,2024-04-14 11:56:00,0.6666666666666666
+731,732,4/14/2024,A3,Mid-day (11am-1pm),SRG,11:58,12:08,Partial Cloudy,Dry,Slight Wind,52,https://ebird.org/checklist/S168633647,,-,2024-04-14 11:58:00,2024-04-14 12:08:00,0.6666666666666666
+732,733,4/14/2024,A4,Mid-day (11am-1pm),SRG,12:10,12:20,Partial Cloudy,Dry,Slight Wind,53,https://ebird.org/checklist/S168635970,,-,2024-04-14 12:10:00,2024-04-14 12:20:00,0.6666666666666666
+733,734,4/14/2024,A5,Mid-day (11am-1pm),SRG,12:27,12:37,Partial Cloudy,Dry,Slight Wind,53,https://ebird.org/checklist/S168638932,,-,2024-04-14 12:27:00,2024-04-14 12:37:00,0.6666666666666666
+734,735,4/14/2024,A6,Mid-day (11am-1pm),SRG,12:41,12:51,Partial Cloudy,Dry,Slight Wind,54,https://ebird.org/checklist/S168641959,,-,2024-04-14 12:41:00,2024-04-14 12:51:00,0.6666666666666666
+741,742,4/19/2024,A1,Mid-day (11am-1pm),LSW,12:11,12:21,Partial Cloudy,Dry,Slight Wind,61,https://ebird.org/checklist/S169333572,,-,2024-04-19 12:11:00,2024-04-19 12:21:00,0.9444444444444444
+742,743,4/19/2024,A2,Mid-day (11am-1pm),LSW,12:23,12:33,Sunny,Dry,Slight Wind,61,https://ebird.org/checklist/S169337451,"powerwashing/construction, couldn't rely on bird call very well",-,2024-04-19 12:23:00,2024-04-19 12:33:00,0.9444444444444444
+743,744,4/19/2024,A3,Mid-day (11am-1pm),LSW,12:38,12:48,Sunny,Dry,Slight Wind,61,https://ebird.org/checklist/S169339435,construction,-,2024-04-19 12:38:00,2024-04-19 12:48:00,0.9444444444444444
+744,745,4/19/2024,A4,Mid-day (11am-1pm),LSW,12:50,13:00,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S169340949,,-,2024-04-19 12:50:00,2024-04-19 13:00:00,0.9444444444444444
+745,746,4/19/2024,A5,Mid-day (11am-1pm),LSW,13:03,13:13,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S169342318,,-,2024-04-19 13:03:00,2024-04-19 13:13:00,0.9444444444444444
+746,747,4/19/2024,B6,Morning (7-9am),JOL,8:05,8:15,Cloudy,Dry,Windy,53,https://ebird.org/checklist/S169298322,,-,2024-04-19 08:05:00,2024-04-19 08:15:00,0.9444444444444444
+747,748,4/19/2024,B5,Morning (7-9am),JOL,8:16,8:26,Cloudy,Dry,Windy,53,https://ebird.org/checklist/S169299982,,-,2024-04-19 08:16:00,2024-04-19 08:26:00,0.9444444444444444
+748,749,4/19/2024,B4,Morning (7-9am),JOL,8:27,8:37,Cloudy,Dry,Windy,53,https://ebird.org/checklist/S169301725,,-,2024-04-19 08:27:00,2024-04-19 08:37:00,0.9444444444444444
+749,750,4/19/2024,B3,Morning (7-9am),JOL,8:38,8:48,Cloudy,Dry,Windy,53,https://ebird.org/checklist/S169303508,,-,2024-04-19 08:38:00,2024-04-19 08:48:00,0.9444444444444444
+750,751,4/19/2024,B2,Morning (7-9am),JOL,8:49,8:59,Cloudy,Dry,Windy,53,https://ebird.org/checklist/S169305058,,-,2024-04-19 08:49:00,2024-04-19 08:59:00,0.9444444444444444
+751,752,4/19/2024,B1,Morning (7-9am),JOL,9:00,9:10,Cloudy,Dry,Windy,53,https://ebird.org/checklist/S169306655,,-,2024-04-19 09:00:00,2024-04-19 09:10:00,0.9444444444444444
+757,758,4/19/2024,C1,Evening (3-5pm),SRG,15:00,15:10,Sunny,Dry,Slight Wind,63,https://ebird.org/checklist/S169357358,,-,2024-04-19 15:00:00,2024-04-19 15:10:00,0.9444444444444444
+758,759,4/19/2024,C2,Evening (3-5pm),SRG,15:12,15:22,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S169358964,,-,2024-04-19 15:12:00,2024-04-19 15:22:00,0.9444444444444444
+759,760,4/19/2024,C3,Evening (3-5pm),SRG,15:24,15:34,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S169360404,,-,2024-04-19 15:24:00,2024-04-19 15:34:00,0.9444444444444444
+760,761,4/19/2024,C4,Evening (3-5pm),SRG,15:37,15:47,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S169362313,,-,2024-04-19 15:37:00,2024-04-19 15:47:00,0.9444444444444444
+761,762,4/19/2024,C5,Evening (3-5pm),SRG,15:50,16:00,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S169363861,,-,2024-04-19 15:50:00,2024-04-19 16:00:00,0.9444444444444444
+762,763,4/19/2024,C6,Evening (3-5pm),SRG,16:04,16:14,Sunny,Dry,Slight Wind,62,https://ebird.org/checklist/S169365563,,-,2024-04-19 16:04:00,2024-04-19 16:14:00,0.9444444444444444
+763,764,4/26/2024,A1,Morning (7-9am),SRG,7:52,8:02,Partial Cloudy,Dry,Slight Wind,53,https://ebird.org/checklist/S170360062,,-,2024-04-26 07:52:00,2024-04-26 08:02:00,0.8888888888888888
+764,765,4/26/2024,A2,Morning (7-9am),SRG,8:06,8:16,Partial Cloudy,Dry,Slight Wind,54,https://ebird.org/checklist/S170362171,,-,2024-04-26 08:06:00,2024-04-26 08:16:00,0.8888888888888888
+765,766,4/26/2024,A3,Morning (7-9am),SRG,8:22,8:32,Partial Cloudy,Dry,Slight Wind,54,https://ebird.org/checklist/S170364767,,-,2024-04-26 08:22:00,2024-04-26 08:32:00,0.8888888888888888
+766,767,4/26/2024,A4,Morning (7-9am),SRG,8:34,8:44,Partial Cloudy,Dry,Slight Wind,55,https://ebird.org/checklist/S170366488,,-,2024-04-26 08:34:00,2024-04-26 08:44:00,0.8888888888888888
+767,768,4/26/2024,A5,Morning (7-9am),SRG,8:46,8:56,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S170368374,,-,2024-04-26 08:46:00,2024-04-26 08:56:00,0.8888888888888888
+768,769,4/26/2024,A6,Morning (7-9am),SRG,8:58,9:08,Partial Cloudy,Dry,Slight Wind,56,https://ebird.org/checklist/S170370309,,-,2024-04-26 08:58:00,2024-04-26 09:08:00,0.8888888888888888
+769,770,4/26/2024,B1,Mid-day (11am-1pm),SRG,11:11,11:21,Partial Cloudy,Dry,Slight Wind,61,https://ebird.org/checklist/S170391220,,-,2024-04-26 11:11:00,2024-04-26 11:21:00,0.8888888888888888
+770,771,4/26/2024,B2,Mid-day (11am-1pm),SRG,11:23,11:33,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S170392920,,-,2024-04-26 11:23:00,2024-04-26 11:33:00,0.8888888888888888
+771,772,4/26/2024,B3,Mid-day (11am-1pm),SRG,11:36,11:46,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S170394920,,-,2024-04-26 11:36:00,2024-04-26 11:46:00,0.8888888888888888
+772,773,4/26/2024,B5,Mid-day (11am-1pm),SRG,11:49,11:59,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S170396717,,-,2024-04-26 11:49:00,2024-04-26 11:59:00,0.8888888888888888
+773,774,4/26/2024,B6,Mid-day (11am-1pm),SRG,12:01,12:11,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S170398444,,-,2024-04-26 12:01:00,2024-04-26 12:11:00,0.8888888888888888
+774,775,4/26/2024,B1,Evening (3-5pm),MTT,15:02,15:12,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S170422962,,-,2024-04-26 15:02:00,2024-04-26 15:12:00,0.8888888888888888
+775,776,4/26/2024,B2,Evening (3-5pm),MTT,15:14,15:24,Partial Cloudy,Dry,Slight Wind,63,https://ebird.org/checklist/S170424551,,-,2024-04-26 15:14:00,2024-04-26 15:24:00,0.8888888888888888
+776,777,4/26/2024,B3,Evening (3-5pm),MTT,15:27,15:37,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S170426271,,-,2024-04-26 15:27:00,2024-04-26 15:37:00,0.8888888888888888
+777,778,4/26/2024,B5,Evening (3-5pm),MTT,15:46,15:56,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S170429064,,-,2024-04-26 15:46:00,2024-04-26 15:56:00,0.8888888888888888
+778,779,4/26/2024,B6,Evening (3-5pm),MTT,16:00,16:10,Partial Cloudy,Dry,Slight Wind,62,https://ebird.org/checklist/S170430943,,-,2024-04-26 16:00:00,2024-04-26 16:10:00,0.8888888888888888
+779,780,4/27/2024,C1,Morning (7-9am),SRG,7:09,7:19,Sunny,Dry,Calm,49,https://ebird.org/checklist/S170515692,,-,2024-04-27 07:09:00,2024-04-27 07:19:00,0.9444444444444444
+780,781,4/27/2024,C2,Morning (7-9am),SRG,7:21,7:31,Sunny,Dry,Calm,49,https://ebird.org/checklist/S170518391,,-,2024-04-27 07:21:00,2024-04-27 07:31:00,0.9444444444444444
+781,782,4/27/2024,C3,Morning (7-9am),SRG,7:35,7:45,Sunny,Dry,Calm,50,https://ebird.org/checklist/S170522512,,-,2024-04-27 07:35:00,2024-04-27 07:45:00,0.9444444444444444
+782,783,4/27/2024,C4,Morning (7-9am),SRG,7:49,7:59,Sunny,Dry,Calm,51,https://ebird.org/checklist/S170525167,,-,2024-04-27 07:49:00,2024-04-27 07:59:00,0.9444444444444444
+783,784,4/27/2024,C5,Morning (7-9am),SRG,8:04,8:14,Sunny,Dry,Calm,52,https://ebird.org/checklist/S170528944,,-,2024-04-27 08:04:00,2024-04-27 08:14:00,0.9444444444444444
+784,785,4/27/2024,C6,Morning (7-9am),SRG,8:19,8:29,Sunny,Dry,Calm,52,https://ebird.org/checklist/S170532433,,-,2024-04-27 08:19:00,2024-04-27 08:29:00,0.9444444444444444
+785,786,4/27/2024,C1,Mid-day (11am-1pm),JOL,11:39,11:49,Sunny,Dry,Calm,64,https://ebird.org/checklist/S170576297,,-,2024-04-27 11:39:00,2024-04-27 11:49:00,0.9444444444444444
+786,787,4/27/2024,C2,Mid-day (11am-1pm),JOL,11:51,12:01,Sunny,Dry,Calm,64,https://ebird.org/checklist/S170578458,,-,2024-04-27 11:51:00,2024-04-27 12:01:00,0.9444444444444444
+787,788,4/27/2024,C3,Mid-day (11am-1pm),JOL,12:02,12:12,Sunny,Dry,Calm,64,https://ebird.org/checklist/S170580552,,-,2024-04-27 12:02:00,2024-04-27 12:12:00,0.9444444444444444
+788,789,4/27/2024,C4,Mid-day (11am-1pm),JOL,12:13,12:23,Sunny,Dry,Calm,64,https://ebird.org/checklist/S170582925,,-,2024-04-27 12:13:00,2024-04-27 12:23:00,0.9444444444444444
+789,790,4/27/2024,C5,Mid-day (11am-1pm),JOL,12:25,12:35,Sunny,Dry,Calm,64,https://ebird.org/checklist/S170585148,,-,2024-04-27 12:25:00,2024-04-27 12:35:00,0.9444444444444444
+790,791,4/27/2024,C6,Mid-day (11am-1pm),JOL,12:41,12:51,Sunny,Dry,Calm,64,https://ebird.org/checklist/S170588018,,-,2024-04-27 12:41:00,2024-04-27 12:51:00,0.9444444444444444
+791,792,4/27/2024,B1,Evening (3-5pm),SRG,15:00,15:10,Sunny,Dry,Calm,66,https://ebird.org/checklist/S170613796,,-,2024-04-27 15:00:00,2024-04-27 15:10:00,0.9444444444444444
+792,793,4/27/2024,B2,Evening (3-5pm),SRG,15:13,15:23,Sunny,Dry,Calm,66,https://ebird.org/checklist/S170615961,,-,2024-04-27 15:13:00,2024-04-27 15:23:00,0.9444444444444444
+793,794,4/27/2024,B3,Evening (3-5pm),SRG,15:26,15:36,Sunny,Dry,Calm,66,https://ebird.org/checklist/S170618001,,-,2024-04-27 15:26:00,2024-04-27 15:36:00,0.9444444444444444
+794,795,4/27/2024,B5,Evening (3-5pm),SRG,15:40,15:50,Sunny,Dry,Calm,66,https://ebird.org/checklist/S170620948,,-,2024-04-27 15:40:00,2024-04-27 15:50:00,0.9444444444444444
+795,796,4/27/2024,B6,Evening (3-5pm),SRG,15:54,16:04,Sunny,Dry,Calm,66,https://ebird.org/checklist/S170622806,,-,2024-04-27 15:54:00,2024-04-27 16:04:00,0.9444444444444444
