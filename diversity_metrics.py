@@ -2,7 +2,7 @@ import numpy as np
 import pandas
 import scipy
 
-TOTAL_DAYS = 50 # The total number of survey days. Hard-coded.
+TOTAL_DAYS = 51 # The total number of survey days. Hard-coded.
 
 # Possible: measure of abundance more closely related to actual bird count?
 # These methods use the "Point Count Species" data
@@ -15,8 +15,8 @@ def abundance_days_seen(data, species):
         data: the data containing bird species and their counts
         species: the species for which we want to find abundance
     """
-    species_subset = data[data['Species' == species]]
-    return species_subset['Date'].unique()
+    species_subset = data[data['Species'] == species]
+    return len(species_subset['Date'].unique())
 
 def frequency_days_seen(data, species):
     """
