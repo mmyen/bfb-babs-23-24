@@ -2,7 +2,7 @@ import numpy as np
 import pandas
 import scipy
 
-TOTAL_DAYS = 51 # The total number of survey days. Hard-coded.
+TOTAL_DAYS = 50 # The total number of survey days. Hard-coded.
 
 # Possible: measure of abundance more closely related to actual bird count?
 # These methods use the "Point Count Species" data
@@ -38,9 +38,10 @@ def simpson_diversity(data, date):
         data: the data containing bird species and their counts
         date: the date for which we want to calculate Simpson diversity
     """
-    counts_from_date = data[data['Date'] == date]
+    counts_from_date = data[data['Date'] == date][['Species', '# Individuals']]
     date_species_groups = counts_from_date.groupby("Species").agg(sum)
-    N = np.sum(date_species_groups["# Individuals"])
+
+    N = np.sum(counts_from_date["# Individuals"])
 
     # Helper function.
     def _summation_term(n):
@@ -58,12 +59,12 @@ def shannon_diversity(data, date):
         data: the data containing bird species and their counts
         date: the date for which we want to calculate Simpson diversity
     """
-    counts_from_date = data[data['Date'] == date]
+    counts_from_date = data[data['Date'] == date][['Species', '# Individuals']]
     date_species_groups = counts_from_date.groupby("Species").agg(sum)
 
-    N = np.sum(date_species_groups["# Individuals"])
+    N = np.sum(counts_from_date["# Individuals"])
 
-    date_species_groups['shannon_props'] = date_species_groups[['# individuals']]/N
+    date_species_groups['shannon_props'] = date_species_groups[['# Individuals']]/N
     return scipy.stats.entropy(pk = date_species_groups["shannon_props"])
 
 # Alpha Diversity

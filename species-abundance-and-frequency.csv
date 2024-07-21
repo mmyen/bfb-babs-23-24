@@ -1,76 +1,100 @@
 ,Species,Abundance,Frequency
-0,accipiter_genus,3,0.058823529411764705
-1,accipitridae_family,2,0.0392156862745098
-2,allen's hummingbird,1,0.0196078431372549
-3,american crow,51,1.0
-4,american goldfinch,1,0.0196078431372549
-5,american robin,49,0.9607843137254902
-6,american white pelican,1,0.0196078431372549
-7,anna's hummingbird,51,1.0
-8,band-tailed pigeon,3,0.058823529411764705
-9,bewick's wren,39,0.7647058823529411
-10,black phoebe,37,0.7254901960784313
-11,brown creeper,39,0.7647058823529411
-12,brown-headed cowbird,3,0.058823529411764705
-13,bushtit,37,0.7254901960784313
-14,buteo_genus,3,0.058823529411764705
-15,california gull,11,0.21568627450980393
-16,california scrub-jay,6,0.11764705882352941
-17,california towhee,46,0.9019607843137255
-18,cedar waxwing,24,0.47058823529411764
-19,chestnut-backed chickadee,51,1.0
-20,cliff swallow,1,0.0196078431372549
-21,columbidae_family,1,0.0196078431372549
-22,common raven,40,0.7843137254901961
-23,cooper's hawk,4,0.0784313725490196
-24,corvidae_family,1,0.0196078431372549
-25,dark-eyed junco,50,0.9803921568627451
-26,downy woodpecker,12,0.23529411764705882
-27,falco_genus,1,0.0196078431372549
-28,fox sparrow,1,0.0196078431372549
-29,fringillidae_family,4,0.0784313725490196
-30,golden-crowned kinglet,2,0.0392156862745098
-31,golden-crowned sparrow,16,0.3137254901960784
-32,hairy woodpecker,6,0.11764705882352941
-33,hermit thrush,22,0.43137254901960786
-34,hirundinidae_family,3,0.058823529411764705
-35,house finch,48,0.9411764705882353
-36,hutton's vireo,6,0.11764705882352941
-37,larus_genus,39,0.7647058823529411
-38,lesser goldfinch,40,0.7843137254901961
-39,mourning dove,2,0.0392156862745098
-40,northern flicker,1,0.0196078431372549
-41,nuttall's woodpecker,29,0.5686274509803921
-42,oak titmouse,47,0.9215686274509803
-43,orange-crowned warbler,2,0.0392156862745098
-44,paridae_family,6,0.11764705882352941
-45,parulidae_family,13,0.2549019607843137
-46,peregrine falcon,36,0.7058823529411765
-47,picidae_family,13,0.2549019607843137
-48,pine siskin,31,0.6078431372549019
-49,red-breasted nuthatch,33,0.6470588235294118
-50,red-shouldered hawk,33,0.6470588235294118
-51,red-tailed hawk,14,0.27450980392156865
-52,ring-billed gull,4,0.0784313725490196
-53,rock pigeon,42,0.8235294117647058
-54,ruby-crowned kinglet,39,0.7647058823529411
-55,setophaga_genus,1,0.0196078431372549
-56,sharp-shinned hawk,1,0.0196078431372549
-57,sitta_genus,2,0.0392156862745098
-58,song sparrow,42,0.8235294117647058
-59,spinus_genus,1,0.0196078431372549
-60,spotted towhee,17,0.3333333333333333
-61,steller's jay,29,0.5686274509803921
-62,townsend's warbler,40,0.7843137254901961
-63,trochilidae_family,3,0.058823529411764705
-64,turkey vulture,16,0.3137254901960784
-65,violet-green swallow,1,0.0196078431372549
-66,western flycatcher,2,0.0392156862745098
-67,western gull,4,0.0784313725490196
-68,white-crowned sparrow,10,0.19607843137254902
-69,white-throated sparrow,6,0.11764705882352941
-70,white-throated swift,3,0.058823529411764705
-71,wild turkey,1,0.0196078431372549
-72,wilson's warbler,1,0.0196078431372549
-73,yellow-rumped warbler,42,0.8235294117647058
-74,zonotrichia_genus,3,0.058823529411764705
+0,"""bird of prey"" sp.",1,0.02
+1,accipiter sp,1,0.02
+2,accipiter sp.,1,0.02
+3,allen's hummingbird,1,0.02
+4,american crow,50,1.0
+5,american goldfinch,1,0.02
+6,american robin,47,0.94
+7,american white pelican,1,0.02
+8,anna's hummingbird,49,0.98
+9,band-tailed pigeon,3,0.06
+10,bewick's wren,39,0.78
+11,bird sp.,2,0.04
+12,black phoebe,36,0.72
+13,brown creeper,39,0.78
+14,brown-headed cowbird,3,0.06
+15,bushtit,37,0.74
+16,buteo sp,1,0.02
+17,buteo sp.,2,0.04
+18,california gull,11,0.22
+19,california scrub-jay,4,0.08
+20,california towhee,46,0.92
+21,cassin's vireo**,1,0.02
+22,cedar waxwing,23,0.46
+23,chestnut-backed chickadee,50,1.0
+24,cliff swallow,1,0.02
+25,common raven,37,0.74
+26,cooper's hawk,4,0.08
+27,dark-eyed junco,48,0.96
+28,downy woodpecker,11,0.22
+29,falcon sp.,1,0.02
+30,finch sp.,3,0.06
+31,fox sparrow,1,0.02
+32,golden-crowned kinglet,2,0.04
+33,golden-crowned sparrow,11,0.22
+34,golden-crowned sparrrow,5,0.1
+35,goose sp.,1,0.02
+36,gull sp,6,0.12
+37,gull sp.,31,0.62
+38,hairy woodpecker,5,0.1
+39,hawk sp.,2,0.04
+40,hermit thrush,22,0.44
+41,house finch,47,0.94
+42,hummingbird sp,1,0.02
+43,hummingbird sp.,1,0.02
+44,hutton's vireo,6,0.12
+45,jay sp.,1,0.02
+46,larus sp.,1,0.02
+47,lesser goldfinch,40,0.8
+48,maybe a kinglet???,1,0.02
+49,mourning dove,2,0.04
+50,northern flicker,1,0.02
+51,nuthatch sp.,1,0.02
+52,nuttal's woodpecker,8,0.16
+53,nuttall's woodpecker,21,0.42
+54,oak titmouse,45,0.9
+55,oak titmouse ,1,0.02
+56,orange-crowned warbler,2,0.04
+57,parid sp.,4,0.08
+58,passerid sp.,6,0.12
+59,passerid sp. ,1,0.02
+60,passerine sp.,9,0.18
+61,passerine sp. ,4,0.08
+62,peregrine falcon,33,0.66
+63,pigeon/dove sp.,1,0.02
+64,pine siskin,31,0.62
+65,red-breasted nuthatch,32,0.64
+66,red-shouldered hawk,32,0.64
+67,red-tailed hawk,13,0.26
+68,ring-billed gull,3,0.06
+69,robin/woodpecker,1,0.02
+70,rock pigeon,42,0.84
+71,ruby-crowned kinglet,37,0.74
+72,setophaga sp.,1,0.02
+73,sharp-shinned hawk,1,0.02
+74,sharp-shinned/cooper's hawk,1,0.02
+75,song sparrow,41,0.82
+76,sparrow sp.,3,0.06
+77,spinus sp.,1,0.02
+78,spotted towhee,16,0.32
+79,steller's jay,27,0.54
+80,swallow sp.,2,0.04
+81,swallow sp. ,1,0.02
+82,townsend's warbler,36,0.72
+83,townsend's warbler ,3,0.06
+84,turkey vulture,15,0.3
+85,violet-green swallow,1,0.02
+86,warbler sp,1,0.02
+87,warbler sp.,13,0.26
+88,western flycatcher,2,0.04
+89,western gull,4,0.08
+90,white-crowned sparrow,9,0.18
+91,white-throated sparrow,4,0.08
+92,white-throated swift,3,0.06
+93,wild turkey,1,0.02
+94,wilson's warbler,1,0.02
+95,woodpecker sp,1,0.02
+96,woodpecker sp.,12,0.24
+97,yellow-rumped warbler,41,0.82
+98,zonotrichia sp.,3,0.06
