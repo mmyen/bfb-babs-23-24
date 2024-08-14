@@ -1,8 +1,8 @@
 import numpy as np
-import pandas
 import scipy
 
 TOTAL_DAYS = 50 # The total number of survey days. Hard-coded.
+TOTAL_VALID_DAYS = 46 # The total number of valid survey days, as defined in data-cleaning.ipynb. Hard-coded.
 
 # Possible: measure of abundance more closely related to actual bird count?
 # These methods use the "Point Count Species" data
@@ -20,14 +20,15 @@ def abundance_days_seen(data, species):
 
 def frequency_days_seen(data, species):
     """
-    Calculate frequency measured in abundance divided by total number of survey days.
+    Calculate frequency measured in abundance divided by total number 
+    of valid survey days.
 
     Parameters:
         data: the data containing bird species and their counts
         species: the species for which we want to find abundance
     """
     abundance = abundance_days_seen(data, species)
-    return abundance / TOTAL_DAYS
+    return abundance / TOTAL_VALID_DAYS
 
 def simpson_diversity(data, date):
     """
