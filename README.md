@@ -1,4 +1,4 @@
-HEAVY WORK IN PROGRESS.
+ACTIVE WORK IN PROGRESS. The following is a placeholder README; a detailed README will be available at conclusion of research.
 
 OBJECTIVE: Use point count data from UC Berkeley to measure temporal changes in avian biodiversity.
 
